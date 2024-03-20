@@ -6,7 +6,7 @@ var jw = {"file":"'",
           "link":"https:\/\/tv0800.zip",
           "logo":"",
           "auto":"true",
-          "text":"DooPlay Theme WordPress",
+          "text":"JBF-TV",
           "lposi":"bottom-left",
           "flash":"https:\/\/tv0800.zip\/wp-content\/themes\/dooplay\/assets\/jwplayer\/jwplayer.flash.swf"}
 const player = jwplayer('player').setup({image: jw.image,mute: false,volume: 25,autostart: jw.auto,repeat: false,abouttext: jw.text,aboutlink: jw.link,skin: {active: jw.color
