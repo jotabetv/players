@@ -1,4 +1,4 @@
-var video = document.getElementById('player');
+var jw = document.getElementById('player');
 
 var jw = {"file":"'",
           "image":null,
