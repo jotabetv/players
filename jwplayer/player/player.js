@@ -1,6 +1,6 @@
 var jw = document.getElementById('player');
 
-var jw = {"file":"'",
+var jw = {"file":".m3u8",
           "image":null,
           "color":"#0008ff",
           "link":"https://tv0800.zip",
