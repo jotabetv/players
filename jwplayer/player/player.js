@@ -5,7 +5,7 @@ var jw = {"file":"'",
           "color":"0008ff"",
           "link":"https://tv0800.zip",
           "logo":"",
-          "auto":"true",
+          "autostart":"true",
           "text":"JBF-TV",
           "lposi":"bottom-left",
           "flash":"https://tv0800.zip/wp-content/themes/dooplay/assets/jwplayer/jwplayer.flash.swf"}
@@ -20,4 +20,3 @@ url = url[1];
 sources = { file: url };
 jwplayer().load(sources);
 jwplayer().play(true);
-jwplayer().start(true);
