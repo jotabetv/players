@@ -10,7 +10,7 @@ playerInstance.setup({
 }],
     autostart: true,
     mute: false,
-    color: "0008ff",
+    color: "00BFFF",
     controls: true,
     aspectratio: "16:9",
     stretching: "exactfit",      //uniform|fill|exactfit|bestfit|none
