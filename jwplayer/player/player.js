@@ -5,7 +5,7 @@ var jw = {"file":"'",
           "color":"0008ff"",
           "link":"https://tv0800.zip",
           "logo":"",
-          "autostart":"true",
+          "auto":"true",
           "text":"JBF-TV",
           "lposi":"bottom-left",
           "flash":"https://tv0800.zip/wp-content/themes/dooplay/assets/jwplayer/jwplayer.flash.swf"}
