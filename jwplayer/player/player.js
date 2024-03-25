@@ -6,11 +6,11 @@ playerInstance.setup({
         file: "https://jbftv.m3u8",
         image: "http://assets-jp.jwpsrv.com/thumbs/3XnJSIm4-640.jpg",
         title: "Sintel Trailer",
-        color: "0008ff",
         description: "Sintel is a fantasy CGI movie from the Blender Open Movie Project."
 }],
     autostart: true,
     mute: false,
+    color: "0008ff",
     controls: true,
     aspectratio: "16:9",
     stretching: "exactfit",      //uniform|fill|exactfit|bestfit|none
