@@ -2,7 +2,7 @@ var jw = document.getElementById('player');
 
 var jw = {"file":"'",
           "image":null,
-          "color":"#0008ff",
+          "color":"#ff0000",
           "link":"https://tv0800.zip",
           "logo":"",
           "auto":"true",
