@@ -20,4 +20,4 @@ url = url[1];
 sources = { file: url };
 jwplayer().load(sources);
 jwplayer().play(true);
-jwplayer().play(autostart);
+jwplayer().start(true);
