@@ -2,7 +2,7 @@ var jw = document.getElementById('player');
 
 var jw = {"file":"'",
           "image":null,
-          "color":"#ff0000",
+          "color":"0008ff"",
           "link":"https://tv0800.zip",
           "logo":"",
           "auto":"true",
@@ -20,3 +20,4 @@ url = url[1];
 sources = { file: url };
 jwplayer().load(sources);
 jwplayer().play(true);
+jwplayer().autostart(true);
