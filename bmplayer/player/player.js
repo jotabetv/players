@@ -18,7 +18,8 @@ var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
-source.url = newurl;
+source = {url:newurl};
+alert(url);
 source.load();
 source.play();
 
