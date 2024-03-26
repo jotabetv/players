@@ -19,7 +19,9 @@ newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = {url:newurl};
-window.bradmax.player().load(source);
-window.bradmax.player().play(true);
+//window.bradmax.player().load(source);
+//window.bradmax.player().play(true);
 
-
+function Loadplay(newurl) {
+       parent.player.location.href=newurl 
+} 
