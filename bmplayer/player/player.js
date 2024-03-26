@@ -4,7 +4,7 @@ var config = {
         "autoplay": true,
         dataProvider: {
             source: [
-                { url: "newurl" }
+                { url: "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8" }
             ]
         }
     };
@@ -15,12 +15,13 @@ var config = {
     /** create player */
     var player = window.bradmax.player.create(element, config);
 var newurl = window.location.href;
-newurl = newurl.split('?source=');
+newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = { url: newurl };
 player().load(newurl);
 player().play(true);
+
 
 
 
