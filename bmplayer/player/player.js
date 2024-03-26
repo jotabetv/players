@@ -1,10 +1,7 @@
 var video = document.getElementById('player');
 
 var config = {
-        
-        "id": "List",
-        "title": "Evangélico",
-        "autoplay": false,
+        "autoplay": true,
         dataProvider: {
             source: [
                 { url: "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8" }
@@ -23,6 +20,6 @@ newurl = newurl[1];
 alert(newurl);
 source = {url:newurl};
 window.bradmax.player.create(element, config).loadVideoByUrl(source);
-window.bradmax.player.create(element, config).play(true);
+window.bradmax.player.create(element, config).onPlay(true);
 
 
