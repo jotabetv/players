@@ -21,7 +21,7 @@ alert(newurl);
 source = { url: newurl };
 //player().load(source);
 //player().play(true);
-player.playerDelegate = newurl;
+player.playerDelegate = self;
 [player load];
 
 
