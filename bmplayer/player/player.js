@@ -14,6 +14,7 @@ var config = {
 
     /** create player */
     var player = window.bradmax.player.create(element, config);
+    var jsapi = player.api;
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
@@ -27,8 +28,9 @@ var config = {
     };
 //source = { url: newurl };
 alert(newurl);
-window.bradmax.player.create(element, config).loadVideoByUrl(source);
-window.bradmax.player.create(element, config).play(true);
+
+jsapi.add("VideoEvent.playing", onPlay);
+jsapi.play(true);
 
 
             
