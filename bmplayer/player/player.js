@@ -13,7 +13,7 @@ var config = {
     var element = document.getElementById("player");
 
     /** create player */
-    var player = window.bradmax.player.create(element, media);
+    var player = window.bradmax.player.create(element, config);
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
