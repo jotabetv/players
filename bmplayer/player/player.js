@@ -4,7 +4,7 @@ var config = {
         
         "id": "List",
         "title": "Evangélico",
-        "autoplay": true,
+        "autoplay": false,
         dataProvider: {
             source: [
                 { url: "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8" }
