@@ -22,10 +22,7 @@ newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = {url:newurl};
-//window.bradmax.player().load(source);
-//window.bradmax.player().play(true);
+window.bradmax.player.create(element, config).load(source);
+window.bradmax.player.create(element, config).play(true);
 
-function Loadplay(newurl) {
-       parent.List.location.href=newurl 
-} 
-Loadplay = window.location.href;
+
