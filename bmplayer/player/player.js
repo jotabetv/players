@@ -22,7 +22,7 @@ newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = {url:newurl};
-window.bradmax.player.create(element, config).load(source);
+window.bradmax.player.create(element, config).loadVideoByUrl(source);
 window.bradmax.player.create(element, config).play(true);
 
 
