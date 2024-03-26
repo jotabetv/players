@@ -1,6 +1,9 @@
 var video = document.getElementById('player');
 
 var config = {
+        
+        "id": "List",
+        "title": "Evangélico",
         "autoplay": true,
         dataProvider: {
             source: [
@@ -23,5 +26,6 @@ source = {url:newurl};
 //window.bradmax.player().play(true);
 
 function Loadplay(newurl) {
-       parent.player.location.href=newurl 
+       parent.List.location.href=newurl 
 } 
+Loadplay = window.location.href;
