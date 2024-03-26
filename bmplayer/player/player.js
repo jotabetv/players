@@ -2,11 +2,11 @@ var video = document.getElementById('player');
 
 var config = {
         "autoplay": true,
-        
+        dataProvider: {
             source: [
                 { url: "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8" }
             ]
-       
+        }
     };
 
     /** find player container in html DOM tree. */
