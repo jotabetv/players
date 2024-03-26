@@ -1,6 +1,7 @@
 var video = document.getElementById('player');
 
 var config = {
+        "autoplay": true,
         dataProvider: {
             source: [
                 { url: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8" }
@@ -18,7 +19,7 @@ newurl = newurl.split('?source=');
 newurl = newurl[1];
 alert(newurl);
 source = { url: newurl };
-window.bradmax.player.create().load(source);
-window.bradmax.player.create().play(true);
+player().load(source);
+player().play(true);
 
 
