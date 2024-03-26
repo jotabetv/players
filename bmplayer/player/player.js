@@ -26,9 +26,9 @@ var config = {
         }
     };
 //source = { url: newurl };
-alert(url);
-//player().load(source);
-//player().play(true);
+alert(newurl);
+player().load(source);
+player().play(true);
 
 
             
