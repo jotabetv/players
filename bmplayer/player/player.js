@@ -4,7 +4,7 @@ var config = {
         "autoplay": true,
         dataProvider: {
             source: [
-                { url: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8" }
+                { url: "newurl" }
             ]
         }
     };
@@ -19,9 +19,8 @@ newurl = newurl.split('?source=');
 newurl = newurl[1];
 alert(newurl);
 source = { url: newurl };
-//player().load(source);
-//player().play(true);
-player.playerDelegate = self;
-[player load];
+player().load(newurl);
+player().play(true);
+
 
 
