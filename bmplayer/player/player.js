@@ -26,10 +26,10 @@ var config = {
             ]
         }
     };
-//source = { url: newurl };
+source = { url: newurl };
 alert(newurl);
 
-jsapi.add("VideoEvent.playing", onPlay);
+jsapi.add("newurl", onPlay);
 jsapi.play(true);
 
 
