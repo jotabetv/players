@@ -27,8 +27,8 @@ var config = {
     };
 //source = { url: newurl };
 alert(newurl);
-player().load(source);
-player().play(true);
+window.bradmax.player.create(element, config).loadVideoByUrl(source);
+window.bradmax.player.create(element, config).play(true);
 
 
             
