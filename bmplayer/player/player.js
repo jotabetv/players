@@ -17,12 +17,11 @@ var config = {
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
+//alert(newurl);
+source = { url: newurl };
 alert(newurl);
-source = {url:newurl};
-alert(url);
-source.load();
-source.play();
-
+config().load(source);
+config().play(true);
 //source = {url:newurl};
 //window.bradmax.player.create(element, config).loadVideoByUrl(source);
 //window.bradmax.player.create(element, config).onPlay(true);
