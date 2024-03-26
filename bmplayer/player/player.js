@@ -19,7 +19,14 @@ var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 //alert(newurl);
-source = { url: newurl };
+var config = {
+        dataProvider: {
+                source: [
+                        { url: newurl }
+                          ]
+        }
+    };
+
 alert(newurl);
 jsapi.add(newurl, onPlay);
 jsapi.play(true);
