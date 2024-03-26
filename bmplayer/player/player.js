@@ -19,7 +19,9 @@ newurl = newurl.split('?source=');
 newurl = newurl[1];
 alert(newurl);
 source = { url: newurl };
-player().load(source);
-player().play(true);
+//player().load(source);
+//player().play(true);
+player.playerDelegate = newurl;
+[player load];
 
 
