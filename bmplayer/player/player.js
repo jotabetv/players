@@ -13,17 +13,13 @@ var config = {
     var element = document.getElementById("player");
 
     /** create player */
-    var player = window.bradmax.player.create(element, config);
+    var player = window.bradmax.player.create(element, media);
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = {url:newurl};
-//window.bradmax.player().load(newurl);
-//window.bradmax.player().play(true);
-[newWithMediaSource=newurl];
-player.playerConfig.subtitles = @"cz";
-player.playerDelegate = self;
-[player load];
+window.bradmax.player().load(source);
+window.bradmax.player().play(true);
 
 
