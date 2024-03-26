@@ -18,7 +18,7 @@ newurl = newurl.split('?source=');
 newurl = newurl[1];
 alert(newurl);
 source = { url: newurl };
-bradmax.player().load(source);
-bradmax.player().play(true);
+window.bradmax.player.create().load(source);
+window.bradmax.player.create().play(true);
 
 
