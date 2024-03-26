@@ -19,9 +19,11 @@ newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
 source = [{url:newurl}];
-window.bradmax.player().load(newurl);
-window.bradmax.player().play(true);
-
-
+//window.bradmax.player().load(newurl);
+//window.bradmax.player().play(true);
+BPSMMedia *m1 = [BPSMMedia newWithMediaSource:@"newurl"];
+player.playerConfig.subtitles = @"cz";
+player.playerDelegate = self;
+[player load];
 
 
