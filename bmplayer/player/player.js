@@ -26,8 +26,8 @@ var config = {
      var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-source = { url: newurl };
-alert(newurl);      
+source = { url: alert(newurl };
+//alert(newurl);      
 var element = document.getElementById("player");
  var player = window.bradmax.player.create(element, config);
 //alert(newurl);
