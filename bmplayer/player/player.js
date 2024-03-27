@@ -35,7 +35,7 @@ source = { url: newurl };
 
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
-}
+//}
 //window.onload = myFunc; 
 //window.bradmaxutil.config
 //source = {url:newurl};
@@ -47,4 +47,6 @@ source = { url: newurl };
 
 //var body = document.body;
 //body.insertAdjacentHTML('beforeend', button); 
-
+window.addEventListener("click", function(event) {
+    document.getElementById("up").play();
+    alert("k");
