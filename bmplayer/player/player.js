@@ -14,24 +14,24 @@ var video = document.getElementById('player');
 
     /** create player */
   //  var player = window.bradmax.player.create(element, config);
-    var config = {
-        dataProvider: {
-            source: [
-                { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
-            ]
-        }
-    };
-var element = document.getElementById("player");
-var player = window.bradmax.player.create(element, config);
+   // var config = {
+      //  dataProvider: {
+          //  source: [
+              //  { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
+          //  ]
+      //  }
+ //   };
+//var element = document.getElementById("player");
+//var player = window.bradmax.player.create(element, config);
   //function myFunc(){
 
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-sources = { url: newurl };
-jwplayer.load(sources);
-var source = sources;
-source = [{url:newurl}];
+//sources = { url: newurl };
+//jwplayer.load(sources);
+//var source = sources;
+//source = [{url:newurl}];
 //dataProvider:{source:[{url:newurl}]};
 
 
