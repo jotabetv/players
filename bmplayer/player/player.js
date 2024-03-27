@@ -27,9 +27,9 @@ jsapi.play(true);
     var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-//alert(newurl);
-source = { url : newurl };
 alert(newurl);
+source = { url : newurl };
+//alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
 }
 window.onload = myFunc; 
