@@ -1,28 +1,28 @@
 var video = document.getElementById('player');
 
-var config = {
-        "autoplay": true,
-        dataProvider: {
-            source: [
-                { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
-            ]
-        }
-    };
+//var config = {
+       // "autoplay": true,
+       // dataProvider: {
+           // source: [
+             //   { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
+           // ]
+       // }
+  //  };
 
     /** find player container in html DOM tree. */
   //  var element = document.getElementById("player");
 
     /** create player */
   //  var player = window.bradmax.player.create(element, config);
-    
-  function myFunc(){
-var config = {
+    var config = {
         dataProvider: {
             source: [
                 { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
             ]
         }
     };
+  function myFunc(){
+
      var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
