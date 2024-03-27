@@ -55,3 +55,22 @@ source = [{url:newurl}];
 //window.addEventListener("click", function(event) {
    // document.getElementById("up").play();
    // alert("k");
+
+function bradmaxPlayerInit_66047ea6e78ca() {
+			var bradmaxPlayerConfig_66047ea6e78ca = {"dataProvider":{"source":[{"url":"https:\/\/stream.live.novotempo.com\/tv\/smil:tvnovotempo.smil\/playlist.m3u8"}]},"autoplay":true};
+			var element = document.getElementById("bradmax-player-66047ea6e78ca");
+			var player = window.bradmax.player.create(element, bradmaxPlayerConfig_66047ea6e78ca);
+			// Back compability.
+			if(!window.player) {
+				window.player = player;
+			}
+		}
+		if(window.bradmax && window.bradmax.player) {
+			bradmaxPlayerInit_66047ea6e78ca();
+		} else {
+			window.addEventListener('load', bradmaxPlayerInit_66047ea6e78ca);
+		}
+
+
+//function bradmaxPlayerInit_66047ea6e78ef() { var bradmaxPlayerConfig_66047ea6e78ef = {"dataProvider":{"source":[{"url":"https:\/\/grabserberg.ch\/wp-content\/uploads\/2021\/05\/20210501-annatina-it-zagreb-cro.mp4"}]},"autoplay":true}; var element = document.getElementById("bradmax-player-66047ea6e78ef"); var player = window.bradmax.player.create(element, bradmaxPlayerConfig_66047ea6e78ef); // Back compability. if(!window.player) { window.player = player; } } if(window.bradmax && window.bradmax.player) { bradmaxPlayerInit_66047ea6e78ef(); } else { window.addEventListener('load', bradmaxPlayerInit_66047ea6e78ef); }
+
