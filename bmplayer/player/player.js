@@ -19,7 +19,7 @@ var config = {
 var config = {
         dataProvider: {
             source: [
-                { url: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8" }
+                { url: 'newurl' }
             ]
         }
     };
