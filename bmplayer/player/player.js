@@ -19,13 +19,14 @@ var config = {
 var config = {
         dataProvider: {
             source: [
-                { url: 'newurl' }
+                { url: newurl }
             ]
         }
     };
      var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
+newurl = url;     
 alert(newurl);      
 var element = document.getElementById("player");
  var player = window.bradmax.player.create(element, config);
