@@ -10,10 +10,10 @@ var config = {
     };
 
     /** find player container in html DOM tree. */
-    var element = document.getElementById("player");
+  //  var element = document.getElementById("player");
 
     /** create player */
-    var player = window.bradmax.player.create(element, config);
+  //  var player = window.bradmax.player.create(element, config);
     
   function myFunc(){
     var newurl = window.location.href;
