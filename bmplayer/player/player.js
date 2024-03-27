@@ -28,6 +28,7 @@ var player = window.bradmax.player.create(element, config);
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
+{dataProvider:{source:[{url:newurl}]}};
 source = { url: newurl };
 var source = sources;
 jwplayer.load(sources);
