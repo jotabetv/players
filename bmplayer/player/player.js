@@ -32,14 +32,9 @@ body.insertAdjacentHTML('beforeend', button);
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 //alert(newurl);
-var config = {
-        dataProvider: {
-                source: [
-                        { url: newurl }
-                          ]
-        }
-    };
+source = { url : newurl };
 alert(newurl);
+// Aqui vai o codigo que vai rodar antes da pagina ser carregada...
 }
 window.onload = myFunc; 
 
