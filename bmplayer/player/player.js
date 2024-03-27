@@ -20,12 +20,16 @@ var config = {
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
-var source = document.createElement('source');
-        source.url = url;
-               source = { url: newurl }
+var media = {
+        dataProvider: {
+            source: [
+                { url: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8" }
+            ]
+        }
+    };
            
-          var media = document.getElementById("player");
- var player = window.bradmax.player.create(media, source);
+          var newlink = document.getElementById("player");
+ var player = window.bradmax.player.create(newlink, media);
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
 }
