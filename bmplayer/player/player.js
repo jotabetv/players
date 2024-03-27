@@ -19,14 +19,15 @@ var config = {
 var config = {
         dataProvider: {
             source: [
-                { url: newurl }
+                { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
             ]
         }
     };
      var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-newurl = url;     
+newurl = url; 
+source = { url: newurl };
 alert(newurl);      
 var element = document.getElementById("player");
  var player = window.bradmax.player.create(element, config);
