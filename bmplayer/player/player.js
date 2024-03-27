@@ -16,10 +16,6 @@ var config = {
   //  var player = window.bradmax.player.create(element, config);
     
   function myFunc(){
-    var newurl = window.location.href;
-newurl = newurl.split('?src=');
-newurl = newurl[1];
-alert(newurl);
 var config = {
         dataProvider: {
             source: [
@@ -27,8 +23,11 @@ var config = {
             ]
         }
     };
-           
-          var element = document.getElementById("player");
+     var newurl = window.location.href;
+newurl = newurl.split('?src=');
+newurl = newurl[1];
+alert(newurl);      
+var element = document.getElementById("player");
  var player = window.bradmax.player.create(element, config);
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
