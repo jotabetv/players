@@ -14,15 +14,7 @@ var config = {
 
     /** create player */
     var player = window.bradmax.player.create(element, config);
-    var jsapi = player.api;
-
-
-jsapi.add(newurl, onPlay);
-jsapi.play(true);
-
-
-          
-
+    
   function myFunc(){
     var newurl = window.location.href;
 newurl = newurl.split('?src=');
