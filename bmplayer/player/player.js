@@ -29,8 +29,8 @@ var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 source = { url: newurl };
-jwplayer().load(source);
-jwplayer().play(true);
+window.bradmaxutil.load(source);
+window.bradmaxutil().play(true);
 //alert(newurl);      
 
 //alert(newurl);
