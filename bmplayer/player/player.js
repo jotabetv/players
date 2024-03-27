@@ -30,6 +30,7 @@ newurl = newurl.split('?src=');
 newurl = newurl[1];
 source = [{ url: newurl }];
 window.bradmax.load(source);
+window.bradmax().play(true);
 //alert(newurl);      
 
 //alert(newurl);
