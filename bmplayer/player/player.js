@@ -28,10 +28,11 @@ var player = window.bradmax.player.create(element, config);
 var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-var source = sources;
+sources = { url: newurl };
+//var source = sources;
 jwplayer.load(sources);
 dataProvider:{source:[{url:newurl}]};
-source = { url: newurl };
+
 
 //jwplayer().play(true);
 //alert(newurl);      
