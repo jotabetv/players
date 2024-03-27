@@ -29,9 +29,10 @@ var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 sources = { url: newurl };
-//var source = sources;
 jwplayer.load(sources);
-dataProvider:{source:[{url:newurl}]};
+var source = sources;
+source = [{url:newurl}];
+//dataProvider:{source:[{url:newurl}]};
 
 
 //jwplayer().play(true);
