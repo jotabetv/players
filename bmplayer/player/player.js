@@ -25,9 +25,9 @@ var video = document.getElementById('player');
 //var player = window.bradmax.player.create(element, config);
   //function myFunc(){
 
-var newurl = window.location.href;
-newurl = newurl.split('?src=');
-newurl = newurl[1];
+//var newurl = window.location.href;
+//newurl = newurl.split('?src=');
+//newurl = newurl[1];
 //sources = { url: newurl };
 //jwplayer.load(sources);
 //var source = sources;
@@ -72,5 +72,5 @@ function bradmaxPlayerInit_66047ea6e78ca() {
 		}
 
 
-//function bradmaxPlayerInit_66047ea6e78ef() { var bradmaxPlayerConfig_66047ea6e78ef = {"dataProvider":{"source":[{"url":"https:\/\/grabserberg.ch\/wp-content\/uploads\/2021\/05\/20210501-annatina-it-zagreb-cro.mp4"}]},"autoplay":true}; var element = document.getElementById("bradmax-player-66047ea6e78ef"); var player = window.bradmax.player.create(element, bradmaxPlayerConfig_66047ea6e78ef); // Back compability. if(!window.player) { window.player = player; } } if(window.bradmax && window.bradmax.player) { bradmaxPlayerInit_66047ea6e78ef(); } else { window.addEventListener('load', bradmaxPlayerInit_66047ea6e78ef); }
+
 
