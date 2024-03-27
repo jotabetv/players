@@ -4,7 +4,7 @@ var config = {
         "autoplay": true,
         dataProvider: {
             source: [
-                { url: "http://tv.mapfibra.com.br:8555/live/1496/123456/19.m3u8" }
+                { url: "http://tv.mapfibra.com.br/live/1496/123456/19.m3u8" }
             ]
         }
     };
