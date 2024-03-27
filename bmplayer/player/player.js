@@ -47,6 +47,6 @@ jwplayer().play(true);
 
 //var body = document.body;
 //body.insertAdjacentHTML('beforeend', button); 
-window.addEventListener("click", function(event) {
-    document.getElementById("up").play();
-    alert("k");
+//window.addEventListener("click", function(event) {
+   // document.getElementById("up").play();
+   // alert("k");
