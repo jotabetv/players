@@ -32,7 +32,11 @@ jsapi.add(newurl, onPlay);
 jsapi.play(true);
 
 
-            
+   function alerta() { alert('ok'); }
+var button = "<button type='button' onclick='alerta();'>start</button>";
+
+var body = document.body;
+body.insertAdjacentHTML('beforeend', button);         
 
    
 
