@@ -21,20 +21,20 @@ var video = document.getElementById('player');
             ]
         }
     };
-  function myFunc(){
+  //function myFunc(){
 
-     var newurl = window.location.href;
+var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 source = [{ url: newurl }];
-
+window.bradmaxutil.load(source);
 //alert(newurl);      
 var element = document.getElementById("player");
- var player = window.bradmax.player.create(element, config);
+ var player = window.bradmaxutil.player.create(element, config);
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
 }
-window.onload = myFunc; 
+//window.onload = myFunc; 
 //window.bradmaxutil.config
 //source = {url:newurl};
 //window.bradmax.player.create(element, config).loadVideoByUrl(source);
