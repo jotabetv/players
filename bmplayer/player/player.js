@@ -4,7 +4,7 @@ var config = {
         "autoplay": true,
         dataProvider: {
             source: [
-                { url: "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8" }
+                { url: "http://tv.mapfibra.com.br:8555/live/1496/123456/19.m3u8" }
             ]
         }
     };
