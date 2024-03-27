@@ -26,7 +26,6 @@ var config = {
      var newurl = window.location.href;
 newurl = newurl.split('?src=');
 newurl = newurl[1];
-newurl = url; 
 source = { url: newurl };
 alert(newurl);      
 var element = document.getElementById("player");
