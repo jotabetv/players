@@ -20,14 +20,14 @@ var config = {
 newurl = newurl.split('?src=');
 newurl = newurl[1];
 alert(newurl);
-var config = {      
+var media = {      
         dataProvider: {
             source: [
                 { url: newurl }
             ]
         }
     };
- var player = window.bradmax.player.create(element, config);
+ var player = window.bradmax.player.create(element, media);
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
 }
