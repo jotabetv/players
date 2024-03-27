@@ -23,10 +23,11 @@ alert(newurl);
 var media = {      
         dataProvider: {
             source: [
-                { url: newurl }
+                { url: 'newurl' }
             ]
         }
     };
+          var media = document.getElementById("player");
  var player = window.bradmax.player.create(element, media);
 //alert(newurl);
 // Aqui vai o codigo que vai rodar antes da pagina ser carregada...
