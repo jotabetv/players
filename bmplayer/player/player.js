@@ -15,19 +15,8 @@ var config = {
     /** create player */
     var player = window.bradmax.player.create(element, config);
     var jsapi = player.api;
-var newurl = window.location.href;
-newurl = newurl.split('?src=');
-newurl = newurl[1];
-//alert(newurl);
-var config = {
-        dataProvider: {
-                source: [
-                        { url: newurl }
-                          ]
-        }
-    };
 
-alert(newurl);
+
 jsapi.add(newurl, onPlay);
 jsapi.play(true);
 
@@ -38,7 +27,21 @@ var button = "<button type='button' onclick='alerta();'>start</button>";
 var body = document.body;
 body.insertAdjacentHTML('beforeend', button);         
 
-   
+  function myFunc(){
+    var newurl = window.location.href;
+newurl = newurl.split('?src=');
+newurl = newurl[1];
+//alert(newurl);
+var config = {
+        dataProvider: {
+                source: [
+                        { url: newurl }
+                          ]
+        }
+    };
+alert(newurl);
+}
+window.onload = myFunc; 
 
 //source = {url:newurl};
 //window.bradmax.player.create(element, config).loadVideoByUrl(source);
