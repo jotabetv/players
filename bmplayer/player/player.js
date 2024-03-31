@@ -58,7 +58,7 @@ var video = document.getElementById('player');
 
 function bradmaxPlayerInit_66047ea6e78ca() {
 			var bradmaxPlayerConfig_66047ea6e78ca = {"dataProvider":{"source":[{"url":"https:\/\/stream.live.novotempo.com\/tv\/smil:tvnovotempo.smil\/playlist.m3u8"}]},"autoplay":true};
-			var element = document.getElementById("bradmax-player-66047ea6e78ca");
+			var element = document.getElementById("player");
 			var player = window.bradmax.player.create(element, bradmaxPlayerConfig_66047ea6e78ca);
 			// Back compability.
 			if(!window.player) {
