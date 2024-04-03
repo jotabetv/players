@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 
+Copyright (c) 2024 Pierleeb
+SPDX-License-Identifier: MIT
+-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ssl.p.jwpcdn.com/player/v/8.21.0/jwplayer.js"></script>
+<script> jwplayer.key = 'ITWMv7t88JGzI0xPwW8I0+LveiXX9SWbfdmt0ArUSyc='; </script>
+<script src="mousetrap.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="styles.css">
+<title>M3U8 Player</title>
+</head>
+<body>
+<div class="video-container">
+<div id="player" style="width: 840; height: 480;"></div>
+</div>
+<div class="controls-container">
+<form onsubmit="setLink();return false">
+<input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" title="Cole ou digite o url do áudio ou vídeo">
+<p><input type="text" placeholder="Link da imagem aqui" id="input1" title="Cole ou digite o link da imagem"></p>
+<p><input type="text" placeholder="Título do canal aqui " id="input2" title="Cole ou digite o título do canal"></p>
+<button type="submit" id="bto" title="Clic para inserir o canal">Inserir Canal</button>
+<a href="#" onclick="next()" title="Próximo">⏯️</a>
+</form>
+</div>
+<script src="player.js"></script>
+</body>
+</html>
