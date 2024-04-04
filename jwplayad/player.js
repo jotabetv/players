@@ -17,7 +17,7 @@ playlist: [{
     aspectratio: "16:9",
     stretching: "exactfit",      //uniform|fill|exactfit|bestfit|none
     type: "hls",
-    primary:"flash",
+    primary: "flash",
     repeat: true,
     height: '480',
     width: '840',
@@ -28,7 +28,7 @@ playlist: [{
           });
 
 function setLink() {
-let m3u8Player = document.getElementById("m3u8Player")
+    let m3u8Player = document.getElementById("m3u8Player")
     let Input = document.getElementById("Input")
     let inputText = input.value
     let Input1 = document.getElementById("Input1")
