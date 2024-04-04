@@ -6,10 +6,10 @@ var jw = document.getElementById('player');
 var playerInstance = jwplayer("player");
 playerInstance.setup({
 playlist: [{
-        file: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
-        image: "https://elielmedeiros.files.wordpress.com/2014/04/tv-novo-tempo-ao-vivo-small.jpg",
-        title: "TV Novo Tempo",
-        description: "O Canal da Esperança!"
+        file: ".m3u8",
+        image: "https://imagem.natelinha.uol.com.br/original/5-emissoras-logo_eda9a984911a03a687f473e5711706ca959183e5.jpeg",
+        title: "JBF-TV",
+        description: "Todos os Canais em um só Lugar!"
 }],
     autostart: false,
     mute: false,
