@@ -6,7 +6,7 @@ var jw = document.getElementById('player');
 var playerInstance = jwplayer("player");
 playerInstance.setup({
 playlist: [{
-        file: "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+        file: ".m3u8",
         image: "https://imagem.natelinha.uol.com.br/original/5-emissoras-logo_eda9a984911a03a687f473e5711706ca959183e5.jpeg",
         title: "JBF-TV",
         description: "Todos os Canais em um só Lugar!"
