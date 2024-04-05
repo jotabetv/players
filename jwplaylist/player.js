@@ -56,7 +56,12 @@ function setLink() {
             jwplayer().seek(curpos);
         });
     }
+    
 alert('Canal ' + input2.value + ' inserido com sucesso!');
+
+input.value = '',
+input1.value = '',
+input2.value = ''
 }
 
 function next() {
