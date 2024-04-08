@@ -28,6 +28,13 @@ playlist: [{
           });
 
 function setLink() {
+    var input = document.form.input;
+    var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        input.focus();
+        return false;
+}else {
     let m3u8Player = document.getElementById("m3u8Player")
     let Input = document.getElementById("Input")
     let inputText = input.value  
@@ -56,8 +63,9 @@ function setLink() {
             jwplayer().seek(curpos);
         });
     }
-    
-alert('Canal ' + input2.value + ' inserido com sucesso!');
+}
+
+window.alert('Canal ' + input2.value + ' inserido com sucesso!');
 
 input.value = '',
 input1.value = '',
