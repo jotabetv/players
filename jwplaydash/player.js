@@ -31,6 +31,23 @@ playlist: [{
           });
 
 function setLink() {
+    var input = document.form.input;
+    var inputText = input.value; 
+if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+	input.focus();
+	return false;
+}
+if (input2.value == ""){
+	window.alert("ID key do vídeo ou áudio é obrigatório!");
+	input2.focus();
+	return false;
+}
+if (input3.value == ""){
+	window.alert("Key do vídeo ou áudio é obrigatório!");
+	input3.focus();
+	return false;
+}else {
     let m3u8Player = document.getElementById("m3u8Player")
     let Input = document.getElementById("Input")
     let inputText = input.value
@@ -53,7 +70,7 @@ function setLink() {
 jwplayer().load(playlist);
 //jwplayer().play();
 
-alert('Canal ' + input4.value + ' inserido com sucesso!');
+window.alert('Canal ' + input4.value + ' inserido com sucesso!');
 
 input.value = '',
 input1.value = '',
@@ -61,6 +78,7 @@ input2.value = '',
 input3.value = '',
 input4.value = ''
   }
+}
 
 function next() {
 let player = document.getElementById("player")
