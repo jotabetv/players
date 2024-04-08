@@ -32,7 +32,6 @@ input{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     border-radius: 5px 5px 5px 5px;
     font-size: 16px;
-    text-align: center;
     width: 400px;
     height: 35px;
 }
@@ -51,6 +50,24 @@ textarea:focus, input:focus, select:focus {
  
 button {
     padding: 12px 20px;
+    background-color: #2E8B57;
+    color: white;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    width: 100px;
+}
+
+button:hover {
+    background-color: #9ACD32;
+    color: #0000CD;
+}
+
+button2 {
+    padding: 12px 20px;
     background-color: #4CAF50;
     color: white;
     border: none;
@@ -59,9 +76,11 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    width: 130px;
+    width: 40px;
+    height: 60px;
 }
 
-button:hover {
+button2:hover {
     background-color: #00FF00;
+    color: #0000CD;
 }
