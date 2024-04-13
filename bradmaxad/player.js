@@ -24,6 +24,10 @@ alert(n);
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 
 
+
+
+}
+function play() {
 // Back compability.
 	if(!window.player) {
 	window.player = player;
@@ -35,8 +39,4 @@ alert(n);
 
 	} else {
 window.addEventListener('load', setLink);
-
 }
-//function clean() {
-//window.location.reload(true);
-//}
