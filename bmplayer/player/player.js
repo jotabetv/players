@@ -1,8 +1,9 @@
-function setLink() {	 
+function play() {	 
 let m3u8Player = document.getElementById("m3u8Player");
-let url = window.location.href;
-let url = url.split('?source=');
-let url = n;
+let Input = document.getElementById("m3u8-placeholder");
+let inputText = input.value;
+let url = input.value;
+let n = input.value;
 let source = [{ url: n }];          
 alert(n);
 
@@ -10,12 +11,5 @@ alert(n);
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("m3u8Player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
-if(!window.player) {
-				window.player = player;
-			}
-		}
-		if(window.bradmax && window.bradmax.player) {
-			setLink();
-		} else {
-			window.addEventListener('load', setLink);
+
 }
