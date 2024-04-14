@@ -40,3 +40,4 @@ function play() {
 	} else {
 window.addEventListener('load', setLink);
 }
+window.onload = function () { alert("Está carregado!") } 
