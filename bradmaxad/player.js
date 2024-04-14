@@ -29,7 +29,7 @@ alert(n);
 }
 
 }
-function play() {
+function playin() {
 // Back compability.
 	if(!window.player) {
 	window.player = player;
@@ -43,3 +43,14 @@ function play() {
 window.addEventListener('load', setLink);
 }
 window.onload = function () { alert("Está carregado!") } 
+function play() {
+var input = document.form.input;
+    var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        input.focus();
+        return false;
+}else {
+	    window.addEventListener('load', setLink);
+	    //window.onload = function () { alert("Está carregado!") }
+    }
