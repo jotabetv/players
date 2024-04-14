@@ -32,5 +32,5 @@ alert(n);
 
 function play() {
 //window.addEventListener('load', setLink);
-	input.value = ''
+	//input.value = ''
 }
