@@ -31,6 +31,6 @@ alert(n);
 }
 
 function play() {
-window.addEventListener('load', setLink);
+//window.addEventListener('load', setLink);
 	input.value = ''
 }
