@@ -10,6 +10,7 @@ var input = document.form.input;
         input.focus();
         return false;
 }else {
+	    window.location.reload();
 let m3u8Player = document.getElementById("m3u8Player");
 let Input = document.getElementById("Input");
 let inputText = input.value;
@@ -26,8 +27,9 @@ alert(n);
   // Seu código JavaScript aqui
 //};
 }
-let n = "";
+
 }
+input.value
 function play() {
 window.addEventListener('load', setLink);
 }
