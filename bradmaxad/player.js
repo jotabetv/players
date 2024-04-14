@@ -10,7 +10,7 @@ var input = document.form.input;
         input.focus();
         return false;
 }else {
-	window.addEventListener('load', setLink);
+	let source = [{ url: "" }];
 let m3u8Player = document.getElementById("m3u8Player");
 let Input = document.getElementById("Input");
 let inputText = input.value;
