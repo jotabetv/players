@@ -29,7 +29,8 @@ alert(n);
 }
 
 }
-input.value = ''
+
 function play() {
 window.addEventListener('load', setLink);
+	input.value = ''
 }
