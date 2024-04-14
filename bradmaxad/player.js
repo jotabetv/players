@@ -28,5 +28,5 @@ alert(n);
 }
 }
 function play() {
-	    window.location.reload(true);
+	    var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 }
