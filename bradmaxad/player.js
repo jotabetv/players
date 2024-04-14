@@ -10,8 +10,6 @@ var input = document.form.input;
         input.focus();
         return false;
 }else {
-	    window.onload = function() {
-  // Seu código JavaScript aqui
 
 let m3u8Player = document.getElementById("m3u8Player");
 let Input = document.getElementById("Input");
@@ -25,8 +23,9 @@ alert(n);
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("m3u8Player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
-
-};
+//window.onload = function() {
+  // Seu código JavaScript aqui
+//};
 }
 
 }
