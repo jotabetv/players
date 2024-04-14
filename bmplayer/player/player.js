@@ -1,11 +1,11 @@
 function play() {	 
 var m3u8Player = document.getElementById("m3u8Player");
-var Input = document.getElementById("m3u8-placeholder");
 var url = window.location.href;
-url = url.split('?source=');
-url = n;
-var source = [{ url: n }];          
+var url = url.split('?source=');
+var url = n;
 alert(n);
+var source = [{ url: n }];          
+
 
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
