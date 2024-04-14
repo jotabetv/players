@@ -25,9 +25,9 @@ alert(n);
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("m3u8Player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
-}
-};
 
+};
+}
 
 }
 function play() {
