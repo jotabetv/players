@@ -29,7 +29,7 @@ alert(n);
 }
 
 }
-input.value
+input.value = ''
 function play() {
 window.addEventListener('load', setLink);
 }
