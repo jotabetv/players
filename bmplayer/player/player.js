@@ -1,4 +1,4 @@
-function play() {	    
+    
 let m3u8Player = document.getElementById("m3u8Player");
 let window.location.href;
 let url.split('?source=');
@@ -13,4 +13,4 @@ alert(n);
 //window.onload = function() {
   // Seu código JavaScript aqui
 //};
-}
+
