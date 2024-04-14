@@ -1,4 +1,4 @@
-function setLink() {	    
+function play() {	    
 let m3u8Player = document.getElementById("m3u8Player");
 let window.location.href;
 let url.split('?source=');
