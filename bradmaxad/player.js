@@ -8,6 +8,7 @@ var input = document.form.input;
     if (input.value == ""){
 	window.alert("Url do vídeo ou áudio é obrigatório!");
         input.focus();
+	    window.location.reload(false);
         return false;
 }else {
 
