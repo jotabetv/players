@@ -31,6 +31,6 @@ alert(n);
 }
 
 function play() {
-window.addEventListener('load', setLink);
+window.location.reload(true);
 	input.value = ''
 }
