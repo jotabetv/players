@@ -1,10 +1,10 @@
 function play() {	 
-let m3u8Player = document.getElementById("m3u8Player");
-let Input = document.getElementById("m3u8-placeholder");
-let inputText = input.value;
-let url = input.value;
-let n = input.value;
-let source = [{ url: n }];          
+var m3u8Player = document.getElementById("m3u8Player");
+var Input = document.getElementById("m3u8-placeholder");
+var url = window.location.href;
+url = url.split('?source=');
+url = n;
+var source = [{ url: n }];          
 alert(n);
 
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
