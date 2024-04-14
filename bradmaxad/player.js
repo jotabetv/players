@@ -15,7 +15,6 @@ let m3u8Player = document.getElementById("m3u8Player");
 let Input = document.getElementById("Input");
 let inputText = input.value;
 let url = input.value;
-	    let n = "";
 let n = input.value;
 let source = [{ url: n }];          
 alert(n);
@@ -35,7 +34,6 @@ function play() {
 let Input = document.getElementById("Input");
 let inputText = input.value;
 let url = input.value;
-	    let n = "";
 let n = input.value;
 let source = [{ url: n }];          
 alert(n);
