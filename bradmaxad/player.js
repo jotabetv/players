@@ -30,7 +30,13 @@ alert(n);
 
 }
 function play() {
-	window.location.reload(setLink)
-	  
+	if(!window.player) {
+	window.player = player;
+		}
+}
+	if(window.bradmax && window.bradmax.player) {
+		setLink();
 
+	} else {
+window.addEventListener('load', setLink);
 }
