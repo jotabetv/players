@@ -26,9 +26,9 @@ SPDX-License-Identifier: MIT
 </div>
 <script type="text/javascript">
 function setLink() {	
-//var m3u8Player = document.getElementById("m3u8Player");
-var url = window.location.href;
-var url = url.split('?source=');
+var m3u8Player = document.getElementById("m3u8Player");
+var input = window.location.href;
+var n = input.split('?source=');
 var url = n;
 alert(url);
 
