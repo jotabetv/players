@@ -1,5 +1,5 @@
 //function setLink() {	
-	document.onload(funcaoPaginaCarregada())
+	document.onload(funcaoPaginaCarregada(m3u8Player))
 function funcaoPaginaCarregada() {
 var m3u8Player = document.getElementById("m3u8Player");
 var url = window.location.href;
