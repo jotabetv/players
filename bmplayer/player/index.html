@@ -28,9 +28,9 @@ SPDX-License-Identifier: MIT
 function setLink() {	
 var m3u8Player = document.getElementById("m3u8Player");
 var newurl = window.location.href;
-var n = newurl.split('?source=');
-var url = n;
-alert(url);
+n = newurl.split('?source=');
+ url = n[1];
+alert(n);
 
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
