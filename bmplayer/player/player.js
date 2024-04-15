@@ -1,10 +1,10 @@
 function setLink() {	 
 var m3u8Player = document.getElementById("m3u8Player");
 var url = window.location.href;
-var url = url.split('?source=');
-var url = n;
+url = url.split('?source=');
+url = n;
 alert(n);
-var source = [{ url: n }];          
+//var source = [{ url: n }];          
 
 
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
