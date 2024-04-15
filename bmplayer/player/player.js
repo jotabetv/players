@@ -3,9 +3,13 @@
 */
 function setLink() {	
 var m3u8Player = document.getElementById("m3u8Player");
-var newurl = window.location.href;
-n = newurl.split('jotabetv');
- url = n[1];
+var url = window.location.href;
+url = url.split('?source=');
+url = url[1];
+url = n;
+//var newurl = window.location.href;
+//n = newurl.split('jotabetv');
+ //url = n[1];
 alert(n);
 
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
