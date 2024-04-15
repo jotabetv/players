@@ -13,13 +13,13 @@ alert(n);
 	var element = document.getElementById("m3u8Player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 
-	if(!window.player) {
-				window.player = player;
-			}
-		}
-		if(window.bradmax && window.bradmax.player) {
-			setLink();
-		} else {
-			window.addEventListener('load', setLink);
+	//if(!window.player) {
+				//window.player = player;
+			//}
+		//}
+		//if(window.bradmax && window.bradmax.player) {
+			//setLink();
+		//} else {
+			//window.addEventListener('load', setLink);
 //}
 });
