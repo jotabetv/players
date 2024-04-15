@@ -4,7 +4,7 @@
 function setLink() {	
 var m3u8Player = document.getElementById("m3u8Player");
 var newurl = window.location.href;
-n = newurl.split('?source=');
+n = newurl.split('jotabetv');
  url = n[1];
 alert(n);
 
