@@ -19,7 +19,7 @@ let n = input.value;
 let source = [{ url: n }];          
 alert(n);
 var surl = window.location.href;
-surl = surl.split('?source=');
+surl = surl.split('-source:');
 surl = surl[1];
 alert(surl);
 
