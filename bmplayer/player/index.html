@@ -21,11 +21,11 @@ SPDX-License-Identifier: MIT
 <input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" title="Cole ou digite o url do áudio ou vídeo">
 <button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
 <button2 type="button" onclick="setLink()" title="Click para iniciar reprodução">▶📀</button2>
-	<button onclick="setLink()">Clique aqui</button>
+	<button onclick="play-btn()">Clique aqui</button>
 </form>
 </div>
 <script type="text/javascript">
-function setLink() {	
+function play-btn() {	
 //var m3u8Player = document.getElementById("m3u8Player");
 var url = window.location.href;
 var url = url.split('?source=');
@@ -43,10 +43,10 @@ alert(url);
 		}
 	}
 	if(window.bradmax && window.bradmax.player) {
-		setLink();
+		play-btn();
 		//input.value = "";
 	} else {
-window.addEventListener('load', setLink);
+window.addEventListener('load', play-btn);
 }
 </script>
 </body>
