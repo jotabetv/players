@@ -18,11 +18,6 @@ let url = input.value;
 let n = input.value;
 let source = [{ url: n }];          
 alert(n);
-var surl = window.location.href;
-surl = surl.split('jotabetv');
-surl = surl[1];
-alert(surl);
-
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("m3u8Player");
