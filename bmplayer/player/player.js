@@ -26,7 +26,7 @@
 //window.location.reload();
 	//}
 //}
-$(window).on("load", function(){
+//$(window).on("load", function(){
    // página totalmente carregada (DOM, imagens etc.)
 
 //function setLink() {	
@@ -36,6 +36,10 @@ $(window).on("load", function(){
        // input.focus();
        // return false;
 //}else {
+	    document.onload(funcaoPaginaCarregada())
+function funcaoPaginaCarregada() {
+// coloca o que a função vai fazer após a página ser carregada
+
 var m3u8Player = document.getElementById("m3u8Player");
 //let Input = document.getElementById("Input");
 var url = window.location.href;
@@ -58,5 +62,5 @@ alert(n);
 	} else {
 window.addEventListener('load', setLink);
 		alert('Seu tempo acabou!! Tente novamente!!');
-});
+}
 
