@@ -11,6 +11,15 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
 */
+	    function showSubmit() {
+  document.getElementById('submit-btn').style.display = 'block';
+}
+
+setTimeout(showSubmit, 2000);
+
+#submit-btn {
+  display: none;
+}
 //function refresh(){
 //var input = document.form.input;
 //var inputText = input.value;
