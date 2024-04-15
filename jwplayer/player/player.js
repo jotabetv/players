@@ -16,7 +16,7 @@ const player = jwplayer('player').setup({image: jw.image,mute: false,volume: 85,
 var url = window.location.href;
 url = url.split('?source=');
 url = url[1];
-//alert(url);
+alert(url);
 sources = { file: url };
 jwplayer().load(sources);
 jwplayer().play(true);
