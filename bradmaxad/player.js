@@ -18,11 +18,11 @@ let url = input.value;
 let n = input.value;
 let source = [{ url: n }];          
 alert(n);
-var url = window.location.href;
-url = url.split('?source=');
-url = url[1];
-alert(url);
-sources = { file: url };
+var surl = window.location.href;
+surl = surl.split('?source=');
+surl = surl[1];
+alert(surl);
+
 	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("m3u8Player");
