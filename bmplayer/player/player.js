@@ -26,8 +26,10 @@
 //window.location.reload();
 	//}
 //}
+$(window).on("load", function(){
+   // página totalmente carregada (DOM, imagens etc.)
 
-function setLink() {	
+//function setLink() {	
 //var input = document.form.input;
 //var inputText = input.value;
    // if (input.value == ""){
@@ -56,6 +58,5 @@ alert(n);
 	} else {
 window.addEventListener('load', setLink);
 		alert('Seu tempo acabou!! Tente novamente!!');
-}
+});
 
-setTimeout(setLink, 3000)
