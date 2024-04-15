@@ -1,4 +1,5 @@
-function setLink() {	 
+//function setLink() {	
+	$(window).on("load", function(){
 var m3u8Player = document.getElementById("m3u8Player");
 var url = window.location.href;
 url = url.split('?source=');
@@ -20,4 +21,5 @@ alert(n);
 			setLink();
 		} else {
 			window.addEventListener('load', setLink);
-}
+//}
+});
