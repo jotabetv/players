@@ -1,7 +1,7 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
 */
-function setLink() {	
+//function setLink() {	
 var m3u8Player = document.getElementById("m3u8Player");
 var newurl = window.location.href;
 n = newurl.split('?source=');
@@ -23,4 +23,4 @@ alert(n);
 		//input.value = "";
 	//} else {
 //window.addEventListener('load', setLink);
-}
+//}
