@@ -36,8 +36,8 @@
        // input.focus();
        // return false;
 //}else {
-	    document.onload(funcaoPaginaCarregada())
-function funcaoPaginaCarregada() {
+	    document.onload(minhafunc())
+function minhafunc() {
 // coloca o que a função vai fazer após a página ser carregada
 
 var m3u8Player = document.getElementById("m3u8Player");
