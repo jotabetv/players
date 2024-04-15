@@ -11,15 +11,10 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
 */
-	    function showSubmit() {
-  document.getElementById('submit-btn').style.display = 'block';
-}
-
-setTimeout(showSubmit, 2000);
-
-#submit-btn {
-  display: none;
-}
+	 //  function setLinko() {
+//alert('Seu tempo acabou!! Tente novamente!!');
+//}
+//setTimeout(setLink, 3000)
 //function refresh(){
 //var input = document.form.input;
 //var inputText = input.value;
@@ -60,4 +55,7 @@ alert(n);
 		//input.value = "";
 	} else {
 window.addEventListener('load', setLink);
+		alert('Seu tempo acabou!! Tente novamente!!');
 }
+
+setTimeout(setLink, 3000)
