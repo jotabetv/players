@@ -1,34 +1,52 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" data-cast-api-enabled="true">
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex">
-<title>JBF-TV Player M3U8 Running...</title>
-<style type="text/css" media="all"> html,
-body{padding: 0;
-     margin: 0;
-     height: 100%
-    }
-#player{width: 100%!important;
-        height: 100%!important;
-        overflow: hidden;
-        background-color: #000
-    }
-</style>
-     <!--      
-<script src="https://code.jquery.com/jquery-3.2.1.min.js" 
-integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" 
-crossorigin="anonymous"></script>
-     -->
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script src="mousetrap.min.js" charset="utf-8"></script>
+<!-- 
+Copyright (c) 2024 Pierleeb
+SPDX-License-Identifier: MIT
+-->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script src="https://bradmax.com/client/files/player-js/f9519c295d7c2c3b76fb55d06423171f1c689119_10029/bradmax_player.js" type="text/javascript"></script>
-</head> 
-     <!--
-<body class="bradmaxplayer">
-     -->
-     <body onLoad="minhafunc();">
-<div id="m3u8Player" style="width: 840px; height: 480px;"></div>
-<script src="player.js"></script>
+<script src="mousetrap.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="styles.css">
+<title>bradmax player external json example</title>
+</head>
+<body>
+<div class="video-container">
+    <div id="m3u8Player" style="width: 840px; height: 480px; background: #1C1C1C;"></div>
+</div>
+<div class="controls-container">
+<form onsubmit="setLink();return false" name="form">
+<input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" title="Cole ou digite o url do áudio ou vídeo">
+<button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
+<button2 type="button" onclick="setLink()" title="Click para iniciar reprodução">▶📀</button2>
+</form>
+</div>
+<script type="text/javascript">
+function setLink() {	
+var m3u8Player = document.getElementById("m3u8Player");
+var url = window.location.href;
+var url = url.split('?source=');
+var url = n;
+alert(url);
+
+	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
+	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
+	var element = document.getElementById("m3u8Player");
+	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
+
+// Back compability.
+	if(!window.player) {
+	window.player = player;
+		}
+	}
+	if(window.bradmax && window.bradmax.player) {
+		setLink();
+		//input.value = "";
+	} else {
+window.addEventListener('load', setLink);
+}
+</script>
 </body>
 </html>
