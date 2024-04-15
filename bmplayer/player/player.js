@@ -1,7 +1,7 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
 */
-function setLink() {	
+function Linkado() {	
 var m3u8Player = document.getElementById("m3u8Player");
 
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
@@ -15,10 +15,10 @@ var m3u8Player = document.getElementById("m3u8Player");
 		}
 	}
 	if(window.bradmax && window.bradmax.player) {
-		setLink();
+		Linkado();
 		//input.value = "";
 	} else {
-window.addEventListener('load', setLink);
+window.addEventListener('load', Linkado);
 		
 //var newurl = window.location.href;
 //n = newurl.split('?source=');
