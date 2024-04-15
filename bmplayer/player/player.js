@@ -14,13 +14,13 @@ alert(n);
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 
 // Back compability.
-	if(!window.player) {
-	window.player = player;
-		}
-	}
-	if(window.bradmax && window.bradmax.player) {
-		setLink();
+	//if(!window.player) {
+	//window.player = player;
+		//}
+	//}
+	//if(window.bradmax && window.bradmax.player) {
+		//setLink();
 		//input.value = "";
-	} else {
-window.addEventListener('load', setLink);
+	//} else {
+//window.addEventListener('load', setLink);
 //}
