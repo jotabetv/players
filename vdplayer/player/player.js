@@ -1,6 +1,7 @@
 /*
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
+    JBF-TV Player RS/BA
 */
 var video = document.getElementById('video');
 
