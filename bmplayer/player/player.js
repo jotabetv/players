@@ -1,6 +1,7 @@
 /*
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
+    JBF-TV Player RS/BA
 */
 function setLink() {	
 var m3u8Player = document.getElementById("player");
