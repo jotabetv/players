@@ -2,7 +2,7 @@ function setLink() {
 var m3u8Player = document.getElementById("player");
 var n = window.location.href;
 n = n.split('?source=');
-//n = n[1];
+n = n[1];
 alert(n);
 	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
