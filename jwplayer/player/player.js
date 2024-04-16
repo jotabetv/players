@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2024 Pierleeb
+    SPDX-License-Identifier: MIT
+*/
 var jw = document.getElementById('player');
 
 var jw = {"file": "'",
