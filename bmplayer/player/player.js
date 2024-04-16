@@ -3,6 +3,7 @@
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
 */
+
 function setLink() {	
 var m3u8Player = document.getElementById("player");
 var n = window.location.href;
