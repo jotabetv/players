@@ -23,13 +23,13 @@ var inputText = input.value;
         input.focus();
         return false;
 }else {
-let m3u8Player = document.getElementById("m3u8Player");
+let JbPlayer = document.getElementById("JbPlayer");
 let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;
 	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
-	var element = document.getElementById("m3u8Player");
+	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 }
 // Back compability.
