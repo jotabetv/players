@@ -1,7 +1,7 @@
 /*
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
-    JBF-TV Player RS/BA
+    JBF-TV Player - R.Santana/BA
 */
 var jw = document.getElementById('player');
 
