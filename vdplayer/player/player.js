@@ -4,7 +4,7 @@
     JBF-TV Player - R.Santana/BA
 */
 
-var video = document.getElementById('video');
+var video = document.getElementById('JbPlayer');
 
 function playM3u8(url){
   if(Hls.isSupported()) {
