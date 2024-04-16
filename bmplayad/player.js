@@ -3,6 +3,7 @@
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
 */
+
 function refresh(){
 var input = document.form.input;
 var inputText = input.value;
