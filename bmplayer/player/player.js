@@ -2,9 +2,9 @@ function setLink() {
 var m3u8Player = document.getElementById("player");
 var n = window.location.href;
 n = n.split('?source=');
-n = n[1];
+//n = n[1];
 alert(n);
-	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
+	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
