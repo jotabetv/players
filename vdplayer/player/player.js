@@ -1,3 +1,7 @@
+/*
+    Copyright (c) 2024 Pierleeb
+    SPDX-License-Identifier: MIT
+*/
 var video = document.getElementById('video');
 
 function playM3u8(url){
