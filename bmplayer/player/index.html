@@ -25,47 +25,5 @@ crossorigin="anonymous"></script>
 <body class="bmplayer">
 <div id="player" style="width: 840px; height: 480px; background: #1C1C1C;"></div>
 <script src="player.js"></script>
-	<!-- 
-	<div class="video-container">
-    
-</div>
-<div class="controls-container">
-<form onsubmit="setLink();return false" name="form">
-<input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" title="Cole ou digite o url do áudio ou vídeo">
-<button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
-<button2 type="button" onclick="setLink()" title="Click para iniciar reprodução">▶📀</button2>
-	<button onclick="Linkado()">Clique aqui</button>
-</form>
-</div>
-	 --> 
-
-	<!--
-<script type="text/javascript">
-function Linkado() {	
-var m3u8Player = document.getElementById("player");
-
-var n = window.location.href;
-n = n.split('?source=');
-n = n[1];
-alert(n);
-
-	//var bradmaxPlayerConfig = {dataProvider:{source:[{url:"https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"}]},autoplay:true};
-	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
-	var element = document.getElementById("player");
-	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
-
-// Back compability.
-	if(!window.player) {
-	window.player = player;
-		}
-	}
-	if(window.bradmax && window.bradmax.player) {
-		Linkado();
-		//input.value = "";
-	} else {
-window.addEventListener('load', Linkado);
-}
-	</script>
-	-->
 </body>
 </html>
