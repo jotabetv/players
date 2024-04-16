@@ -1,3 +1,8 @@
+/*
+    Copyright (c) 2024 Pierleeb
+    SPDX-License-Identifier: MIT
+    JBF-TV Player - R.Santana/BA
+*/
 $(window).on('load', function () {
     $('#m3u8-placeholder')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play-btn').on('click', function () {
