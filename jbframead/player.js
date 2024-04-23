@@ -21,5 +21,16 @@ var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
 }
 
 function play(){
-document.getElementsByTagName("iframe")[0].className = "fullScreen";
+//document.getElementsByTagName("iframe")[0].className = "fullScreen";
+    var iframe = document.querySelector('#jb_player');
+    // Do fullscreen
+    if (iframe.requestFullscreen) {
+      iframe.requestFullscreen();
+    } else if (iframe.webkitRequestFullscreen) {
+      iframe.webkitRequestFullscreen();
+    } else if (iframe.mozRequestFullScreen) {
+      iframe.mozRequestFullScreen();
+    } else if (iframe.msRequestFullscreen) {
+      iframe.msRequestFullscreen();
+    }
 }
