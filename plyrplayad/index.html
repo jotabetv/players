@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>   
+<!-- /*
+Copyright (c) 2024 Pierleeb
+SPDX-License-Identifier: MIT
+JBF-TV Player - R.Santana/BA
+*/ -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- 
+<link rel="stylesheet" href="plyr.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.1.0/plyr.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3/dist/plyr.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.1.0/plyr.min.js"></script>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=es6,Array.prototype.includes,CustomEvent"></script>
+<script src="https://cdn.jsdelivr.net/npm/rangetouch/dist/rangetouch.js" async></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/2.4.0/shaka-player.compiled.debug.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/plyr@3/dist/plyr.min.js"></script>
+-->
+<script src="mousetrap.min.js" charset="utf-8"></script>
+<script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+<script src="https://cdn.jsdelivr.net/hls.js/latest/hls.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.5/plyr.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/plyr/3.3.5/plyr.css" />
+<link rel="stylesheet" href="styles.css" />
+<title>Plyr Player JBF-TV</title>
+</head>
+<body>
+<div class="video-container">
+<video preload="none" id="jb_player" controls></video>
+</div>
+<div class="controls-container">
+<form onsubmit="setLink();return false" name="form">
+<input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" onfocus="this.value='';" title="Cole ou digite o url do áudio ou vídeo">
+<button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
+<button2 type="button" onclick="play()" title="Click para iniciar reprodução">▶📀</button2>
+</form>
+</div>
+<script src="player.js"></script>
+</body>
+</html>
