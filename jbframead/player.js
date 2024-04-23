@@ -21,5 +21,5 @@ var jbf_tv = inputText;document.getElementById('jb_layer').src=jbf_tv;
 }
 
 function play(){
-iframe.play()
+document.getElementsByTagName("jb_layer")[0].className = "fullScreen";
 }
