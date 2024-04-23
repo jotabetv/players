@@ -21,10 +21,8 @@ var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
 }
 
 function play(){
-
     var iframe = document.querySelector('#jb_player');
     // Do fullscreen
-   
     if (iframe.requestFullscreen) {
       iframe.requestFullscreen();
     } else if (iframe.webkitRequestFullscreen) {
