@@ -21,12 +21,12 @@ var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
 }
 
 function play(){
-//document.getElementsByTagName("iframe")[0].className = "fullScreen";
+
     var iframe = document.querySelector('#jb_player');
     // Do fullscreen
-    //iframe.setVolume(val / 100);
-    if (iframe.requestFullscreen) {
-      iframe.requestFullscreen();
+   
+    if (iframe.requestautoplay) {
+      iframe.requestautoplay();
     } else if (iframe.webkitRequestFullscreen) {
       iframe.webkitRequestFullscreen();
     } else if (iframe.mozRequestFullScreen) {
