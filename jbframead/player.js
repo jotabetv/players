@@ -25,8 +25,8 @@ function play(){
     var iframe = document.querySelector('#jb_player');
     // Do fullscreen
    
-    if (iframe.requestautoplay) {
-      iframe.requestautoplay();
+    if (iframe.requestFullscreen) {
+      iframe.requestFullscreen();
     } else if (iframe.webkitRequestFullscreen) {
       iframe.webkitRequestFullscreen();
     } else if (iframe.mozRequestFullScreen) {
