@@ -9,14 +9,14 @@ var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
 window.alert("Url do vídeo ou áudio é obrigatório!");	
-var jbf_tv = '';document.getElementById('jb_layer').src=jbf_tv;
+var jbf_tv = '';document.getElementById('jb_player').src=jbf_tv;
 
 }else {
 alert('Canal ' + inputText + ' inserido com sucesso!');
 var jb_player = document.getElementById("jb_player");
 var input = document.getElementById("input");
 var inputText = input.value;
-var jbf_tv = inputText;document.getElementById('jb_layer').src=jbf_tv;
+var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
    }
 }
 
