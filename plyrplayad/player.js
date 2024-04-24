@@ -11,7 +11,7 @@ var inputText = input.value;
 	window.alert("Url do vídeo ou áudio é obrigatório!");
         return false;
 }else {
-alert('Canal ' + inputText + ' inserido com sucesso!');
+window.alert('Canal ' + inputText + ' inserido com sucesso!');
 window.location.reload();
 	}
 }
