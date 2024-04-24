@@ -12,7 +12,7 @@ window.alert("Url do vídeo ou áudio é obrigatório!");
 var jbf_tv = '';document.getElementById('jb_player').src=jbf_tv;
 
 }else {
-alert('Canal ' + inputText + ' inserido com sucesso!');
+window.alert('Canal ' + inputText + ' inserido com sucesso!');
 var jb_player = document.getElementById("jb_player");
 var input = document.getElementById("input");
 var inputText = input.value;
