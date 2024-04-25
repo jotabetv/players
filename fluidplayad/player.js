@@ -55,7 +55,7 @@ if(Hls.isSupported()) {
       hls.loadSource(videoSrcInHls);
       hls.attachMedia(video);
       hls.on(Hls.Events.MANIFEST_PARSED,function() {
-        video.play();
+       //video.play();
       });
     }
 
@@ -72,7 +72,7 @@ var videoSrcInMp4 = inputText;
 var video = document.getElementById("jb_player");
 
       addSourceToVideo(video, inputText, 'video/mp4');
-      video.play();
+      //video.play();
     
 function addSourceToVideo(element, src, type) {
       var source = document.createElement('source');
