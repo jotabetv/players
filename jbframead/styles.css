@@ -19,7 +19,7 @@ body {
     display: grid;
     width: 840px;
     height: 480px;
-    background-color: #000000;
+    background-color: #F5F5DC;
     align-items: center;
     background-position: center;
     margin-bottom: 5px;
@@ -31,7 +31,7 @@ body {
 iframe {
   width: 840px;
   height: 480px;
-  background: #363636;
+  background: #FFE4C4;
 }
 
 .controls-container {
