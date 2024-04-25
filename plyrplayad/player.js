@@ -89,7 +89,7 @@ var video = document.querySelector('video');
     resetOnEnd: true
   });
 
-if (n == ".mp4","webm",".mp3",".ogg"){
+if (n == ".mp4","webm",".mp3",".ogg",".mkv"){
  var jb_player = new Plyr('#jb_player');
   jb_player.source = {
     type: 'video',
