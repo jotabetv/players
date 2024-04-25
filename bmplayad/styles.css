@@ -27,7 +27,8 @@ body {
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 2.1);
 }
-.JbPlayer {
+JbPlayer {
+    display: grid;
     width: 840px;
     height: 480px;
     background-color: #1C1C1C;
