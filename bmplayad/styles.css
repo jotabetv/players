@@ -12,14 +12,14 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #ff0000;
+    background-color: #800000;
 }
 
 .video-container {
     display: grid;
     width: 840px;
     height: 480px;
-    background-color: #ff0000;
+    background-color: #b22222;
     align-items: center;
     background-position: center;
     margin-bottom: 5px;
