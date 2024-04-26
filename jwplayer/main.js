@@ -14,6 +14,7 @@ else  {
     }
 */
 $(window).on('load', function () {
+    $('#m3u8-placeholder').hide();
 if (this.value == "") {
         $('#m3u8-placeholder').show();
         alert($(this).val())
