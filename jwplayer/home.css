@@ -59,7 +59,7 @@ body {
     color: #2E8B57;
 }
 
-#play-btn {
+button {
     padding: 12px 20px;
     background-color: #2E8B57;
     color: white;
@@ -72,7 +72,7 @@ body {
     width: 100px;
 }
 
-#play-btn:hover {
+button:hover {
     background-color: #9ACD32;
     color: #0000CD;
 }
