@@ -39,7 +39,7 @@ align-items: center;
     margin-left: -15em; /*set to a negative number 1/2 of your width*/
 }
 
-input{
+m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
@@ -49,13 +49,13 @@ input{
     height: 35px;
 }
 
-input:hover {
+m3u8-placeholder:hover {
     background-color: #FFF8DC;
     border: 2px solid #008000;
     color: #2E8B57;
 }
 
-textarea:focus, input:focus, select:focus {
+#textarea:focus, input:focus, select:focus {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     border: 2px solid #00FF00;
     outline: 0;
