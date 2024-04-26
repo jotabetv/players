@@ -6,8 +6,8 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -36,10 +36,12 @@ align-items: center;
     left: 50%;
     width: 30em;
     height: 18em;
-   margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -15em; /*set to a negative number 1/2 of your width*/ 
+   margin-top: -9em; 
+    margin-left: -15em; 
 }
 */
+/*set to a negative number 1/2 of your height*/
+/*set to a negative number 1/2 of your width*/ 
 m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
