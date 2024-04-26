@@ -23,13 +23,14 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
 align-items: center;
 }
-/*
+
 .page-name {
+    text-align: center;
     margin: 0.5em 2.5em;
     color: rgb(19, 33, 85);
     font-size: 2.5em;
 }
-
+/*
 #text-box {
     position: fixed;
     top: 50%;
