@@ -43,7 +43,7 @@ body {
     align-items: center;
 }
 
-#m3u8-placeholder{
+m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
@@ -53,13 +53,13 @@ body {
     height: 35px;
 }
 
-#m3u8-placeholder:hover {
+m3u8-placeholder:hover {
     background-color: #FFF8DC;
     border: 2px solid #008000;
     color: #2E8B57;
 }
 
-button {
+input-group-btn {
     padding: 12px 20px;
     background-color: #2E8B57;
     color: white;
@@ -72,7 +72,7 @@ button {
     width: 100px;
 }
 
-button:hover {
+input-group-btn:hover {
     background-color: #9ACD32;
     color: #0000CD;
 }
