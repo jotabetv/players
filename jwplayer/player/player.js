@@ -4,7 +4,7 @@
     JBF-TV Player - R.Santana/BA
 */
 
-var jw = document.getElementById('JbPlayer');
+var jw = document.getElementById('jb_player');
 
 var jw = {"file": "'",
           "image": null,
@@ -15,7 +15,7 @@ var jw = {"file": "'",
           "text": "JBF-TV",
           "lposi": "bottom-left",
           "flash": "https://tv0800.zip/wp-content/themes/dooplay/assets/jwplayer/jwplayer.flash.swf"}
-const JbPlayer = jwplayer('JbPlayer').setup({image: jw.image,mute: false,volume: 85,autostart: jw.auto,repeat: false,abouttext: jw.text,aboutlink: jw.link,skin: {active: jw.color
+const jb_player = jwplayer('jb_player').setup({image: jw.image,mute: false,volume: 85,autostart: jw.auto,repeat: false,abouttext: jw.text,aboutlink: jw.link,skin: {active: jw.color
 },logo: {file: jw.logo,hide: true,link: jw.link,margin: '15',position: jw.lposi
 },sources: [{file: jw.file,type: 'video/mp4'
 }],})
