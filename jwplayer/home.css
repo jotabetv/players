@@ -59,7 +59,7 @@ body {
     color: #2E8B57;
 }
 
-input-group-btn {
+#play-btn {
     padding: 12px 20px;
     background-color: #2E8B57;
     color: white;
@@ -72,7 +72,7 @@ input-group-btn {
     width: 100px;
 }
 
-input-group-btn:hover {
+#play-btn:hover {
     background-color: #9ACD32;
     color: #0000CD;
 }
