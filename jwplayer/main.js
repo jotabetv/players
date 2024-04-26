@@ -6,9 +6,8 @@
 
 if ($("#m3u8-placeholder").val() != '') {
     setflag = false;
-    alert("Not a valid character")
+    alert("cole o link aqui")
 } else {
-    setflag = true;
 
 $(window).on('load', function () {
     $('#m3u8-placeholder')[0].value = localStorage.getItem('m3u8-link') || '';
