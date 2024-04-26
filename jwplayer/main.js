@@ -4,7 +4,11 @@
     JBF-TV Player - R.Santana/BA
 */
 
-
+if ($("#m3u8-placeholder").val() != '') {
+    setflag = false;
+    alert("Not a valid character")
+} else {
+    setflag = true;
 
 $(window).on('load', function () {
     $('#m3u8-placeholder')[0].value = localStorage.getItem('m3u8-link') || '';
@@ -13,4 +17,5 @@ $(window).on('load', function () {
         window.location.href = './player' + '?source=' + $('#m3u8-placeholder')[0].value;
     });
 });
-  
+    
+}
