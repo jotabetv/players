@@ -5,14 +5,14 @@
 */
 
 function setLink() {	
-var JbPlayer = document.getElementById("JbPlayer");
+var jb_player = document.getElementById("jb_player");
 var n = window.location.href;
 n = n.split('?source=');
 n = n[1];
 alert(n);
 	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
-	var element = document.getElementById("JbPlayer");
+	var element = document.getElementById("jb_player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 
 // Back compability.
