@@ -13,7 +13,10 @@ body {
     height: 100vh;
     background-color: #800000;
 }
-
+.controls-container {
+    text-align: center;
+    margin-top: 20px;
+}
 .input-group {
     display: flex;
     max-width: 800px;
