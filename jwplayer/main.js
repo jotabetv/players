@@ -5,11 +5,11 @@
 */
 
 function play-btn() {
-    var input = document.form.input;
-    var inputText = input.value;
-    if (input.value == ""){
+    var m3u8-placeholder = document.form.m3u8-placeholder;
+    var m3u8-placeholderText = m3u8-placeholder.value;
+    if (m3u8-placeholder.value == ""){
 	window.alert("Url do vídeo ou áudio é obrigatório!");
-        input.focus();
+        m3u8-placeholder.focus();
         return false;
 }else {
 
