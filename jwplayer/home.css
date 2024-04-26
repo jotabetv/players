@@ -4,14 +4,14 @@
     JBF-TV Player - R.Santana/BA
 */
 body {
-    margin: 0;
+    margin: 30;
     font-family: 'Arial', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f5f5f5;
+    background-color: #800000;
 }
 
 .input-group {
@@ -44,7 +44,7 @@ align-items: center;
 */
 /*set to a negative number 1/2 of your height*/
 /*set to a negative number 1/2 of your width*/ 
-m3u8-placeholder{
+#m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
@@ -54,13 +54,13 @@ m3u8-placeholder{
     height: 35px;
 }
 
-m3u8-placeholder:hover {
+#m3u8-placeholder:hover {
     background-color: #FFF8DC;
     border: 2px solid #008000;
     color: #2E8B57;
 }
 
-#textarea:focus, input:focus, select:focus {
+textarea:focus, input:focus, select:focus {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     border: 2px solid #00FF00;
     outline: 0;
