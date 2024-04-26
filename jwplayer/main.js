@@ -18,6 +18,7 @@ $(window).on('load', function () {
 if (this.value == "") {
         $('#m3u8-placeholder').show();
         alert($(this).val())
+    return false;
     }else  {
     
   $('#m3u8-placeholder')[0].value = localStorage.getItem('m3u8-link') || '';     
