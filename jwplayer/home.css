@@ -13,12 +13,7 @@ body {
     height: 100vh;
     background-color: #800000;
 }
-/*
-#text-box {
-    text-align: center;
-    margin-top: 100px;
-}
-*/
+
 #text-box {
     position: fixed;
     text-align: center;
@@ -26,8 +21,8 @@ body {
     left: 50%;
     width: 30em;
     height: 18em;
-    margin-top: -9em; 
-    margin-left: -15em; 
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/ 
 }
 
 .page-name {
@@ -36,6 +31,7 @@ body {
     color: rgb(19, 33, 85);
     font-size: 2.5em;
 }
+
 .input-group {
     display: flex;
     max-width: 800px;
@@ -47,10 +43,6 @@ body {
     align-items: center;
 }
 
-
-
-/*set to a negative number 1/2 of your height*/
-/*set to a negative number 1/2 of your width*/ 
 #m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
@@ -67,13 +59,7 @@ body {
     color: #2E8B57;
 }
 
-textarea:focus, input:focus, select:focus {
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
-    border: 2px solid #00FF00;
-    outline: 0;
-}
- 
-#button {
+button {
     padding: 12px 20px;
     background-color: #2E8B57;
     color: white;
@@ -86,11 +72,14 @@ textarea:focus, input:focus, select:focus {
     width: 100px;
 }
 
-#button:hover {
+button:hover {
     background-color: #9ACD32;
     color: #0000CD;
 }
 
+
+
+/*
 button2 {
     padding: 12px 20px;
     background-color: #4CAF50;
@@ -109,3 +98,4 @@ button2:hover {
     background-color: #00FF00;
     color: #0000CD;
 }
+*/
