@@ -49,7 +49,7 @@ textarea:focus, #m3u8-placeholder:focus, select:focus {
     outline: 0;
 }
 
-#m3u8-placeholder{
+m3u8-placeholder{
     flex: 1;
     border: 2px solid #008000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
@@ -59,7 +59,7 @@ textarea:focus, #m3u8-placeholder:focus, select:focus {
     height: 35px;
 }
 
-#m3u8-placeholder:hover {
+m3u8-placeholder:hover {
     background-color: #FFF8DC;
     border: 2px solid #008000;
     color: #2E8B57;
