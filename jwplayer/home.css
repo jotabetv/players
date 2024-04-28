@@ -15,7 +15,7 @@ body {
     background-color: #800000;
 }
 
-.text-box {
+#text-box {
     text-align: center;
     margin-top: 20px;
 }
