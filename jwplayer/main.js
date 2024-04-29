@@ -33,7 +33,7 @@ var inputText = input.value;
 	input.focus();
         return false;
 }else {
-let jb-player = document.getElementById("jb-player");
+let jb_player = document.getElementById("jb_player");
 let input = document.getElementById("input");
 let inputText = input.value;
 alert('Canal ' + inputText + ' inserido com sucesso!');
