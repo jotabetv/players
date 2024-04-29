@@ -44,6 +44,7 @@ if($('#input')[0].value == "") {
         localStorage.setItem('m3u8-link', $('#input')[0].value);
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });
+	}
 });
-}    
+    
 
