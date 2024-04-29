@@ -23,17 +23,17 @@ body {
     height: 100vh;
     background-color: #800000;
 }
-
+#text-box {
+    text-align: center;
+    margin-top: 20px;
+}
 .page-name {
     text-align: center;
     margin: 0.5em 2.5em;
     color: rgb(19, 33, 85);
     font-size: 2.5em;
 }
-#text-box {
-    text-align: center;
-    margin-top: 20px;
-}
+
 
 input{
     flex: 1;
