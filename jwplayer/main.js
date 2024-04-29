@@ -44,7 +44,7 @@ if($('input')[0].value == "") {
         $(window).on('load', function () {
 if($('input')[0].value == "") {
 		window.alert("Url do vídeo ou áudio é obrigatório!");
-	 window.location.href = window.location.href;
+	 window.location.href = $('#input')[0].value;
 }else {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play').on('click', function () {
