@@ -34,7 +34,7 @@ var inputText = input.value;
         return false;
 }else {
 alert('Canal ' + inputText + ' inserido com sucesso!');
-   let Input = document.getElementById("Input");
+   let input = document.getElementById("input");
 let inputText = input.value;
 window.location.href = './player' + '?source=' + inputText;
 		   
