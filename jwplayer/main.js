@@ -56,7 +56,7 @@ if($('input')[0].value == "") {
 });
 
 */
-function play(){
+function setLink(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
