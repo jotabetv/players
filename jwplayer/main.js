@@ -46,7 +46,8 @@ var inputText = input.value;
         return false;
 }else {
 	    
-
+}
+}
         $(window).on('load', function () {
 
 
@@ -58,5 +59,4 @@ var inputText = input.value;
 	
 });
     
-}
-}
+
