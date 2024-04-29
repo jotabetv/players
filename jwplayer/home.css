@@ -64,7 +64,7 @@ textarea:focus, input:focus, select:focus {
 }
  
 button {
-    padding: 12px 20px;
+    
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -74,8 +74,8 @@ button {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
-    width: 100px;
-    height: 35px;
+    width: 150px;
+    height: 45px;
 }
 
 button:hover {
