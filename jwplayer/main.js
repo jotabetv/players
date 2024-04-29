@@ -10,7 +10,7 @@ $(window).on('load', function () {
     });
 });
     
-function play-btn(){
+function play(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
@@ -31,7 +31,7 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-function play-btn(){
+function play(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
@@ -42,7 +42,7 @@ var inputText = input.value;
 
         $(window).on('load', function () {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
-    $('#play-btn').on('click', function () {
+    $('#play').on('click', function () {
         localStorage.setItem('m3u8-link', $('#input')[0].value);
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });
