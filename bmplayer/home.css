@@ -4,18 +4,67 @@
     JBF-TV Player - R.Santana/BA
 */
 
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #800000;
+}
+
 .page-name {
+    text-align: center;
     margin: 0.5em 2.5em;
-    color: rgb(18, 96, 101);
+    color: rgb(19, 33, 85);
     font-size: 2.5em;
 }
 
-#text-box {
-    position:fixed;
-    top: 50%;
-    left: 50%;
-    width:30em;
-    height:18em;
-    margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+.controls-container {
+    text-align: center;
+    margin-top: 20px;
+    padding: 12px 20px;
+}
+
+input{
+    flex: 1;
+    border: 2px solid #008000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
+    border-radius: 5px 5px 5px 5px;
+    font-size: 16px;
+    width: 400px;
+    height: 35px;
+}
+
+input:hover {
+    background-color: #FFF8DC;
+    border: 2px solid #008000;
+    color: #2E8B57;
+}
+
+textarea:focus, input:focus, select:focus {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
+    border: 2px solid #00FF00;
+    outline: 0;
+}
+ 
+button {    
+    align-items: center;
+    background-color: #2E8B57;
+    color: white;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+    width: 100px;
+    height: 35px;
+}
+
+button:hover {
+    background-color: #9ACD32;
+    color: #0000CD;
 }
