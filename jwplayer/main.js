@@ -39,19 +39,18 @@ if($('input')[0].value == "") {
 */
 
 
-	    
+	  $('#play').on('click', function () {  
+		  if($('input')[0].value == "") {
+		window.alert("Url do vídeo ou áudio é obrigatório!");
+	 return false;
+}else {
 
         $(window).on('load', function () {
-if($('input')[0].value == "") {
-		window.alert("Url do vídeo ou áudio é obrigatório!");
-	 window.location.href = $('#input')[0].value;
-}else {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play').on('click', function () {
         localStorage.setItem('m3u8-link', $('#input')[0].value);
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });	
-}
 });
-    
-
+		  }   
+});
