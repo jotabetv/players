@@ -22,7 +22,8 @@ let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;
      
-
+localStorage.setItem('m3u8-link', $('#input')[0].value);
+window.location.href = './player' + '?source=' + $('#input')[0].value;
 */
 function setLink(){
 var input = document.form.input;
@@ -33,9 +34,9 @@ var inputText = input.value;
         return false;
 }else {
 alert('Canal ' + inputText + ' inserido com sucesso!');
-$('#input')[0].value = localStorage.getItem('m3u8-link') || '';   
-localStorage.setItem('m3u8-link', $('#input')[0].value);
-window.location.href = './player' + '?source=' + $('#input')[0].value;
+   let Input = document.getElementById("Input");
+let inputText = input.value;
+window.location.href = './player' + '?source=' + inputText;
 		   
 	}
 }
