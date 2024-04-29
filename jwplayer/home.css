@@ -23,7 +23,7 @@ body {
     height: 100vh;
     background-color: #800000;
 }
-#text-box {
+controls-container {
     text-align: center;
     margin-top: 20px;
 }
