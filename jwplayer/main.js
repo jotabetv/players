@@ -10,7 +10,7 @@ $(window).on('load', function () {
     });
 });
     
-function refresh(){
+function play-btn(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
@@ -31,7 +31,7 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-function refresh(){
+function play-btn(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
