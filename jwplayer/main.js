@@ -31,11 +31,11 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-function play(){
+function setLink() {	
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
-	window.alert("Url do vídeo ou áudio é obrigatório!");
+        input.focus();
         return false;
 }else {
 
