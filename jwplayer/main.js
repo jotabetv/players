@@ -21,8 +21,8 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-$("#input").change(function(){
-    if($(this).val() == "") {
+$(window).on('load', function () {
+    if($('#input').val() == "") {
     $(this).addClass("active");
             return false;
          } else {
