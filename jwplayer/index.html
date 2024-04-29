@@ -31,11 +31,11 @@ JBF-TV Player - R.Santana/BA
          
 <div class="controls-container">
 
-         <form>   
+         <form onsubmit="setLink();return false" name="form">
            
                 <input type="text" placeholder="Paste the m3u8 link here" id="input" onfocus="this.value='';">
                 
-                    <button type="button" onclick="play()" id="btn">Inserir▲</button>
+                    <button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
               </form>
             </div>
        
