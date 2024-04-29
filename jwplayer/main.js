@@ -38,8 +38,8 @@ $(".rdo_confirm").change(function(){
 
 if($('input')[0].value == "") {
 		window.alert("Url do vídeo ou áudio é obrigatório!");
-	 window.location.href = $('#input')[0].value;
-	return false;
+	 window.location.href;
+	
 	} else {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play').on('click', function () {
