@@ -2,10 +2,25 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
+#text-box {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+}
 
 */
 body {
-   
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
     background-color: #800000;
 }
 
@@ -15,15 +30,9 @@ body {
     color: rgb(19, 33, 85);
     font-size: 2.5em;
 }
-
 #text-box {
-    position:fixed;
-    top: 50%;
-    left: 50%;
-    width:30em;
-    height:18em;
-    margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    text-align: center;
+    margin-top: 20px;
 }
 
 input{
