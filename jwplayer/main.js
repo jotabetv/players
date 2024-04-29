@@ -11,7 +11,7 @@ var inputText = input.value;
 	window.alert("Url do vídeo ou áudio é obrigatório!");
 	input.focus();
         return false;
-}else {
+   }else {
 let jb_player = document.getElementById("jb_player");
 let input = document.getElementById("input");
 let inputText = input.value;
