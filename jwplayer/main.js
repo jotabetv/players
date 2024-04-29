@@ -19,13 +19,3 @@ alert('Canal ' + inputText + ' inserido com sucesso!');
 window.location.href = './player' + '?source=' + inputText;	   
 	}
 }
-
-/*
-$(window).on('load', function () {
-    $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
-    $('#play-btn').on('click', function () {
-        localStorage.setItem('m3u8-link', $('#input')[0].value);
-        window.location.href = './player' + '?source=' + $('#input')[0].value;
-    });
-});
-*/
