@@ -51,7 +51,7 @@ var inputText = input.value;
 
 
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
-    $('#play').on('click', function () {
+    $('#btn').on('click', function () {
         localStorage.setItem('m3u8-link', $('#input')[0].value);
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });
