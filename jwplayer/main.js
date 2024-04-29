@@ -36,7 +36,7 @@ if($('input')[0].value == "") {
 	 window.location.href;
 	
 	} else {
-*/
+
 
 
 	  $('#play').on('click', function () {  
@@ -54,3 +54,16 @@ if($('input')[0].value == "") {
 });
 		  }   
 });
+
+*/
+function play(){
+var input = document.form.input;
+var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        return false;
+}else {
+alert('Canal ' + inputText + ' inserido com sucesso!');
+window.location.reload();
+	}
+}
