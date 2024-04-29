@@ -38,6 +38,7 @@ body {
 .controls-container {
     text-align: center;
     margin-top: 20px;
+    padding: 12px 20px;
 }
 
 input{
