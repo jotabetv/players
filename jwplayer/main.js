@@ -10,7 +10,17 @@ $(window).on('load', function () {
     });
 });
     
-
+function refresh(){
+var input = document.form.input;
+var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        return false;
+}else {
+alert('Canal ' + inputText + ' inserido com sucesso!');
+window.location.reload();
+	}
+}
 $(".rdo_confirm").change(function(){  
     if($(this).val() == "Y") {
     $(this).addClass("active");
@@ -21,11 +31,15 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-$(window).on('load', function () {
-    if($('#input').val() == "") {
-    $(this).addClass("active");
-            return false;
-         } else {
+function refresh(){
+var input = document.form.input;
+var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        return false;
+}else {
+
+
         $(window).on('load', function () {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play-btn').on('click', function () {
@@ -33,5 +47,5 @@ $(window).on('load', function () {
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });
 });
-         }
-    });
+        
+    }
