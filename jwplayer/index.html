@@ -7,6 +7,8 @@ JBF-TV Player - R.Santana/BA
      <div class="input-group"> </div>
      <span class="input-group-btn">  </span>
     <div class="controls-container">
+     class="form-control" 
+     <div class="col-lg-6" id="text-box">
 <form onsubmit="refresh();setLink();return false" name="form">
 <input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" onfocus="this.value='';" title="Cole ou digite o url do áudio ou vídeo">
 <button type="submit" id="bto" title="Click para inserir o canal">Inserir▲</button>
@@ -25,11 +27,11 @@ JBF-TV Player - R.Santana/BA
         <script type="text/javascript" src="main.js"></script>
     </head>
     <body>
+<div class="controls-container">
 
-<div class="col-lg-6" id="text-box">
             <h1 class="page-name">M3U8 Player</h1>
            
-                <input type="text" class="form-control" placeholder="Paste the m3u8 link here" id="input" onfocus="this.value='';">
+                <input type="text" placeholder="Paste the m3u8 link here" id="input" onfocus="this.value='';">
                 
                     <button  type="button" id="play-btn">Play</button>
               
