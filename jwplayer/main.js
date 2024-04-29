@@ -31,13 +31,7 @@ $(".rdo_confirm").change(function(){
     }
 });
 */
-function setLink() {	
-var input = document.form.input;
-var inputText = input.value;
-    if (input.value == ""){
-        input.focus();
-        return false;
-}else {
+
 
 
         $(window).on('load', function () {
@@ -48,4 +42,4 @@ var inputText = input.value;
     });
 });
         
-    }
+
