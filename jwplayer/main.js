@@ -36,7 +36,7 @@ $(".rdo_confirm").change(function(){
 
         $(window).on('load', function () {
 
-if($('#input')[0].value == "") {
+if($('input')[0].value == "") {
 		return false;
 	} else {
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
