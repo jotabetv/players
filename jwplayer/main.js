@@ -64,9 +64,9 @@ var inputText = input.value;
         return false;
 }else {
 alert('Canal ' + inputText + ' inserido com sucesso!');
-	    $(window).on('load', function () {
+$('#input')[0].value = localStorage.getItem('m3u8-link') || '';   
 localStorage.setItem('m3u8-link', $('#input')[0].value);
 window.location.href = './player' + '?source=' + $('#input')[0].value;
-		    });	
+		   
 	}
 }
