@@ -33,12 +33,10 @@ var inputText = input.value;
 	input.focus();
         return false;
 }else {
-	    let JbPlayer = document.getElementById("JbPlayer");
-
-   let input = document.getElementById("input");
+let jb-player = document.getElementById("jb-player");
+let input = document.getElementById("input");
 let inputText = input.value;
-	    alert('Canal ' + inputText + ' inserido com sucesso!');
-window.location.href = './player' + '?source=' + inputText;
-		   
+alert('Canal ' + inputText + ' inserido com sucesso!');
+window.location.href = './player' + '?source=' + inputText;	   
 	}
 }
