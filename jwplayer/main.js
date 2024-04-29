@@ -30,23 +30,33 @@ $(".rdo_confirm").change(function(){
         $("#btn_save").attr("disabled",true);
     }
 });
-*/
-
-
-
-        $(window).on('load', function () {
 
 if($('input')[0].value == "") {
 		window.alert("Url do vídeo ou áudio é obrigatório!");
 	 window.location.href;
 	
 	} else {
+*/
+
+function play(){
+var input = document.form.input;
+var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        return false;
+}else {
+	    
+
+        $(window).on('load', function () {
+
+
     $('#input')[0].value = localStorage.getItem('m3u8-link') || '';
     $('#play').on('click', function () {
         localStorage.setItem('m3u8-link', $('#input')[0].value);
         window.location.href = './player' + '?source=' + $('#input')[0].value;
     });
-	}
+	
 });
     
-
+}
+}
