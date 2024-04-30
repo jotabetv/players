@@ -2,28 +2,6 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
-    if (m == "yout"){
-var videoPlayer = videojs('jb_player');
-if (input.value.trim() !== '') {
-        const source = {
-            src: input.value,
-            type: 'video/youtube'
-        };
-        videoPlayer.src(source);
-        videoPlayer.play();
-    }
-}
-
-var video = document.getElementById("jb_player");
-var input = document.getElementById("input");
-var inputText = input.value;
-var vime = inputText.split("com/");
-var vime = vime[1];
-var tube = inputText.split("?v=");
-var tube = tube[1];
-var m = inputText.slice(-31,-27);
-var z = inputText.slice(-18,-13);
-var n = inputText.slice(-4);
 */
 
 function setLink() {
@@ -41,10 +19,15 @@ window.location.reload();
 
 window.addEventListener('load', function() {
 var inputText = input.value;
+var vime = inputText.split("com/");
+var vime = vime[1];
+var tube = inputText.split("?v=");
+var tube = tube[1];
+var m = inputText.slice(-31,-27);
+var z = inputText.slice(-18,-13);
 var n = inputText.slice(-4);
 
-
-if (n == ".mp4"){
+if (n == ".mp4","webm",".mkv",".mp3",".ogg",".wav",".m4v",".ogv","aac"){
 var videoPlayer = videojs('jb_player');
 if (input.value.trim() !== '') {
         const source = {
@@ -80,5 +63,28 @@ if (input.value.trim() !== '') {
     }
 }
 
-	
+if (m == "yout"){
+var videoPlayer = videojs('jb_player');
+if (input.value.trim() !== '') {
+        const source = {
+            src: input.value,
+            type: 'video/youtube'
+        };
+        videoPlayer.src(source);
+        videoPlayer.play();
+    }
+}
+
+if (m == "yout"){
+var videoPlayer = videojs('jb_player');
+if (input.value.trim() !== '') {
+        const source = {
+            src: input.value,
+            type: 'video/vimeo'
+        };
+        videoPlayer.src(source);
+        videoPlayer.play();
+    }
+}
+
 });
