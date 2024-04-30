@@ -21,24 +21,24 @@ window.addEventListener('load', function() {
 var inputText = input.value;
 var n = inputText.slice(-4);
 
-if (n == "m3u8"){
-var videoPlayer = videojs('jb_player');
-if (input.value.trim() !== '') {
-        const source = {
-            src: input.value,
-            type: 'application/x-mpegURL'
-        };
-        videoPlayer.src(source);
-        videoPlayer.play();
-    }
-}
-
 if (n == ".mp4","webm",".mkv",".mp3",".ogg",".wav",".m4v",".ogv","aac"){
 var videoPlayer = videojs('jb_player');
 if (input.value.trim() !== '') {
         const source = {
             src: input.value,
             type: 'video/mp4'
+        };
+        videoPlayer.src(source);
+        videoPlayer.play();
+    }
+}
+
+if (n == "m3u8"){
+var videoPlayer = videojs('jb_player');
+if (input.value.trim() !== '') {
+        const source = {
+            src: input.value,
+            type: 'application/x-mpegURL'
         };
         videoPlayer.src(source);
         videoPlayer.play();
