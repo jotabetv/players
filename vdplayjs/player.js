@@ -67,16 +67,5 @@ if (input.value.trim() !== '') {
     }
 }
 
-if (m == "yout"){
-var videoPlayer = videojs('jb_player');
-if (input.value.trim() !== '') {
-        const source = {
-            src: input.value,
-            type: 'video/youtube'
-        };
-        videoPlayer.src(source);
-        videoPlayer.play();
-    }
-}
 	
 });
