@@ -92,7 +92,7 @@ button2:hover {
     color: #0000CD;
 }
 */
-
+html,
 body {padding: 0;
      margin: 0;
      height: 100%;
