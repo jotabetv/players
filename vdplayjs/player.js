@@ -33,7 +33,7 @@ if (input.value.trim() !== '') {
     }
 }
 
-if (n == ".mp4"){
+if (n == ".mp4",".mkv","webm",".ogv"){
 var videoPlayer = videojs('jb_player');
 if (input.value.trim() !== '') {
         const source = {
