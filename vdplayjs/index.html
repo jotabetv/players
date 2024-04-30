@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 
+    Copyright (c) 2024 Pierleeb
+    SPDX-License-Identifier: MIT
+    JBF-TV Player - R.Santana/BA
+     -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://vjs.zencdn.net/7.14.3/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.14.3/video.js"></script> 
+    <link rel="stylesheet" href="styles.css">
+    <title>M3U8 Player</title>
+</head>
+<body>
+<div class="video-container">
+<video id="jb_player" class="video-js vjs-default-skin" controls preload></video>
+</div>
+    <div class="controls-container">
+      <form onsubmit="setLink();return false" name="form">
+          <input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" onfocus="this.value='';" title="Cole ou digite o url do áudio ou vídeo">
+          <button type="submit" id="bto" title="Click para inserir o canal">Play▲📀</button>
+      </form>
+    </div>
+    <script src="player.js"></script>
+</body>
+</html>
