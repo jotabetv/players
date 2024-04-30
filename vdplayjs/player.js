@@ -44,7 +44,7 @@ var inputText = input.value;
 var n = inputText.slice(-4);
 
 
-if (n == ".mp4","webm",".mkv",".mp3",".ogg",".wav",".m4v",".ogv","aac"){
+if (n == ".mp4"){
 var videoPlayer = videojs('jb_player');
 if (input.value.trim() !== '') {
         const source = {
