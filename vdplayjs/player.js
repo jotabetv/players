@@ -75,7 +75,7 @@ if (input.value.trim() !== '') {
     }
 }
 
-if (m == "yout"){
+if (z == "vimeo"){
 var videoPlayer = videojs('jb_player');
 if (input.value.trim() !== '') {
         const source = {
