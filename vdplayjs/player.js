@@ -2,6 +2,18 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
+    
+if (m == "yout"){
+var videoPlayer = videojs('jb_player');
+if (input.value.trim() !== '') {
+        const source = {
+            src: input.value,
+            type: 'video/youtube'
+        };
+        videoPlayer.src(source);
+        videoPlayer.play();
+    }
+}
 */
 
 function setLink() {
@@ -57,30 +69,6 @@ if (input.value.trim() !== '') {
         const source = {
             src: input.value,
             type: 'application/dash+xml'
-        };
-        videoPlayer.src(source);
-        videoPlayer.play();
-    }
-}
-
-if (m == "yout"){
-var videoPlayer = videojs('jb_player');
-if (input.value.trim() !== '') {
-        const source = {
-            src: input.value,
-            type: 'video/youtube'
-        };
-        videoPlayer.src(source);
-        videoPlayer.play();
-    }
-}
-
-if (z == "vimeo"){
-var videoPlayer = videojs('jb_player');
-if (input.value.trim() !== '') {
-        const source = {
-            src: input.value,
-            type: 'video/vimeo'
         };
         videoPlayer.src(source);
         videoPlayer.play();
