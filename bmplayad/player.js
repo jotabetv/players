@@ -4,28 +4,28 @@
     JBF-TV Player - R.Santana/BA
 */
 
-//function refresh(){
-//var input = document.form.input;
-//var inputText = input.value;
-    //if (input.value == ""){
-	//window.alert("Url do vídeo ou áudio é obrigatório!");
-       // return false;
-//}else {
+function refresh(){
+var input = document.form.input;
+var inputText = input.value;
+    if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+        return false;
+}else {
 	   // const input = document.querySelector("#input").value;
 	   // localStorage.setItem("arquivo1", input);
   //console.log(input);
-//alert('Canal ' + inputText + ' inserido com sucesso!');
-//window.location.reload();
-	//}
-//}
+window.alert('Canal ' + inputText + ' inserido com sucesso!');
+window.location.reload();
+	}
+}
 
 function setLink() {	
 	//var JbPlayer = document.getElementById("JbPlayer");
 	 //    var input = document.querySelector("#input").value;
 	 //  localStorage.setItem("arquivo1", input);
 //  console.log(input);
-//var input = document.form.input;
-//var inputText = input.value;
+var input = document.form.input;
+var inputText = input.value;
     if (input.value == ""){
 	    window.alert("Url do vídeo ou áudio é obrigatório!");
 	    
@@ -35,14 +35,13 @@ function setLink() {
 	    
 
 //window.location.reload();
-
-//let Input = document.getElementById("Input");
-	    var JbPlayer = document.getElementById("JbPlayer");
-	     var input = document.querySelector("#input").value;
- localStorage.getItem("arquivo1") = input.value;
+//var JbPlayer = document.getElementById("JbPlayer");
+	    // var input = document.querySelector("#input").value;
+ //localStorage.getItem("arquivo1") = input.value;
+let Input = document.getElementById("Input");    
 let n = input.value;
 	window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
-	var bradmaxPlayerConfig = {dataProvider:{source:[{url:localStorage.getItem("arquivo1")}]},autoplay:true};
+	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 }
