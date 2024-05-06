@@ -34,4 +34,5 @@ let n = input.value;
 localStorage.removeItem("input",document.getElementById("input").value);
 window.alert('Canal ' + n + ' inserido com sucesso!');
 	localStorage.removeItem("n");
+	input.value = '';
 });
