@@ -20,23 +20,23 @@
 //}
 
 function setLink() {	
-	//let JbPlayer = document.getElementById("JbPlayer");
-	    // let input = document.querySelector("#input").value;
-	  // localStorage.setItem("inputText", input);
-  //console.log(input);
-var input = document.form.input;
-var inputText = input.value;
+	var JbPlayer = document.getElementById("JbPlayer");
+	     var input = document.querySelector("#input").value;
+	   localStorage.setItem("arquivo1", input);
+  console.log(input);
+//var input = document.form.input;
+//var inputText = input.value;
     if (input.value == ""){
 	    window.alert("Url do vídeo ou áudio é obrigatório!");
         input.focus();
         return false;
 }else {
 	    
-//alert('Canal ' + inputText + ' inserido com sucesso!');
+alert('Canal ' + arquivo1 + ' inserido com sucesso!');
 //window.location.reload();
 
 //let Input = document.getElementById("Input");
-let inputText = input.value;
+let arquivo1 = input.value;
 let n = input.value;
 	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
