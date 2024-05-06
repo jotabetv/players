@@ -16,7 +16,7 @@ window.location.reload();
 }
 
 window.addEventListener('load', function() {
-var jb_player = document.getElementById("jb_player");
+var JbPlayer = document.getElementById("JbPlayer");
 	 var input = document.querySelector("#input").value;
 	 localStorage.setItem("arquivo1", input);
 //var input = document.getElementById("input");
