@@ -32,7 +32,7 @@ var inputText = input.value;
 	   localStorage.setItem("inputText", input);
   console.log(input);
 alert('Canal ' + inputText + ' inserido com sucesso!');
-window.location.reload();
+//window.location.reload();
 
 //let Input = document.getElementById("Input");
 let inputText = input.value;
