@@ -4,34 +4,20 @@
     JBF-TV Player - R.Santana/BA
 */
 
-function refresh(){
+function setLink(){
 var input = document.form.input;
 var inputText = input.value;
-
     if (input.value == ""){
 	window.alert("Url do vídeo ou áudio é obrigatório!");
+	input.focus();
         return false;
-
 }else {
-
-
 //alert('Canal ' + inputText + ' inserido com sucesso!');
 localStorage.setItem("input",document.getElementById("input").value);
 window.location.reload();
-
 	}
-
-
 }
 
-//function setLink() {
-
-
-//window.location.reload();
-	
-
-
-//}
 window.addEventListener('load', function() {
 let JbPlayer = document.getElementById("JbPlayer");
 let Input = document.getElementById("Input");
