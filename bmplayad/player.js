@@ -52,5 +52,5 @@ let n = input.value;
 		setLink();
 		//input.value = "";
 	} else {
-window.addEventListener('load', setLink);
+//window.addEventListener('load', setLink);
 }
