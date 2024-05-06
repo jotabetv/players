@@ -15,7 +15,7 @@ var inputText = input.value;
 	   // localStorage.setItem("arquivo1", input);
   //console.log(input);
 alert('Canal ' + inputText + ' inserido com sucesso!');
-window.location.reload();
+//window.location.reload();
 	}
 }
 
