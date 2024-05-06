@@ -23,11 +23,18 @@ function setLink() {
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
+	    window.alert("Url do vídeo ou áudio é obrigatório!");
         input.focus();
         return false;
 }else {
-let JbPlayer = document.getElementById("JbPlayer");
-let Input = document.getElementById("Input");
+	    let JbPlayer = document.getElementById("JbPlayer");
+	     let input = document.querySelector("#input").value;
+	   localStorage.setItem("inputText", input);
+  console.log(input);
+alert('Canal ' + inputText + ' inserido com sucesso!');
+window.location.reload();
+
+//let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;
 	
