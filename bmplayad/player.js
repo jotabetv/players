@@ -41,7 +41,7 @@ window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucess
  localStorage.getItem("arquivo1") = input.value;
 let n = input.value;
 	
-	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
+	var bradmaxPlayerConfig = {dataProvider:{source:[{url:localStorage.getItem("arquivo1")}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 }
