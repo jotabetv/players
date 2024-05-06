@@ -32,11 +32,11 @@ function setLink() {
         return false;
 }else {
 	    
-alert('Canal ' + arquivo1 + ' inserido com sucesso!');
+alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
 //window.location.reload();
 
 //let Input = document.getElementById("Input");
-let arquivo1 = input.value;
+let localStorage.getItem("arquivo1") = input.value;
 let n = input.value;
 	
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
