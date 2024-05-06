@@ -27,9 +27,10 @@ let JbPlayer = document.getElementById("JbPlayer");
 let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;	
-window.alert('Canal ' + n + ' inserido com sucesso!');
-	
+
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
+
+window.alert('Canal ' + n + ' inserido com sucesso!');
 });
