@@ -12,7 +12,7 @@ function setLink(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
-	window.alert("Url do vídeo ou áudio é obrigatório!");
+	//window.alert("Url do vídeo ou áudio é obrigatório!");
 	input.focus();
         return false;
 }else {
