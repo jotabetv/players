@@ -20,10 +20,10 @@
 //}
 
 function setLink() {	
-	var JbPlayer = document.getElementById("JbPlayer");
-	     var input = document.querySelector("#input").value;
-	   localStorage.setItem("arquivo1", input);
-  console.log(input);
+	//var JbPlayer = document.getElementById("JbPlayer");
+	 //    var input = document.querySelector("#input").value;
+	 //  localStorage.setItem("arquivo1", input);
+//  console.log(input);
 //var input = document.form.input;
 //var inputText = input.value;
     if (input.value == ""){
@@ -33,14 +33,15 @@ function setLink() {
         return false;
 }else {
 	    
-window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
+
 //window.location.reload();
 
 //let Input = document.getElementById("Input");
+	    var JbPlayer = document.getElementById("JbPlayer");
 	     var input = document.querySelector("#input").value;
  localStorage.getItem("arquivo1") = input.value;
 let n = input.value;
-	
+	window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:localStorage.getItem("arquivo1")}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
