@@ -27,7 +27,11 @@ let JbPlayer = document.getElementById("JbPlayer");
 let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;	
-
+if (input.value == ""){
+	window.alert("Url do vídeo ou áudio é obrigatório!");
+	input.focus();
+        return false;
+}else {
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
@@ -35,4 +39,5 @@ localStorage.removeItem("input",document.getElementById("input").value);
 window.alert('Canal ' + n + ' inserido com sucesso!');
 	localStorage.removeItem("n");
 	input.value = ''
+}
 });
