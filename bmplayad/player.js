@@ -28,7 +28,7 @@ function setLink() {
 //var inputText = input.value;
     if (input.value == ""){
 	    window.alert("Url do vídeo ou áudio é obrigatório!");
-	    window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
+	    
         input.focus();
         return false;
 }else {
@@ -37,6 +37,7 @@ window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucess
 //window.location.reload();
 
 //let Input = document.getElementById("Input");
+	     var input = document.querySelector("#input").value;
  localStorage.getItem("arquivo1") = input.value;
 let n = input.value;
 	
