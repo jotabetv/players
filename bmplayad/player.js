@@ -31,6 +31,6 @@ let n = input.value;
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
-
+localStorage.clear("input",document.getElementById("input").value);
 window.alert('Canal ' + n + ' inserido com sucesso!');
 });
