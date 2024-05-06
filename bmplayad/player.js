@@ -12,7 +12,7 @@
        // return false;
 //}else {
 	   // const input = document.querySelector("#input").value;
-	   // localStorage.setItem("inputText", input);
+	   // localStorage.setItem("arquivo1", input);
   //console.log(input);
 //alert('Canal ' + inputText + ' inserido com sucesso!');
 //window.location.reload();
@@ -20,17 +20,18 @@
 //}
 
 function setLink() {	
-var input = document.form.input;
-var inputText = input.value;
+	let JbPlayer = document.getElementById("JbPlayer");
+	     let input = document.querySelector("#input").value;
+	   localStorage.setItem("inputText", input);
+  console.log(input);
+//var input = document.form.input;
+//var inputText = input.value;
     if (input.value == ""){
 	    window.alert("Url do vídeo ou áudio é obrigatório!");
         input.focus();
         return false;
 }else {
-	    let JbPlayer = document.getElementById("JbPlayer");
-	     let input = document.querySelector("#input").value;
-	   localStorage.setItem("inputText", input);
-  console.log(input);
+	    
 alert('Canal ' + inputText + ' inserido com sucesso!');
 //window.location.reload();
 
