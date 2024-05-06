@@ -15,7 +15,7 @@ var inputText = input.value;
 	   // localStorage.setItem("arquivo1", input);
   //console.log(input);
 window.alert('Canal ' + inputText + ' inserido com sucesso!');
-window.location.reload();
+//window.location.reload();
 	}
 }
 
@@ -27,7 +27,7 @@ function setLink() {
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
-	    window.alert("Url do vídeo ou áudio é obrigatório!");
+	   // window.alert("Url do vídeo ou áudio é obrigatório!");
 	    
         input.focus();
         return false;
@@ -40,7 +40,7 @@ var inputText = input.value;
  //localStorage.getItem("arquivo1") = input.value;
 let Input = document.getElementById("Input");    
 let n = input.value;
-	window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
+	//window.alert('Canal ' + localStorage.getItem("arquivo1") + ' inserido com sucesso!');
 	var bradmaxPlayerConfig = {dataProvider:{source:[{url:n}]},autoplay:true};
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
