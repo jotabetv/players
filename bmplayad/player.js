@@ -12,11 +12,11 @@ function setLink(){
 var input = document.form.input;
 var inputText = input.value;
     if (input.value == ""){
-	//window.alert("Url do vídeo ou áudio é obrigatório!");
+	window.alert("Url do vídeo ou áudio é obrigatório!");
 	input.focus();
         return false;
 }else {
-//alert('Canal ' + inputText + ' inserido com sucesso!');
+window.alert('Canal ' + inputText + ' inserido com sucesso!');
 localStorage.setItem("input",document.getElementById("input").value);
 window.location.reload();
 	}
@@ -28,7 +28,7 @@ let Input = document.getElementById("Input");
 let inputText = input.value;
 let n = input.value;	
 if (input.value == ""){
-	window.alert("Url do vídeo ou áudio é obrigatório!");
+	//window.alert("Url do vídeo ou áudio é obrigatório!");
 	input.focus();
         return false;
 }else {
@@ -36,7 +36,7 @@ if (input.value == ""){
 	var element = document.getElementById("JbPlayer");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 localStorage.removeItem("input",document.getElementById("input").value);
-window.alert('Canal ' + n + ' inserido com sucesso!');
+//window.alert('Canal ' + n + ' inserido com sucesso!');
 	localStorage.removeItem("n");
 	input.value = ''
 }
