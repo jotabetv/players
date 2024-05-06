@@ -11,6 +11,7 @@ var inputText = input.value;
 	window.alert("Url do vídeo ou áudio é obrigatório!");
         return false;
 }else {
+	    const input = document.querySelector("#input").value;
 	    localStorage.setItem("inputText", input);
   console.log(input);
 alert('Canal ' + inputText + ' inserido com sucesso!');
