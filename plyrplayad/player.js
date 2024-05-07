@@ -4,7 +4,7 @@
     JBF-TV Player - R.Santana/BA
 */
 
-unction Carregar(){
+function Carregar(){
 	document.getElementById("input").value = localStorage.getItem("input");
 	}
 
