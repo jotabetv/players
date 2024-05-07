@@ -45,22 +45,23 @@ function setLink() {
 	let Input2 = document.getElementById("Input2")
 	let input2Text = input2.value
 
-	playlist = { file: input.value, 
-		image: input1.value,
-		title: input2.value };
-			jwplayer().load(playlist);
-			//jwplayer().play();
+playlist = { file: input.value, 
+	image: input1.value,
+	title: input2.value };
+			
+	jwplayer().load(playlist);
+	//jwplayer().play();
 
-		window.alert('Canal ' + input2.value + ' inserido com sucesso!');
+	window.alert('Canal ' + input2.value + ' inserido com sucesso!');
 
-		input.value = '',
-		input1.value = '',
-		input2.value = ''
-		}
+	input.value = '',
+	input1.value = '',
+	input2.value = ''
 	}
+}
 
 function next() {
 	let jb_player = document.getElementById("jb_player")
 		jwplayer().playlistNext();
 		jwplayer().play(true);
-	}
+		}
