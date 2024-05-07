@@ -75,11 +75,11 @@ playlist = { file: input.value,
 
 	window.alert('Canal ' + input4.value + ' inserido com sucesso!');
 
-	input.value = '',
-	input1.value = '',
-	input2.value = '',
-	input3.value = '',
-	input4.value = ''
+	//input.value = '',
+	//input1.value = '',
+	//input2.value = '',
+	//input3.value = '',
+	//input4.value = ''
 	}
 }
 
