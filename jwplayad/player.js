@@ -4,8 +4,8 @@
     JBF-TV Player - R.Santana/BA
 */
 
-var jw = document.getElementById('JbPlayer');
-var playerInstance = jwplayer("JbPlayer");
+var jw = document.getElementById('jb_player');
+var playerInstance = jwplayer("jb_player");
 playerInstance.setup({
 playlist: [{
 	file: ".m3u8",
@@ -37,7 +37,7 @@ function setLink() {
 			input.focus();
 			return false;
 		}else {
-	let JbPlayer = document.getElementById("JbPlayer")
+	let jb_player = document.getElementById("jb_player")
 	let Input = document.getElementById("Input")
 	let inputText = input.value
 	let Input1 = document.getElementById("Input1")
@@ -60,7 +60,7 @@ function setLink() {
 	}
 
 function next() {
-	let JbPlayer = document.getElementById("JbPlayer")
+	let jb_player = document.getElementById("jb_player")
 		jwplayer().playlistNext();
 		jwplayer().play(true);
 	}
