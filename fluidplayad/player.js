@@ -86,7 +86,9 @@ function addSourceToVideo(element, src, type) {
       element.appendChild(source);
     }
 }
-
+localStorage.removeItem("input",document.getElementById("input").value);
+	//localStorage.removeItem("n");
+	input.value = ''
 });
 
 // document.querySelector('#version').innerText = `hls.js version: ${Hls.version}  cdnbye version: ${Hls.engineVersion}`;   
