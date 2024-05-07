@@ -71,7 +71,7 @@ playlist = { file: input.value,
 	};
 			
 	jwplayer().load(playlist);
-	//jwplayer().play();
+	jwplayer().play();
 
 	window.alert('Canal ' + input4.value + ' inserido com sucesso!');
 
