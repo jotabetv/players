@@ -19,4 +19,8 @@ n = n[1];
 	window.player = player;
 		}
 	}
-	
+	if(window.bradmax && window.bradmax.player) {
+		setLink();
+		//input.value = "";
+	}
+
