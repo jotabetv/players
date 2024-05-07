@@ -7,7 +7,7 @@
 var jw = document.getElementById('jb_player');
 var playerInstance = jwplayer("jb_player");
 playerInstance.setup({
-playlist: [{
+source: [{
 	file: ".mpd",
 		drm: {
 		clearkey: {keyId: "???", key: "???"}
@@ -62,7 +62,7 @@ function setLink() {
 	let Input4 = document.getElementById("Input4");
 	let input4Text = input4.value;
 
-playlist = { file: input.value,
+source = { file: input.value,
 	    drm: {
 		clearkey: {keyId: input2.value, key: input3.value}
 		},
@@ -70,7 +70,7 @@ playlist = { file: input.value,
 	title: input4.value
 	};
 			
-	jwplayer().load(playlist);
+	jwplayer().load(source);
 	//jwplayer().play();
 
 	window.alert('Canal ' + input4.value + ' inserido com sucesso!');
@@ -85,6 +85,6 @@ playlist = { file: input.value,
 
 function next() {
 	let jb_player = document.getElementById("jb_player")
-		jwplayer().playlistNext();
+		jwplayer().sourceNext();
 		jwplayer().play(true);
 		}
