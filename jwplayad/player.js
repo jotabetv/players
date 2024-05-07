@@ -37,13 +37,13 @@ function setLink() {
 			input.focus();
 			return false;
 		}else {
-	let jb_player = document.getElementById("jb_player")
-	let Input = document.getElementById("Input")
-	let inputText = input.value
-	let Input1 = document.getElementById("Input1")
-	let input1Text = input1.value
-	let Input2 = document.getElementById("Input2")
-	let input2Text = input2.value
+	let jb_player = document.getElementById("jb_player");
+	let Input = document.getElementById("Input");
+	let inputText = input.value;
+	let Input1 = document.getElementById("Input1");
+	let input1Text = input1.value;
+	let Input2 = document.getElementById("Input2");
+	let input2Text = input2.value;
 
 playlist = { file: input.value, 
 	image: input1.value,
