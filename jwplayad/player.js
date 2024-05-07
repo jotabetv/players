@@ -47,8 +47,9 @@ function setLink() {
 
 playlist = { file: input.value, 
 	image: input1.value,
-	title: input2.value };
-			
+	title: input2.value 
+	};
+
 	jwplayer().load(playlist);
 	//jwplayer().play();
 
