@@ -18,9 +18,9 @@ n = n[1];
 	if(!window.player) {
 	window.player = player;
 		}
-	}
+	
 	if(window.bradmax && window.bradmax.player) {
 		setLink();
 		//input.value = "";
 	}
-
+}
