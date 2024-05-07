@@ -8,9 +8,9 @@ var jw = document.getElementById('jb_player');
 var playerInstance = jwplayer("jb_player");
 playerInstance.setup({
 playlist: [{
-	file: "https://0146-vos.dtvott.com/DASH/manifest.mpd",
+	file: ".mpd",
 		drm: {
-		clearkey: {keyId: "aaa", key: "eee"}
+		clearkey: {keyId: "???", key: "???"}
 		},
 	image: "https://imagem.natelinha.uol.com.br/original/5-emissoras-logo_eda9a984911a03a687f473e5711706ca959183e5.jpeg",
 	title: "JBF-TV",
@@ -71,15 +71,15 @@ playlist = { file: input.value,
 	};
 			
 	jwplayer().load(playlist);
-	jwplayer().play();
+	//jwplayer().play();
 
 	window.alert('Canal ' + input4.value + ' inserido com sucesso!');
 
-	//input.value = '',
-	//input1.value = '',
-	//input2.value = '',
-	//input3.value = '',
-	//input4.value = ''
+	input.value = '',
+	input1.value = '',
+	input2.value = '',
+	input3.value = '',
+	input4.value = ''
 	}
 }
 
