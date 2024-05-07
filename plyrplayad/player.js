@@ -4,6 +4,10 @@
     JBF-TV Player - R.Santana/BA
 */
 
+unction Carregar(){
+	document.getElementById("input").value = localStorage.getItem("input");
+	}
+
 function setLink(){
 var input = document.form.input;
 var inputText = input.value;
