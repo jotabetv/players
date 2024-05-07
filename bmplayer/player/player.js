@@ -22,7 +22,6 @@ function setLink() {
 
 	if(window.bradmax && window.bradmax.player) {
 		setLink();
-		input.value = "";
 	} else {
 		window.addEventListener('load', setLink);
 		}
