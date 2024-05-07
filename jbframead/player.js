@@ -17,9 +17,9 @@ function setLink(){
     var input = document.getElementById("input");
     var inputText = input.value;
     var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
-   }
-input.value = ''
-}
+       }
+            input.value = ''
+    }
 
 function play(){
     var iframe = document.querySelector('#jb_player');
