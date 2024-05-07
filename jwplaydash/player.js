@@ -63,10 +63,10 @@ function setLink() {
 	let input4Text = input4.value;
 
 playlist = { file: input.value,
-	image: input1.value, 
-		drm: {
+	    drm: {
 		clearkey: {keyId: input2.value, key: input3.value}
-		},     
+		},
+	image: input1.value,
 	title: input4.value
 	};
 			
