@@ -32,11 +32,11 @@ playlist: [{
 function setLink() {
 	var input = document.form.input;
 	var inputText = input.value;
-	if (input.value == ""){
-		window.alert("Url do vídeo ou áudio é obrigatório!");
-		input.focus();
-		return false;
-	}else {
+		if (input.value == ""){
+			window.alert("Url do vídeo ou áudio é obrigatório!");
+			input.focus();
+			return false;
+		}else {
 	let JbPlayer = document.getElementById("JbPlayer");
 	let Input = document.getElementById("Input");
 	let inputText = input.value;
@@ -47,35 +47,35 @@ function setLink() {
     
 	var playlist = jwplayer().getPlaylist();
 	var newItem = {
-        file: input.value,
-        image: input1.value,
-        title: input2.value
-    };
+		file: input.value,
+        	image: input1.value,
+        	title: input2.value
+		};
     
-    if(jwplayer().getState() != "PLAYING"){
-        playlist.push(newItem);
-        jwplayer().load(playlist);
-    } else {
-        playlist.push(newItem);
-        var curpos = jwplayer().getPosition();
-        jwplayer().onPlaylist(function(){
-            jwplayer().seek(curpos);
-        });
-        jwplayer().load(playlist).onPlaylist(function(){
-            jwplayer().seek(curpos);
-        });
-    }
-}
+		if(jwplayer().getState() != "PLAYING"){
+			playlist.push(newItem);
+			jwplayer().load(playlist);
+		} else {
+			playlist.push(newItem);
+	var curpos = jwplayer().getPosition();
+			jwplayer().onPlaylist(function(){
+			jwplayer().seek(curpos);
+			});
+			jwplayer().load(playlist).onPlaylist(function(){
+			jwplayer().seek(curpos);
+			});
+		}
+	}
 
-window.alert('Canal ' + input2.value + ' inserido com sucesso!');
+	window.alert('Canal ' + input2.value + ' inserido com sucesso!');
 
-input.value = '',
-input1.value = '',
-input2.value = ''
+	input.value = '',
+	input1.value = '',
+	input2.value = ''
 }
 
 function next() {
-let jb_player = document.getElementById("jb_player")
-jwplayer().playlistNext();
-jwplayer().play(true);
-}
+	let jb_player = document.getElementById("jb_player")
+		jwplayer().playlistNext();
+		jwplayer().play(true);
+		}
