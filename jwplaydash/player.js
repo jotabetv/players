@@ -8,7 +8,7 @@ var jw = document.getElementById('jb_player');
 var playerInstance = jwplayer("jb_player");
 playerInstance.setup({
 playlist: [{
-	file: ".mpd",
+	file: "https://0146-vos.dtvott.com/DASH/manifest.mpd",
 		drm: {
 		clearkey: {keyId: "???", key: "???"}
 		},
