@@ -18,6 +18,7 @@ function setLink(){
     var inputText = input.value;
     var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
    }
+input.value = ''
 }
 
 function play(){
