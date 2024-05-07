@@ -9,9 +9,9 @@ var playerInstance = jwplayer("jb_player");
 playerInstance.setup({
 playlist: [{
 	file: ".mpd",
-	drm: {
-		clearkey: {keyId: "???", key: "???"}
-		},
+	//drm: {
+		//clearkey: {keyId: "???", key: "???"}
+		//},
 	image: "https://imagem.natelinha.uol.com.br/original/5-emissoras-logo_eda9a984911a03a687f473e5711706ca959183e5.jpeg",
 	title: "JBF-TV",
 	description: "Todos os Canais em um só Lugar!" 
