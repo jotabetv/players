@@ -15,14 +15,5 @@ n = n[1];
 	var element = document.getElementById("jb_player");
 	var player = window.bradmax.player.create(element, bradmaxPlayerConfig);
 
-// Back compability.
-	if(!window.player) {
-	window.player = player;
-		}
-	}
-	if(window.bradmax && window.bradmax.player) {
-		setLink();
-		//input.value = "";
-	} else {
-window.addEventListener('load', setLink);
+
 }
