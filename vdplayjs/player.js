@@ -67,4 +67,5 @@ if (z == "vimeo"){
 	videoPlayer.play();
 	}
 }
+input.value = ''
 }
