@@ -105,7 +105,9 @@ if (n == ".mp4","webm",".mkv",".mp3",".ogg",".wav",".m4v",".ogv","aac"){
     }]
   };
 }
-
+localStorage.removeItem("input",document.getElementById("input").value);
+	//localStorage.removeItem("n");
+	input.value = ''
 });
 
 function play(){
