@@ -21,7 +21,7 @@ sources: [{
 	controls: true,
 	aspectratio: "16:9",
 	stretching: "exactfit",      //uniform|fill|exactfit|bestfit|none
-	type: "dash",
+	//type: "dash",
 	primary: "flash",
 	repeat: true,
 	height: '480',
