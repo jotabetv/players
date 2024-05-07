@@ -10,7 +10,7 @@ playerInstance.setup({
 playlist: [{
 	file: "https://0146-vos.dtvott.com/DASH/manifest.mpd",
 		drm: {
-		clearkey: {keyId: "???", key: "???"}
+		clearkey: {keyId: "aaa", key: "eee"}
 		},
 	image: "https://imagem.natelinha.uol.com.br/original/5-emissoras-logo_eda9a984911a03a687f473e5711706ca959183e5.jpeg",
 	title: "JBF-TV",
