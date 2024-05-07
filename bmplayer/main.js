@@ -18,4 +18,5 @@ function setLink(){
 		window.alert('Canal ' + inputText + ' inserido com sucesso!');
 		window.location.href = './player' + '?source=' + inputText;	   
 		}
+	input.value = ''
 	}
