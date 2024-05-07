@@ -16,6 +16,7 @@ var inputText = input.value;
         return false;
 }else {
 window.alert('Canal ' + inputText + ' inserido com sucesso!');
+localStorage.setItem("input",document.getElementById("input").value);
 window.location.reload();
 	}
 }
