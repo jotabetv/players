@@ -76,16 +76,16 @@ function setLink() {
 			playlist.push(newItem);
 			jwplayer().load(playlist);
 		} else {
-		playlist.push(newItem);
+			playlist.push(newItem);
 	var curpos = jwplayer().getPosition();
-		jwplayer().onPlaylist(function(){
-		jwplayer().seek(curpos);
-		});
-	jwplayer().load(playlist).onPlaylist(function(){
-	jwplayer().seek(curpos);
-	});
+			jwplayer().onPlaylist(function(){
+			jwplayer().seek(curpos);
+			});
+			jwplayer().load(playlist).onPlaylist(function(){
+			jwplayer().seek(curpos);
+			});
+		}
 	}
-}
 
 	window.alert('Canal ' + input4.value + ' inserido com sucesso!');
 
