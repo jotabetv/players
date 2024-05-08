@@ -65,7 +65,8 @@ textarea:focus, input:focus, select:focus {
     display: inline-block;
     width: 100px;
     height: 35px;
-    padding: 12px 20px;
+    padding: 12px 10px;
+    margin: 10;
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -91,7 +92,8 @@ textarea:focus, input:focus, select:focus {
     display: inline-block;
     width: 100px;
     height: 35px;
-    padding: 12px 20px;
+    padding: 12px 10px;
+    margin: 10;
     align-items: center;
     background-color: #4CAF50;
     color: white;
