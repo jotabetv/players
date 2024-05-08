@@ -61,7 +61,7 @@ textarea:focus, input:focus, select:focus {
     outline: 0;
 }
  
-button {
+#bt1 {
     display: inline-block;
     width: 100px;
     //height: 35px;
@@ -78,17 +78,17 @@ button {
     transition: background-color 0.3s; 
 }
 
-button:hover {
+#bt1:hover {
     background-color: #9ACD32;
     border: 2px solid #00FA9A;
     color: #0000CD;
 }
 
-button:focus {
+#bt1:focus {
     border: 2px solid #00FF00;
 }
 
-button2 {
+#bt2 {
     display: inline-block;
     width: 100px;
     //height: 35px;
@@ -105,12 +105,12 @@ button2 {
     transition: background-color 0.3s;  
 }
 
-button2:hover {
+#bt2:hover {
     background-color: #00FF00;
     border: 2px solid #00FA9A;
     color: #0000CD;
 }
 
-button2:focus {
+#bt2:focus {
     border: 2px solid #FFFF00;
 }
