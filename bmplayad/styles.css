@@ -64,8 +64,8 @@ textarea:focus, input:focus, select:focus {
 #bt1 {
     display: inline-block;
     width: 100px;
-    height: 35px;
-    padding: 15px;
+    height: 45px;
+    padding: 12px;
     margin: 10px;
     align-items: center;
     background-color: #2E8B57;
