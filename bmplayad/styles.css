@@ -67,7 +67,8 @@ button {
     display: inline-block;
     width: 100px;
     height: 35px;
-    padding: 12px 30px;
+    padding: 12px;
+    margin: 10px;
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -93,7 +94,8 @@ button2 {
     display: inline-block;
     width: 100px;
     height: 35px;
-    padding: 12px 30px;
+    padding: 12px;
+    margin: 10px;
     align-items: center;
     background-color: #4CAF50;
     color: white;
