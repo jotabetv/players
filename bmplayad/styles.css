@@ -62,9 +62,9 @@ textarea:focus, input:focus, select:focus {
 }
  
 #bt1 {
-    display: inline-block;
+    //display: inline-block;
     width: 100px;
-    height: 42px;
+    height: 40px;
     padding: 12px 20px;
     //margin: 10px;
     align-items: center;
@@ -89,9 +89,9 @@ textarea:focus, input:focus, select:focus {
 }
 
 #bt2 {
-    display: inline-block;
-    width: 100px;
-    height: 42px;
+    //display: inline-block;
+    width: 70px;
+    height: 40px;
     padding: 12px 20px;
     //margin: 10px;
     align-items: center;
