@@ -64,6 +64,7 @@ textarea:focus, input:focus, select:focus {
 }
  
 button {
+    display: inline-block;
     width: 100px;
     height: 35px;
     padding: 12px 30px;
@@ -89,6 +90,7 @@ button:focus {
 }
 
 button2 {
+    display: inline-block;
     width: 100px;
     height: 35px;
     padding: 12px 30px;
