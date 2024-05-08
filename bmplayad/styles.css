@@ -64,12 +64,9 @@ textarea:focus, input:focus, select:focus {
 }
  
 button {
-    flex: 1;
-    display: inline;
     width: 100px;
     height: 35px;
-    padding: 12px 10px;
-    text-align: center;
+    padding: 12px 30px;
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -92,12 +89,9 @@ button:focus {
 }
 
 button2 {
-    flex: 1;
-    display: inline;
     width: 100px;
     height: 35px;
-    padding: 12px 10px;
-    text-align: center;
+    padding: 12px 30px;
     align-items: center;
     background-color: #4CAF50;
     color: white;
