@@ -34,15 +34,13 @@ body {
 }
 
 .controls-container {
-    display: inline;
+    display: inline-block;
     text-align: center;
     margin-top: 20px;
 }
 
 input {
     flex: 1;
-    display: inline;
-   // padding: 12px 10px;
     border: 2px solid #008000;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     border-radius: 5px 5px 5px 5px;
@@ -66,7 +64,7 @@ textarea:focus, input:focus, select:focus {
 button {
     display: inline-block;
     width: 100px;
-    height: 35px;
+    //height: 35px;
     padding: 12px;
     margin: 10px;
     align-items: center;
@@ -93,7 +91,7 @@ button:focus {
 button2 {
     display: inline-block;
     width: 100px;
-    height: 35px;
+    //height: 35px;
     padding: 12px;
     margin: 10px;
     align-items: center;
