@@ -114,3 +114,32 @@ textarea:focus, input:focus, select:focus {
 #bto2:focus {
     border: 2px solid #00FF00;
 }
+
+#close {float: right;}
+
+.white-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    border: 5px solid gray;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+}
+#overlay {
+    background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.advertise {
+  background: #5DB0EE;
+  color: #fff;
+  font-size: 80px;
+  text-align: center;
+}
