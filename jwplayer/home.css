@@ -72,7 +72,3 @@ textarea:focus, input:focus, select:focus {
 #bto:focus {
     border: 2px solid #00FF00;
 }
-button:hover {
-    background-color: #9ACD32;
-    color: #0000CD;
-}
