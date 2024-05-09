@@ -41,7 +41,7 @@ body {
 }
 
 .controls-container {
-    display: inline-block;
+    //display: inline-block;
     text-align: center;
     margin-top: 20px;
 }
@@ -95,7 +95,7 @@ textarea:focus, input:focus, select:focus {
 
 #bto2 { 
     //padding: 12px 20px;
-    width: 60px;
+    width: 70px;
     height: 42px;
     align-items: center;
     background-color: #4CAF50;
