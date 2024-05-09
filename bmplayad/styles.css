@@ -28,6 +28,12 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 2.1);
 }
 
+iframe {
+  width: 840px;
+  height: 480px;
+  background: #FFE4C4;
+}
+
 #jb_player {
     width: 840px;
     height: 480px;
@@ -35,7 +41,6 @@ body {
 }
 
 .controls-container {
-    //display: inline-block;
     text-align: center;
     margin-top: 20px;
 }
@@ -63,11 +68,9 @@ textarea:focus, input:focus, select:focus {
 }
  
 #bt1 {
-    //display: inline-block;
+    padding: 10px 10px;
     width: 100px;
     height: 42px;
-    padding: 10px 10px;
-    //margin: 10px;
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -89,12 +92,10 @@ textarea:focus, input:focus, select:focus {
     border: 2px solid #00FF00;
 }
 
-#bt2 {
-    //display: inline-block;
+#bt2 { 
+    padding: 5px 5px;
     width: 60px;
     height: 42px;
-    padding: 5px 5px;
-    //margin: 10px;
     align-items: center;
     background-color: #4CAF50;
     color: white;
