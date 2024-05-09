@@ -31,10 +31,11 @@ body {
 #jb_player {
     width: 840px;
     height: 480px;
+    background: #FFE4C4;
 }
 
 .controls-container {
-    display: inline-block;
+    //display: inline-block;
     text-align: center;
     margin-top: 20px;
 }
