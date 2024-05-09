@@ -9,20 +9,20 @@ function setLink(){
     var inputText = input.value;
         if (input.value == ""){
             window.alert("Url do vídeo ou áudio é obrigatório!");	
-    var jbf_tv = '';document.getElementById('jb_player').src=jbf_tv;
+    var jbf_tv = '';document.getElementById('jb_frame').src=jbf_tv;
 
         }else {
             window.alert('Canal ' + inputText + ' inserido com sucesso!');
-    var jb_player = document.getElementById("jb_player");
+    var jb_player = document.getElementById("jb_frame");
     var input = document.getElementById("input");
     var inputText = input.value;
-    var jbf_tv = inputText;document.getElementById('jb_player').src=jbf_tv;
+    var jbf_tv = inputText;document.getElementById('jb_frame').src=jbf_tv;
        }
             input.value = ''
     }
 
 function play(){
-    var iframe = document.querySelector('#jb_player');
+    var iframe = document.querySelector('#jb_frame');
         // Do fullscreen
         if (iframe.requestFullscreen) {
              iframe.requestFullscreen();
