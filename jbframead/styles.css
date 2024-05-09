@@ -28,16 +28,16 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 2.1);
 }
 
-#iframe {
-  width: 840px;
-  height: 480px;
-  background: #FFE4C4;
-}
-
 #jb_player {
     width: 840px;
     height: 480px;
     background: #BDB76B;
+}
+
+#jb_frame {
+  width: 840px;
+  height: 480px;
+  background: #FFE4C4;
 }
 
 .controls-container {
