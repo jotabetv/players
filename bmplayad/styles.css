@@ -69,8 +69,8 @@ textarea:focus, input:focus, select:focus {
 }
  
 #bto1 {
-    padding: 10px 10px;
-    width: 60px;
+    padding: 12px 20px;
+    width: 70px;
     height: 42px;
     align-items: center;
     background-color: #2E8B57;
@@ -94,7 +94,7 @@ textarea:focus, input:focus, select:focus {
 }
 
 #bto2 { 
-    padding: 5px 5px;
+    padding: 12px 20px;
     width: 60px;
     height: 42px;
     align-items: center;
