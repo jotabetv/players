@@ -65,7 +65,7 @@ button {
     padding: 12px 20px;
     background-color: #2E8B57;
     color: white;
-    border: none;
+    border: 2px solid #008000;
     border-radius: 5px 5px 5px 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     cursor: pointer;
@@ -76,14 +76,19 @@ button {
 
 button:hover {
     background-color: #9ACD32;
+    border: 2px solid #00FA9A;
     color: #0000CD;
+}
+
+button:focus {
+    border: 2px solid #00FF00;
 }
 
 button2 {
     padding: 12px 20px;
     background-color: #4CAF50;
     color: white;
-    border: none;
+    border: 2px solid #008000;
     border-radius: 5px 5px 5px 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
     cursor: pointer;
@@ -95,5 +100,10 @@ button2 {
 
 button2:hover {
     background-color: #00FF00;
+    border: 2px solid #00FA9A;
     color: #0000CD;
+}
+
+button2:focus {
+    border: 2px solid #00FF00;
 }
