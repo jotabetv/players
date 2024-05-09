@@ -22,34 +22,10 @@ body {
     font-size: 2.5em;
 }
 
-.video-container {
-    display: grid;
-    width: 840px;
-    height: 480px;
-    background-color: #F5F5DC;
-    align-items: center;
-    background-position: center;
-    margin-bottom: 5px;
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 2.1);
-}
-
-#jb_player {
-    width: 840px;
-    height: 480px;
-    background: #BDB76B;
-}
-
-#jb_frame {
-  width: 840px;
-  height: 480px;
-  background: #FFE4C4;
-}
-
 .controls-container {
     text-align: center;
     margin-top: 20px;
+    //padding: 12px 20px;
 }
 
 input {
@@ -74,9 +50,9 @@ textarea:focus, input:focus, select:focus {
     outline: 0;
 }
  
-#bto1 {
-    width: 60px;
-    height: 42px;
+#bto {
+    width: 100px;
+    height: 35px;
     align-items: center;
     background-color: #2E8B57;
     color: white;
@@ -88,41 +64,12 @@ textarea:focus, input:focus, select:focus {
     transition: background-color 0.3s; 
 }
 
-#bto1:hover {
+#bto:hover {
     background-color: #9ACD32;
     border: 2px solid #00FA9A;
     color: #0000CD;
 }
 
-#bto1:focus {
+#bto:focus {
     border: 2px solid #00FF00;
-}
-
-#bto2 { 
-    width: 60px;
-    height: 42px;
-    align-items: center;
-    background-color: #4CAF50;
-    color: white;
-    border: 2px solid #008000;
-    border-radius: 5px 5px 5px 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 1.9);
-    cursor: pointer;
-    font-size: 16px;
-    transition: background-color 0.3s;  
-}
-
-#bto2:hover {
-    background-color: #00FF00;
-    border: 2px solid #00FA9A;
-    color: #0000CD;
-}
-
-#bto2:focus {
-    border: 2px solid #00FF00;
-}
-
-button:hover {
-    background-color: #9ACD32;
-    color: #0000CD;
 }
