@@ -10,8 +10,37 @@ JBF-TV Player - R.Santana/BA
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="styles.css" />
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <title>Iframe Player JBF-TV</title>
+  <style>
+        #close {float: right;}
+
+.white-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    border: 5px solid gray;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+}
+#overlay {
+    background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.advertise {
+  background: #5DB0EE;
+  color: #fff;
+  font-size: 80px;
+  text-align: center;
+}
+    </style>
 </head>
 <body>
 <div class="video-container">
@@ -25,11 +54,11 @@ JBF-TV Player - R.Santana/BA
 </form>
 </div>
 <script src="player.js"></script>
-
-
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <button id="show">Show lightbox</button>
 
-<div id="adonsite" style="display:none">
+<div id="adonsite" style="">
     <div class="white-content">
         <button id="close">Close</button>
       <p>https://embedflix.online/tv/hbo-mundi</p>
@@ -51,9 +80,21 @@ JBF-TV Player - R.Santana/BA
 <p>https://embedflix.online/tv/hbo</p>
 <p>https://embedflix.online/tv/bandsport</p>
             <p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
-            <div class="advertise">AD</div>
+             <div class="advertise">AD</div>
     </div>
 </div>
-<div id="overlay" style="display:none"></div>
+<div id="overlay" style="">
+<script type="text/javascript">
+        // Ao clicar nos elementos #overlay ou #close fecha a caixa
+$( '#overlay, #close').on('click', function(event) {
+    $("#adonsite, #overlay").hide();
+});
+
+$( '#show').on('click', function(event) {
+    $("#adonsite, #overlay").show();
+});
+    </script>
+
+</div>
 </body>
 </html>
