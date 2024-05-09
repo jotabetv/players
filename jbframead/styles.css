@@ -41,7 +41,6 @@ body {
 }
 
 .controls-container {
-    //display: inline-block;
     text-align: center;
     margin-top: 20px;
 }
@@ -69,7 +68,6 @@ textarea:focus, input:focus, select:focus {
 }
  
 #bto1 {
-    //padding: 12px 20px;
     width: 60px;
     height: 42px;
     align-items: center;
@@ -94,7 +92,6 @@ textarea:focus, input:focus, select:focus {
 }
 
 #bto2 { 
-    //padding: 12px 20px;
     width: 60px;
     height: 42px;
     align-items: center;
