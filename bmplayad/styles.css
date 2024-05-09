@@ -23,7 +23,7 @@ body {
 }
 
 .video-container {
-    display: grid;
+    //display: grid;
     width: 840px;
     height: 480px;
     background-color: #F5F5DC;
