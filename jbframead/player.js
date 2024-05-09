@@ -36,10 +36,12 @@ function play(){
     }
 
 // Ao clicar nos elementos #overlay ou #close fecha a caixa
-$( '#overlay, #close').on('click', function(event) {
-    $("#adonsite, #overlay").hide();
-});
+function OcultarDiv() {
+            var meuDialogConteudo = document.getElementById("meuDialog");
+            meuDialogConteudo.style.display = "none";
+        }
 
-$( '#show').on('click', function(event) {
-    $("#adonsite, #overlay").show();
-});
+        function MostrarDiv() {
+            var meuDialogConteudo = document.getElementById("meuDialog");
+            meuDialogConteudo.style.display = "block";
+        }    
