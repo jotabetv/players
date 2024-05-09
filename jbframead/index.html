@@ -96,5 +96,26 @@ $( '#show').on('click', function(event) {
     </script>
 
 </div>
+
+
+ <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
+<div>
+  <input id="submit" type="submit" value="submit"/>
+</div>
+
+<div id="dialog" title="Basic dialog" style="display:none;">
+  <p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
+</div>
+  <script>
+  $(document).ready(function(){
+    $("#submit").on("click", function(){
+        $("#dialog").dialog();
+    });
+});
+  </script>
 </body>
 </html>
