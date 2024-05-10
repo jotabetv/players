@@ -10,6 +10,37 @@ JBF-TV Player - R.Santana/BA
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="styles.css" />
 <title>Iframe Player JBF-TV</title>
+ <style>
+        #close {float: right;}
+
+.white-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    border: 5px solid gray;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+}
+#overlay {
+    background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
+    width: 450px;
+    height: 350px;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.advertise {
+  background: #5DB0EE;
+  color: #fff;
+  font-size: 80px;
+  text-align: center;
+}
+    </style>
+  
 </head>
 <body>
 <div class="video-container">
@@ -24,11 +55,48 @@ JBF-TV Player - R.Santana/BA
 </div>
 <script src="player.js"></script>
   
-<div class='overlay'>
-<div class='popup'>
-    <div class='close'>&#10006;</div>
-     <h2>Popup</h2>
-</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
+<button id="show">Show lightbox</button>
+ <button id="close">Close</button>
+<div id="adonsite" style="display: block;">
+    <div class="white-content">
+       
+      <p>https://embedflix.online/tv/hbo-mundi</p>
+<p>https://embedflix.online/tv/hbo-family</p>
+<p>https://embedflix.online/tv/hbo-xtreme</p>
+<p>https://embedflix.online/tv/hbo-signature</p>
+<p>https://embedflix.online/tv/globo-minas</p>
+<p>https://embedflix.online/tv/comedy-central</p>
+<p>https://embedflix.online/tv/bandnews</p>
+<p>https://embedflix.online/tv/warner-channel</p>
+<p>https://embedflix.online/tv/redetv</p>
+<p>https://embedflix.online/tv/espn-extra</p>
+<p>https://embedflix.online/tv/espn-4</p>
+<p>https://embedflix.online/tv/espn-3</p>
+<p>https://embedflix.online/tv/espn-2</p>
+<p>https://embedflix.online/tv/espn</p>
+<p>https://embedflix.online/tv/disney-channel</p>
+<p>https://embedflix.online/tv/hbo-plus</p>
+<p>https://embedflix.online/tv/hbo</p>
+<p>https://embedflix.online/tv/bandsport</p>
+
+            <p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+            <div class="advertise">AD</div>
+    </div>
+</div>
+<div id="overlay" style="display: block;">
+<script type="text/javascript">
+        // Ao clicar nos elementos #overlay ou #close fecha a caixa
+$( '#overlay, #close').on('click', function(event) {
+    $("#adonsite, #overlay").hide();
+});
+
+$( '#show').on('click', function(event) {
+    $("#adonsite, #overlay").show();
+});
+    </script>
+
+</div>
 </body>
 </html>
