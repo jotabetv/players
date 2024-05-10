@@ -36,12 +36,9 @@ function play(){
     }
 
 // Ao clicar nos elementos #overlay ou #close fecha a caixa
-function OcultarDiv() {
-            var meuDialogConteudo = document.getElementById("meuDialog");
-            meuDialogConteudo.style.display = "none";
-        }
-
-        function MostrarDiv() {
-            var meuDialogConteudo = document.getElementById("meuDialog");
-            meuDialogConteudo.style.display = "block";
-        }    
+$('.button').click(function () {
+  $('.overlay').show();
+})
+$('.close').click(function () {
+  $('.overlay').hide();
+})
