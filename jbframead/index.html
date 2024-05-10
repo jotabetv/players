@@ -24,15 +24,15 @@ JBF-TV Player - R.Santana/BA
 </div>
 <script src="player.js"></script>
   
-<div id="meuDialog">
-            <div id="meuDialogConteudo">
-                <input id="meuBotaoOcultar" type="button" onclick="OcultarDiv();" value="X" style="float: right; margin: 6px; background-color: red;" />                  
-                <p>
-                    Eu sou um popup criado com div e javascript sem usar jQuery.
-                </p>                             
-            </div>
+<div id="container">
+    <div id="pag">
+        <a href="#popup">Abrir popup</a><p>
+        Conteúdo da pagina
+        <div id="popup">
+            <a href="#pag">fechar popup</a><p>
+            Conteúdo da POPUP
         </div>
-
-        <input id="meuBotaoMostrar" type="button" onclick="MostrarDiv();" value="Mostrar" style="margin: 6px; background-color: deepskyblue;" />    
+    </div>  
+</div>
 </body>
 </html>
