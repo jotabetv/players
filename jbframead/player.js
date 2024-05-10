@@ -34,11 +34,3 @@ function play(){
             iframe.msRequestFullscreen();
         }
     }
-
-// Ao clicar nos elementos #overlay ou #close fecha a caixa
-$('.button').click(function () {
-  $('.overlay').show();
-})
-$('.close').click(function () {
-  $('.overlay').hide();
-})
