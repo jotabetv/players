@@ -37,7 +37,7 @@ function play(){
 
 document.addEventListener("DOMContentLoaded", function(){
 
-   var els = document.body.querySelectorAll("a[href*='java']");
+   var els = document.body.querySelectorAll("a[href*='https']");
    
    for(var x=0; x<els.length; x++){
       
