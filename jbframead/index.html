@@ -30,8 +30,10 @@ JBF-TV Player - R.Santana/BA
     background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
     width: 150px;
     height: 50px;
-    top: 0;
-    left: 0;
+   // top: 0;
+   // left: 0;
+    top: 50%;
+    left: 50%;
     position: fixed;
  
 }
@@ -99,7 +101,16 @@ JBF-TV Player - R.Santana/BA
     </div>
 </div>
 <div id="overlay" style="display: block;">
+<script type="text/javascript">
+        // Ao clicar nos elementos #overlay ou #close fecha a caixa
+$( '#overlay, #close').on('click', function(event) {
+    $("#adonsite, #overlay").hide();
+});
 
+$( '#show').on('click', function(event) {
+    $("#adonsite, #overlay").show();
+});
+    </script>
 
 </div>
 </body>
