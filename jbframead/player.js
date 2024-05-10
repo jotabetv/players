@@ -37,7 +37,7 @@ function play(){
 
 document.addEventListener("DOMContentLoaded", function(){
 
-   var els = document.body.querySelectorAll("a[href*='https']");
+   var els = document.body.querySelectorAll("a[href*='data-clipboard-text']");
    
    for(var x=0; x<els.length; x++){
       
