@@ -62,7 +62,7 @@ JBF-TV Player - R.Santana/BA
    
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".produtos a").click(function(e){
+   $(".advertise a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
       var p = $(this).attr("rel"); // pega o valor do atributo "rel" do link clicado
@@ -77,7 +77,7 @@ JBF-TV Player - R.Santana/BA
       }
       // converte a array em string com os valores separados por vírgula
       // e insere no input
-      $("#produtos").val(prods.join(","));
+      $("#input").val(prods.join(","));
       
    });
    
