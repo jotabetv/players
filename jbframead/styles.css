@@ -184,9 +184,9 @@ textarea:focus, input:focus, select:focus {
   text-align: center;
 }
 #fechar-pop {
-  background: #A9A9A9;
+  //background: #A9A9A9;
   //color: #ffffff;
-  font-size: 18px;
+  //font-size: 18px;
   text-align: left;
     cursor: pointer;
     color: red;
