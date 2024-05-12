@@ -49,4 +49,29 @@ document.addEventListener("DOMContentLoaded", function(){
       });
    }
 
+
+    $(function(){
+   
+   var prods = []; // array para guardar os valores clicados
+   // evento "click" nos links
+   $(".input a").click(function(e){
+      
+      e.preventDefault(); // cancela o evento do link
+      var p = $(this).attr("rel"); // pega o valor do atributo "rel" do link clicado
+      // verifica se o valor já existe na array.
+      // se não existe, adiciona com "push"
+      // se exite, remove "splice"
+      var indice = prods.indexOf(p);
+      if(indice < 0) {
+  	    prods.push(p);
+      } else {
+  	    prods.splice(indice, 1);
+      }
+      // converte a array em string com os valores separados por vírgula
+      // e insere no input
+      $("#input").val(prods.join(","));
+      
+   });
+   
+});
 });
