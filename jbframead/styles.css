@@ -189,5 +189,5 @@ textarea:focus, input:focus, select:focus {
   //font-size: 18px;
   text-align: left;
     cursor: pointer;
-    color: red;
+   // color: red;
 }
