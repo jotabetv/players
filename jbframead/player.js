@@ -36,7 +36,7 @@ function play(){
         }
     }
 
-// $(function(){
+ $(function(){
    
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
