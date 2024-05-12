@@ -19,7 +19,7 @@ JBF-TV Player - R.Santana/BA
 </div>
 <div class="controls-container">
 <form onsubmit="setLink();return false" name="form">
-<input type="text" placeholder="Url do vídeo ou áudio aqui" id="input" onfocus="this.value='';" title="Cole ou digite o url do áudio ou vídeo">
+<input type="text" placeholder="Url do vídeo ou áudio aqui" id="produtos" onfocus="this.value='';" title="Cole ou digite o url do áudio ou vídeo">
 <button type="submit" id="bto1" title="Click para inserir o canal">▲📀</button>
 <button type="button" id="bto2" onclick="play()" title="Click para iniciar reprodução">↔📀</button>
 </form>
@@ -77,7 +77,7 @@ JBF-TV Player - R.Santana/BA
       }
       // converte a array em string com os valores separados por vírgula
       // e insere no input
-      $("#input").val(prods.join(","));
+      $("#produtos").val(prods.join(","));
       
    });
    
