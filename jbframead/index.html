@@ -36,7 +36,7 @@ JBF-TV Player - R.Santana/BA
 <div id="conteudo">
 <div class="advertise">LISTA DE LINKS</div>
 </div>
- <div class="advertise">
+ <div class="canais">
  <p><a href="#" rel="produto1">Produto 1</a></p>
  <p><a href="#" rel="produto2">Produto 2</a></p>
  <p><a href="#" rel="hbo mundi">Produto 3</a></p>
@@ -63,7 +63,7 @@ JBF-TV Player - R.Santana/BA
    
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".advertise a").click(function(e){
+   $(".canais a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
       var p = $(this).attr("rel"); // pega o valor do atributo "rel" do link clicado
