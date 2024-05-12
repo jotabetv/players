@@ -38,7 +38,7 @@ function play(){
 
  $(function(){
    
-   var prods = []; // array para guardar os valores clicados
+   //var prods = [];  array para guardar os valores clicados
    // evento "click" nos links
    $(".canais a").click(function(e){
       
@@ -48,11 +48,11 @@ function play(){
       // se não existe, adiciona com "push"
       // se exite, remove "splice"
       var indice = prods.indexOf(p);
-      if(indice < 0) {
-  	    prods.push(p);
-      } else {
-  	    prods.splice(indice, 1);
-      }
+      //if(indice < 0) {
+  	   // prods.push(p);
+     // } else {
+  	 //   prods.splice(indice, 1);
+    //  }
       // converte a array em string com os valores separados por vírgula
       // e insere no input
       $("#input").val(prods.join(","));
