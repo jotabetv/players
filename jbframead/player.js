@@ -35,17 +35,17 @@ function play(){
         }
     }
 
-document.addEventListener("DOMContentLoaded", function(){
+//document.addEventListener("DOMContentLoaded", function(){
 
-   var els = document.body.querySelectorAll("a[href*='java']");
+   //var els = document.body.querySelectorAll("a[href*='java']");
    
-   for(var x=0; x<els.length; x++){
+  // for(var x=0; x<els.length; x++){
       
-      els[x].addEventListener("click", function(){
-         var a_txt = this.textContent,
-              inpt = document.body.querySelector("#input");
+     // els[x].addEventListener("click", function(){
+        // var a_txt = this.textContent,
+            //  inpt = document.body.querySelector("#input");
               
-         inpt.value += " "+a_txt;
-      });
-   }
+        // inpt.value += " "+a_txt;
+     // });
+  // }
 
