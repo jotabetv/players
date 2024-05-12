@@ -18,6 +18,7 @@ function setLink(){
     var inputText = input.value;
     var jbf_tv = inputText;document.getElementById('jb_frame').src=jbf_tv;
        }
+    localStorage.removeItem("input",document.getElementById("input").value);
             input.value = ''
     }
 
