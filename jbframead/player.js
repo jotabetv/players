@@ -56,7 +56,7 @@ function play(){
       // converte a array em string com os valores separados por vírgula
       // e insere no input
       $("#input").val(prods.join(","));
-      
+    prods.length = 0;  
    });
    
 });
