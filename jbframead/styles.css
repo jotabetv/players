@@ -115,6 +115,9 @@ textarea:focus, input:focus, select:focus {
     border: 2px solid #00FF00;
 }
 
+
+/* POP UP */
+
 #abrir-popup:checked ~ #conteudo {
   display: block;
 }
@@ -165,7 +168,7 @@ textarea:focus, input:focus, select:focus {
  // column-width: 50px;
   box-sizing: border-box;
   position: fixed;
-  width: min(280px, 90vw);
+  width: min(288px, 90vw);
   height: 260px;
   left: max(calc(50vw - 380px / 2), 4vw);
   top: calc(50vh - 80px);
@@ -184,7 +187,7 @@ textarea:focus, input:focus, select:focus {
  // column-width: 50px;
   box-sizing: border-box;
   position: fixed;
-  width: min(280px, 90vw);
+  width: min(288px, 90vw);
   height: 260px;
   right: max(calc(50vw - 780px / 2), 4vw);
   top: calc(50vh - 80px);
