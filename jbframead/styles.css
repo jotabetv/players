@@ -186,7 +186,7 @@ textarea:focus, input:focus, select:focus {
   position: fixed;
   width: min(280px, 90vw);
   height: 260px;
-  right: max(calc(50vw - 580px / 2), 4vw);
+  right: max(calc(50vw - 780px / 2), 4vw);
   top: calc(50vh - 80px);
   overflow-y: auto;
   padding: 22px;
