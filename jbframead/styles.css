@@ -215,3 +215,8 @@ textarea:focus, input:focus, select:focus {
     cursor: pointer;
    // color: red;
 }
+#categoria {
+  color: red;
+  font-size: 15px;
+  text-align: center;
+}
