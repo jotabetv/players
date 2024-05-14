@@ -216,7 +216,8 @@ textarea:focus, input:focus, select:focus {
    // color: red;
 }
 #categoria {
-  color: #0000CD;
+  background: #B0C4DE;
+  color: #B8860B;
   font-size: 12px;
   font-weight: bold;
   text-align: left;
