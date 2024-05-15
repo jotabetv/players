@@ -76,6 +76,10 @@ function play(){
 //   }
 
 var about = '<div class=about> </div>';
+
+console.log(main+about+more);
+document.body.innerHTML = main+about+more;
+
 /*
 var output=document.querySelector(".adicion");
 var input=new XMLHttpRequest();
