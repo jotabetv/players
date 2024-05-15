@@ -75,7 +75,7 @@ function play(){
    //   });
 //   }
 
-var output=document.querySelector("div.adicion");
+var output=document.querySelector(".adicion");
 var input=new XMLHttpRequest();
 input.open("GET","menu1.txt")
 input.addEventListener("load",function(){
