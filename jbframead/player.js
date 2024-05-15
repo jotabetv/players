@@ -76,7 +76,7 @@ function play(){
 //   }
 
  function carregar(pagina){
-        $("#adicion").load(pagina);
+        $("#canais").load(pagina);
     }
 /*
 $('.carrega_pagina').click(function () {
