@@ -74,8 +74,8 @@ function play(){
         // inpt.value += " "+a_txt;
    //   });
 //   }
- function poplink(pagina){
-        $("#opcao").load(pagina);
+ function poplink(menu1.txt){
+        $("#opcao").load(menu1.txt);
     }
 // function poplink(pagina){
     //    $("#adicion").load(pagina);
