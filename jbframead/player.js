@@ -74,10 +74,12 @@ function play(){
         // inpt.value += " "+a_txt;
    //   });
 //   }
-
- function poplink(pagina){
-        $("#adicion").load(pagina);
+ function carregar(pagina){
+        $("#opcao").load(pagina);
     }
+// function poplink(pagina){
+    //    $("#adicion").load(pagina);
+   // }
 /*
 $('.carrega_pagina').click(function () {
     var href = $(this).attr('href'); 
