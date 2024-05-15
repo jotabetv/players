@@ -75,6 +75,8 @@ function play(){
    //   });
 //   }
 
+var about = '<div class=about> </div>';
+/*
 var output=document.querySelector(".adicion");
 var input=new XMLHttpRequest();
 input.open("GET","menu1.txt")
@@ -82,7 +84,7 @@ input.addEventListener("load",function(){
   output.innerHTML=input.responseText;
 })
 input.send();
-/*
+
 var openFile = function (event) {
     var input = event.target;
     var reader = new FileReader();
