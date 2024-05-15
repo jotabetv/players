@@ -75,14 +75,14 @@ function play(){
    //   });
 //   }
 
-var output=document.querySelector("div.conteudo");
+var output=document.querySelector("div.adicion");
 var input=new XMLHttpRequest();
 input.open("GET","menu1.txt")
 input.addEventListener("load",function(){
   output.innerHTML=input.responseText;
 })
 input.send();
-
+/*
 var openFile = function (event) {
     var input = event.target;
     var reader = new FileReader();
@@ -93,3 +93,4 @@ var openFile = function (event) {
     };
     reader.readAsText(input.files[0]);
 };
+*/
