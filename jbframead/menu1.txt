@@ -129,5 +129,4 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/a-fazenda-15" title="Selecionar Canal">A FAZENDA 15</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/investigacao-discovery" title="Selecionar Canal">ID</a></label></p>
-<p><div class="canais" id="opcao"><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/multishow" title="Selecionar Canal">MULTISHOW</a></label></div></p>
-
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/multishow" title="Selecionar Canal">MULTISHOW</a></label></p>
