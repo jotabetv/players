@@ -75,6 +75,13 @@ function play(){
    //   });
 //   }
 
+
+$('.carrega_pagina').click( function(){ 
+
+    var href = $(this).attr('href'); // pega o valor do atributo href da âncora clicada
+    $('#adicion').load(href);
+    return false;
+});
 //var canais = '<div class=canais> </div>';
 
 //console.log(canais);
