@@ -76,10 +76,15 @@ function play(){
 //   }
 
 
-$('.carrega_pagina').click( function(){ 
-
-    var href = $(this).attr('href'); // pega o valor do atributo href da âncora clicada
-    $('#adicion').load(href);
+$('.carrega_pagina').click(function () {
+    var href = $(this).attr('href'); 
+    $.ajax({
+        url: href,
+        dataType: 'html',
+        success: function (html) {
+            $('#adicion').html(html);
+        }
+    });
     return false;
 });
 //var canais = '<div class=canais> </div>';
