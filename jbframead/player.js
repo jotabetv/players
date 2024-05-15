@@ -75,7 +75,10 @@ function play(){
    //   });
 //   }
 
-
+ function carregar(pagina){
+        $("#adicion").load(pagina);
+    }
+/*
 $('.carrega_pagina').click(function () {
     var href = $(this).attr('href'); 
     $.ajax({
@@ -87,12 +90,13 @@ $('.carrega_pagina').click(function () {
     });
     return false;
 });
-//var canais = '<div class=canais> </div>';
 
-//console.log(canais);
-//document.body.innerHTML = canais;
+var canais = '<div class=canais> </div>';
 
-/*
+console.log(canais);
+document.body.innerHTML = canais;
+
+
 var output=document.querySelector(".adicion");
 var input=new XMLHttpRequest();
 input.open("GET","menu1.txt")
