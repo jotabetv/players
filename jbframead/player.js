@@ -75,10 +75,10 @@ function play(){
    //   });
 //   }
 
-var about = '<div class=about> </div>';
+var adicion = '<div class=adicion> </div>';
 
-console.log(main+about+more);
-document.body.innerHTML = main+about+more;
+console.log(adicion);
+document.body.innerHTML = adicion;
 
 /*
 var output=document.querySelector(".adicion");
