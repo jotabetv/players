@@ -39,7 +39,7 @@ function play(){
 //function enviaDados(){
  // $("#idPai").html("");
 	//$('input[id^="ctxt"]').each(function(){
-  		$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
+  		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
 	//});  
 //}
 
