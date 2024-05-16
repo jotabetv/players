@@ -49,10 +49,7 @@ function Carregar(){
 	}
 
  $(function(){
-$("#canais").html("");
-	$('input[id^="#input"]').each(function(){
-  		$("#canais").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
-	 
+ 
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
    $(".canais a").click(function(e){
