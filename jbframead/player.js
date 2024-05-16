@@ -36,17 +36,6 @@ function play(){
         }
     }
 
-//function enviaDados(){
-//var adicion = document.getElementById("adicion");
-  //  var input = document.getElementById("input");
-  //  var inputText = input.value;
- //$("#idPai").html("");
-	//$('input[id^="ctxt"]').each(function(){
-  		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
-	//});  
-//}
-
-
 
 function Carregar(){
 	$("#adicion").load("menu1.html");
@@ -54,15 +43,13 @@ function Carregar(){
 	}
 
 
-
-
  $(function(){
-  var categoria = document.getElementById("categoria");
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".categoria a").click(function(e){
+   $(".canais a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
+	   var canais = document.getElementById("canais");
        var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
       // verifica se o valor já existe na array.
       // se não existe, adiciona com "push"
@@ -108,12 +95,22 @@ function Carregar(){
   // });
 //});
 
-
+//function enviaDados(){
+//var adicion = document.getElementById("adicion");
+  //  var input = document.getElementById("input");
+  //  var inputText = input.value;
+ //$("#idPai").html("");
+	//$('input[id^="ctxt"]').each(function(){
+  		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
+	//});  
+//}
 
 // function poplink(pagina){
     //    $("#adicion").load(pagina);
    // }
 /*
+
+
 $('.carrega_pagina').click(function () {
     var href = $(this).attr('href'); 
     $.ajax({
