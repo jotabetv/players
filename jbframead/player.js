@@ -37,14 +37,17 @@ function play(){
     }
 
 //function enviaDados(){
- // $("#idPai").html("");
+ //$("#idPai").html("");
 	//$('input[id^="ctxt"]').each(function(){
   		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
 	//});  
 //}
 
 function Carregar(){
-	$("#canais").load("menu1.txt");
+	$("#canais").load("menu1.html");
+	$("#canais").html("");
+	$('input[id^="ctxt"]').each(function(){
+  		$("#canais").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
 	}
 
  $(function(){
