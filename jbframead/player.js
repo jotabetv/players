@@ -48,29 +48,19 @@ function play(){
 
 
 
-//function Carregar(){
-	//$("#adicion").load("menu1.html");
+/function Carregar(){
+	$("#adicion").load("menu1.html");
 	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
-	//}
+	}
 
-function Load(View){
-       $("#canais").load(View);
-    };
-      $(document).ready(function(e) {
-       $("#a1").click(function(e) {
-         Load('menu1.html'); 
-       });
-       $("#a2").click(function(e) {
-         Load('index.html'); 
-       });
-    });
+
 
 
  $(function(){
  
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".canais a").click(function(e){
+   $(".listlink2 a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
        var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
