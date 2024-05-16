@@ -48,10 +48,10 @@ function play(){
 
 
 
-function Carregar(){
-	$("#adicion").load("menu1.html");
+//function Carregar(){
+	//$("#adicion").load("menu1.html");
 	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
-	}
+	//}
 
 function Load(View){
        $("#canais").load(View);
