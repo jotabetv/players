@@ -44,7 +44,7 @@ function play(){
 //}
 
 function Carregar(){
-	$("#canais").load("menu1.html");
+	$("#adicion").load("menu1.html");
 	
 	}
 
