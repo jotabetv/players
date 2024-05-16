@@ -48,7 +48,7 @@ function play(){
 
 
 
-/function Carregar(){
+function Carregar(){
 	$("#adicion").load("menu1.html");
 	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
 	}
