@@ -60,7 +60,7 @@ function Carregar(){
  
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".menu1 a").click(function(e){
+   $(".categoria a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
        var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
