@@ -53,6 +53,19 @@ function Carregar(){
 	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
 	}
 
+function Load(View){
+       $("#canais").load(View);
+    };
+      $(document).ready(function(e) {
+       $("#a1").click(function(e) {
+         Load('menu1.html'); 
+       });
+       $("#a2").click(function(e) {
+         Load('index.html'); 
+       });
+    });
+
+
  $(function(){
  
    var prods = []; // array para guardar os valores clicados
