@@ -45,13 +45,13 @@ function play(){
 
 function Carregar(){
 	$("#canais").load("menu1.html");
-	$("#canais").html("");
-	$('input[id^="input"]').each(function(){
-  		$("#canais").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
+	
 	}
 
  $(function(){
-
+$("#canais").html("");
+	$('input[id^="#input"]').each(function(){
+  		$("#canais").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
 	 
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
