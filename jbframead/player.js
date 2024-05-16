@@ -46,9 +46,11 @@ function play(){
 	//});  
 //}
 
+
+
 function Carregar(){
-	//$("#adicion").load("menu1.html");
-	document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
+	$("#adicion").load("menu1.html");
+	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
 	}
 
  $(function(){
