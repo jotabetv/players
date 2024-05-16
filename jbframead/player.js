@@ -54,10 +54,10 @@ function Carregar() {
  $(function(){
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $("menu1.html #canais a").click(function(e){
+   $("#menu1.html .canais a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
-	   var canais = document.getElementById("canais");
+	  // var canais = document.getElementById("canais");
        var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
       // verifica se o valor já existe na array.
       // se não existe, adiciona com "push"
