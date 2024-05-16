@@ -47,7 +47,7 @@ function play(){
 //}
 
 function Carregar(){
-	$("#adicion").load("menu1.html");
+	$("#adicion a").load("menu1.html");
 	
 	}
 
