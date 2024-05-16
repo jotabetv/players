@@ -37,6 +37,9 @@ function play(){
     }
 
 //function enviaDados(){
+//var adicion = document.getElementById("adicion");
+  //  var input = document.getElementById("input");
+  //  var inputText = input.value;
  //$("#idPai").html("");
 	//$('input[id^="ctxt"]').each(function(){
   		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
@@ -52,7 +55,7 @@ function Carregar(){
  
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".adicion a").click(function(e){
+   $("#adicion").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
        var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
