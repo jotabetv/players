@@ -57,7 +57,7 @@ function Carregar(){
 
 
  $(function(){
- 
+  var categoria = document.getElementById("categoria");
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
    $(".categoria a").click(function(e){
