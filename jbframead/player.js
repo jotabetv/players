@@ -36,8 +36,20 @@ function play(){
         }
     }
 
+//function enviaDados(){
+ // $("#idPai").html("");
+	//$('input[id^="ctxt"]').each(function(){
+  		$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
+	//});  
+//}
+
+function Carregar(){
+	$("#canais").load("menu1.txt");
+	}
+
  $(function(){
-   
+
+	 
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
    $(".canais a").click(function(e){
@@ -78,9 +90,7 @@ function play(){
    //     $("#opcao").load(menu1.txt);
   //  }
 
-function Carregar(){
-	$("#canais").load("menu1.txt");
-	}
+
 
 
 //$(document).ready(function() {
