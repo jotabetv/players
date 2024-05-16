@@ -54,7 +54,7 @@ function Carregar() {
  $(function(){
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
-   $(".canais a #menu1.html").click(function(e){
+   $(".canais a").click(function(e){
       
       e.preventDefault(); // cancela o evento do link
 	  
