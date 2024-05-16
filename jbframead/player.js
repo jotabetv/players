@@ -78,11 +78,16 @@ function play(){
    //     $("#opcao").load(menu1.txt);
   //  }
 
-$(document).ready(function() {
- $('button').on('click', function() {
-       $("#canais").load("menu1.txt");
-   });
-});
+function Carregar(){
+	$("#canais").load("menu1.txt");
+	}
+
+
+//$(document).ready(function() {
+// $('button').on('click', function() {
+      // $("#canais").load("menu1.txt");
+  // });
+//});
 
 
 
