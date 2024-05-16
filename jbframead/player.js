@@ -80,7 +80,7 @@ function play(){
 
 $(document).ready(function() {
  $('button').on('click', function() {
-       $("#opcao").load("menu1.txt");
+       $("#canais").load("menu1.txt");
    });
 });
 
