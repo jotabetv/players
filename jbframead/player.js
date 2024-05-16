@@ -64,6 +64,7 @@ function Carregar(){
       // verifica se o valor já existe na array.
       // se não existe, adiciona com "push"
       // se exite, remove "splice"
+	    window.alert(p);
       var indice = prods.indexOf(p);
       if(indice < 0) {
   	    prods.push(p);
