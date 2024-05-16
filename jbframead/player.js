@@ -36,11 +36,19 @@ function play(){
         }
     }
 
-
-function Carregar(){
-	$("#canais").load("menu1.html");
+function Carregar() {
+    $.ajax({
+        url: "menu1.html",
+        cache: true,
+        success: function(html){
+            $("#canais").html(html);
+        },
+    });
+}
+//function Carregar(){
+	//$("#canais").load("menu1.html");
 	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
-	}
+	//}
 
 
  $(function(){
