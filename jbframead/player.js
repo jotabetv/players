@@ -64,7 +64,6 @@ function Carregar(){
       // verifica se o valor já existe na array.
       // se não existe, adiciona com "push"
       // se exite, remove "splice"
-	    window.alert(p);
       var indice = prods.indexOf(p);
       if(indice < 0) {
   	    prods.push(p);
@@ -73,6 +72,7 @@ function Carregar(){
       }
       // converte a array em string com os valores separados por vírgula
       // e insere no input
+	    window.alert(p);
       $("#input").val(prods.join(","));
     prods.length = 0;  
    });
