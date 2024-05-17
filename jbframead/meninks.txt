@@ -168,7 +168,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalAlt" target="jb_player" title="Selecionar Canal">UNIVERSAL ❶</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalPremiere" target="jb_player" title="Selecionar Canal">UNIVERSAL PREMIERE</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_player" title="Selecionar Canal">TNT2️⃣ ❶</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_player" title="Selecionar Canal">TNT ❶</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/cnnBrasil.html" target="jb_player" title="Selecionar Canal">CNN Brasil</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🏃‍♂️ REALITY SHOW 2▆ ▃ ▂</div></p>
@@ -177,7 +177,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande3" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande4" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrandeReact" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrandeReact" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA REACT</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
