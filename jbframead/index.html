@@ -6,8 +6,6 @@ Copyright (c) 2024 Pierleeb
 SPDX-License-Identifier: MIT
 JBF-TV Player - R.Santana/BA
   <a onclick="carregar('menu1.txt')" href="#">Home</a>
-   <script src="menu1.txt"></script>
-  <button>Carregar</button>
 */ -->
 <meta charset="UTF-8">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +14,7 @@ JBF-TV Player - R.Santana/BA
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <title>Iframe Player JBF-TV</title>
 </head>
-<body onLoad="Carregar();">
+<body onLoad="PopLink();">
 <div class="video-container">
 <iframe id="jb_frame" name="jb_frame" frameborder="0" scrolling="no" allow="encrypted-media" allowfullscreen></iframe>
 </div>
@@ -28,8 +26,6 @@ JBF-TV Player - R.Santana/BA
 </form>
 </div>
 <script src="player.js"></script>
-<div id="boxlink">
-  </div>
-
+<div id="boxlink"></div>
 </body>
 </html>
