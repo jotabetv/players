@@ -36,6 +36,16 @@ function play(){
         }
     }
 
+
+function PopLink(){
+	$("#boxlink").load("menu1.txt");
+	
+	}
+
+
+
+/*
+
 function PopLink() {
     $.ajax({
         url: "menu1.txt",
@@ -45,14 +55,7 @@ function PopLink() {
         },
     });
 }
-//function PopLink(){
-	//$("#boxlink").load("menu1.txt");
-	
-	//}
 
-
-
-/*
  $(function(){
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
