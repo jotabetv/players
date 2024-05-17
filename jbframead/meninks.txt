@@ -4,7 +4,7 @@
 <label id="fechar-popup-btn" for="fechar-popup"></label> 
 <div id="menualfa">
 <div id="menubeta">
-<div id="menu">
+<div id="menupop">
 <div class="advertise">LISTA DE LINKS</div>
 </div>
 <div class="canais" id="alfa">
