@@ -12,309 +12,309 @@
 <p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playervipmaster.com/myplay/bandplay.php?id=k6QMxYG3rzXoibzpKpQ" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/x9fev.html?video=k6H9TR1iSZWv30xaX2y" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globorj" target="jb_frame" title="Selecionar Canal">GLOBO RJ</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globosp" target="jb_frame" title="Selecionar Canal">GLOBO SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globorj" target="jb_player" title="Selecionar Canal">GLOBO RJ</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globosp" target="jb_player" title="Selecionar Canal">GLOBO SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/xqyeq.html?video=x8u8n0m" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h1" target="jb_frame" title="Selecionar Canal">HISTORY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h2" target="jb_frame" title="Selecionar Canal">HISTORY 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h1" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=combate" target="jb_frame" title="Selecionar Canal">COMBATE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=espn" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn2" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn3" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn4" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn5" target="jb_frame" title="Selecionar Canal">ESPN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn6" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn6" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/maxbr/max1.html" target="jb_frame" title="Selecionar Canal">MAX 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/maxbr/max2.html" target="jb_frame" title="Selecionar Canal">MAX 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso1" target="jb_frame" title="Selecionar Canal">NOSSO FUTEBOL 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso2" target="jb_frame" title="Selecionar Canal">NOSSO FUTEBOL 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso3" target="jb_frame" title="Selecionar Canal">NOSSO FUTEBOL 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo1" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo1-2" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo2" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo2-2" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo3" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo3-2" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=premiere" target="jb_frame" title="Selecionar Canal">PREMIERE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/premiere.html" target="jb_frame" title="Selecionar Canal">PREMIERE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere" target="jb_frame" title="Selecionar Canal">PREMIERE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere2" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere3" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere4" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere5" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere6" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere7" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere8" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv2" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv3" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn3" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn4" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn5" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/maxbr/max1.html" target="jb_player" title="Selecionar Canal">MAX 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/maxbr/max2.html" target="jb_player" title="Selecionar Canal">MAX 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso1" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso2" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=nosso3" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo1" target="jb_player" title="Selecionar Canal">PRIME VIDEO 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo1-2" target="jb_player" title="Selecionar Canal">PRIME VIDEO 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo2" target="jb_player" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo2-2" target="jb_player" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo3" target="jb_player" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=primevideo3-2" target="jb_player" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=premiere" target="jb_player" title="Selecionar Canal">PREMIERE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/premiere.html" target="jb_player" title="Selecionar Canal">PREMIERE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere" target="jb_player" title="Selecionar Canal">PREMIERE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere4" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere5" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere6" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere7" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=premiere8" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES 2▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSports" target="jb_frame" title="Selecionar Canal">BANDSPORTS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt" target="jb_frame" title="Selecionar Canal">BANDSPORTS❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt2" target="jb_frame" title="Selecionar Canal">BANDSPORTS❸</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt3" target="jb_frame" title="Selecionar Canal">BANDSPORTS❹</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt4" target="jb_frame" title="Selecionar Canal">BANDSPORTS❺</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=btv" target="jb_frame" title="Selecionar Canal">BTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=btvAlt" target="jb_frame" title="Selecionar Canal">BTV❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven1" target="jb_frame" title="Selecionar Canal">ELEVEN 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven2" target="jb_frame" title="Selecionar Canal">ELEVEN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven3" target="jb_frame" title="Selecionar Canal">ELEVEN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven4" target="jb_frame" title="Selecionar Canal">ELEVEN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven5" target="jb_frame" title="Selecionar Canal">ELEVEN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven6" target="jb_frame" title="Selecionar Canal">ELEVEN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espnAlt" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espnAlt2" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2Alt" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2Alt2" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3Alt" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3Alt2" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4Alt" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4Alt2" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn5" target="jb_frame" title="Selecionar Canal">ESPN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn5Alt" target="jb_frame" title="Selecionar Canal">ESPN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6Alt" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6Alt2" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=max" target="jb_frame" title="Selecionar Canal">MAX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=maxAlt" target="jb_frame" title="Selecionar Canal">MAX❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount1" target="jb_frame" title="Selecionar Canal">PARAMOUNT❶</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount2" target="jb_frame" title="Selecionar Canal">PARAMOUNT❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount3" target="jb_frame" title="Selecionar Canal">PARAMOUNT❸</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount4" target="jb_frame" title="Selecionar Canal">PARAMOUNT❹</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt2" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt3" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt4" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt4" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt4" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt2" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt3" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=prime" target="jb_frame" title="Selecionar Canal">PRIME VÍDEO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt" target="jb_frame" title="Selecionar Canal">PRIME VÍDEO❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt2" target="jb_frame" title="Selecionar Canal">PRIME VÍDEO❸</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt3" target="jb_frame" title="Selecionar Canal">PRIME VÍDEO❹</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt1" target="jb_frame" title="Selecionar Canal">SPORT◉TV 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt1Alt" target="jb_frame" title="Selecionar Canal">SPORT◉TV 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt2" target="jb_frame" title="Selecionar Canal">SPORT◉TV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt3" target="jb_frame" title="Selecionar Canal">SPORT◉TV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt4" target="jb_frame" title="Selecionar Canal">SPORT◉TV 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt5" target="jb_frame" title="Selecionar Canal">SPORT◉TV 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt6" target="jb_frame" title="Selecionar Canal">SPORT◉TV 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt2" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt3" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt2" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt3" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt2" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt3" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlus" target="jb_frame" title="Selecionar Canal">STAR PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt" target="jb_frame" title="Selecionar Canal">STAR PLUS❷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt2" target="jb_frame" title="Selecionar Canal">STAR PLUS❸</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/ufc/" target="jb_frame" title="Selecionar Canal">UFC</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/paramount/" target="jb_frame" title="Selecionar Canal">PARAMOUNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/onefootball/" target="jb_frame" title="Selecionar Canal">ONEFOOTBALL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br/" target="jb_frame" title="Selecionar Canal">STAR BR</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br-alt/" target="jb_frame" title="Selecionar Canal">STAR BR ALT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam/" target="jb_frame" title="Selecionar Canal">STAR LATAM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam-alt/" target="jb_frame" title="Selecionar Canal">STAR LATAM ALT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/tube-live/" target="jb_frame" title="Selecionar Canal">TUBE LIVE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt" target="jb_player" title="Selecionar Canal">BANDSPORTS❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt2" target="jb_player" title="Selecionar Canal">BANDSPORTS❸</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt3" target="jb_player" title="Selecionar Canal">BANDSPORTS❹</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt4" target="jb_player" title="Selecionar Canal">BANDSPORTS❺</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=btv" target="jb_player" title="Selecionar Canal">BTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=btvAlt" target="jb_player" title="Selecionar Canal">BTV❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven1" target="jb_player" title="Selecionar Canal">ELEVEN 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven2" target="jb_player" title="Selecionar Canal">ELEVEN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven3" target="jb_player" title="Selecionar Canal">ELEVEN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven4" target="jb_player" title="Selecionar Canal">ELEVEN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven5" target="jb_player" title="Selecionar Canal">ELEVEN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=eleven6" target="jb_player" title="Selecionar Canal">ELEVEN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espnAlt" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espnAlt2" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2Alt" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn2Alt2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3Alt" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn3Alt2" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4Alt" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn4Alt2" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn5" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn5Alt" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6Alt" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=espn6Alt2" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=max" target="jb_player" title="Selecionar Canal">MAX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=maxAlt" target="jb_player" title="Selecionar Canal">MAX❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount1" target="jb_player" title="Selecionar Canal">PARAMOUNT❶</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount2" target="jb_player" title="Selecionar Canal">PARAMOUNT❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount3" target="jb_player" title="Selecionar Canal">PARAMOUNT❸</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=paramount4" target="jb_player" title="Selecionar Canal">PARAMOUNT❹</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt2" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt3" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiereAlt4" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere2Alt4" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere3Alt4" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere4Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere5Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere6Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere7Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt2" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=premiere8Alt3" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=prime" target="jb_player" title="Selecionar Canal">PRIME VÍDEO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt" target="jb_player" title="Selecionar Canal">PRIME VÍDEO❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt2" target="jb_player" title="Selecionar Canal">PRIME VÍDEO❸</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=primeAlt3" target="jb_player" title="Selecionar Canal">PRIME VÍDEO❹</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt1" target="jb_player" title="Selecionar Canal">SPORT◉TV 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt1Alt" target="jb_player" title="Selecionar Canal">SPORT◉TV 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt2" target="jb_player" title="Selecionar Canal">SPORT◉TV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt3" target="jb_player" title="Selecionar Canal">SPORT◉TV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt4" target="jb_player" title="Selecionar Canal">SPORT◉TV 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt5" target="jb_player" title="Selecionar Canal">SPORT◉TV 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=spt6" target="jb_player" title="Selecionar Canal">SPORT◉TV 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt2" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportvAlt3" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv2Alt3" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt2" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=sportv3Alt3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlus" target="jb_player" title="Selecionar Canal">STAR PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt" target="jb_player" title="Selecionar Canal">STAR PLUS❷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt2" target="jb_player" title="Selecionar Canal">STAR PLUS❸</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/ufc/" target="jb_player" title="Selecionar Canal">UFC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/paramount/" target="jb_player" title="Selecionar Canal">PARAMOUNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/onefootball/" target="jb_player" title="Selecionar Canal">ONEFOOTBALL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br/" target="jb_player" title="Selecionar Canal">STAR BR</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br-alt/" target="jb_player" title="Selecionar Canal">STAR BR ALT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam/" target="jb_player" title="Selecionar Canal">STAR LATAM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam-alt/" target="jb_player" title="Selecionar Canal">STAR LATAM ALT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/tube-live/" target="jb_player" title="Selecionar Canal">TUBE LIVE</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=fx" target="jb_frame" title="Selecionar Canal">FX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=space" target="jb_frame" title="Selecionar Canal">SPACE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tntNovelas" target="jb_frame" title="Selecionar Canal">TNT NOVELAS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tnt" target="jb_frame" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=fx" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tntNovelas" target="jb_player" title="Selecionar Canal">TNT NOVELAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 FILMES 2▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universal" target="jb_frame" title="Selecionar Canal">UNIVERSAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalAlt" target="jb_frame" title="Selecionar Canal">UNIVERSAL ❶</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalPremiere" target="jb_frame" title="Selecionar Canal">UNIVERSAL PREMIERE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tnt" target="jb_frame" title="Selecionar Canal">TNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_frame" title="Selecionar Canal">TNT2️⃣ ❶</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universal" target="jb_player" title="Selecionar Canal">UNIVERSAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalAlt" target="jb_player" title="Selecionar Canal">UNIVERSAL ❶</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalPremiere" target="jb_player" title="Selecionar Canal">UNIVERSAL PREMIERE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_player" title="Selecionar Canal">TNT2️⃣ ❶</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/cnnBrasil.html" target="jb_frame" title="Selecionar Canal">CNN Brasil</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/cnnBrasil.html" target="jb_player" title="Selecionar Canal">CNN Brasil</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🏃‍♂️ REALITY SHOW 2▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalReality" target="jb_frame" title="Selecionar Canal">UNIVERSAL REALITY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande1" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande2" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande3" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande4" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrandeReact" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalReality" target="jb_player" title="Selecionar Canal">UNIVERSAL REALITY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande1" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande3" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande4" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrandeReact" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=bis" target="jb_frame" title="Selecionar Canal">BIS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=multishow" target="jb_frame" title="Selecionar Canal">MULTISHOW</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
 </div>
 </div>
 <div class="canais" id="beta">
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
 <p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_frame" title="Selecionar Canal">BAND TV SP</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-minas" target="jb_frame" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-rio" target="jb_frame" title="Selecionar Canal">TV GLOBO RIO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-sp" target="jb_frame" title="Selecionar Canal">TV GLOBO SP</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/record-tv-sp" target="jb_frame" title="Selecionar Canal">RECORD TV SP</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/redetv" target="jb_frame" title="Selecionar Canal">REDE TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sbt" target="jb_frame" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_player" title="Selecionar Canal">BAND TV SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-minas" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-rio" target="jb_player" title="Selecionar Canal">TV GLOBO RIO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-sp" target="jb_player" title="Selecionar Canal">TV GLOBO SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/record-tv-sp" target="jb_player" title="Selecionar Canal">RECORD TV SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/animal-planet" target="jb_frame" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-channel-hd" target="jb_frame" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-turbo" target="jb_frame" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-world" target="jb_frame" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/history-channel" target="jb_frame" title="Selecionar Canal">HISTORY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/h2" target="jb_frame" title="Selecionar Canal">H2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/national-geographic" target="jb_frame" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/animal-planet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-channel-hd" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-turbo" target="jb_player" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-world" target="jb_player" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/history-channel" target="jb_player" title="Selecionar Canal">HISTORY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/h2" target="jb_player" title="Selecionar Canal">H2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/national-geographic" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandsport" target="jb_frame" title="Selecionar Canal">BANDSPORT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/combate" target="jb_frame" title="Selecionar Canal">COMBATE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-1-hd" target="jb_frame" title="Selecionar Canal">CONMEBOL 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-2-hd" target="jb_frame" title="Selecionar Canal">CONMEBOL 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-3-hd" target="jb_frame" title="Selecionar Canal">CONMEBOL 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2002" target="jb_frame" title="Selecionar Canal">COPA DO MUNDO 2002</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2014" target="jb_frame" title="Selecionar Canal">COPA DO MUNDO 2014</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2018" target="jb_frame" title="Selecionar Canal">COPA DO MUNDO 2018</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn" target="jb_frame" title="Selecionar Canal">DAZN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn-2" target="jb_frame" title="Selecionar Canal">DAZN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn-3" target="jb_frame" title="Selecionar Canal">DAZN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport" target="jb_frame" title="Selecionar Canal">ELEVEN SPORT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport-2" target="jb_frame" title="Selecionar Canal">ELEVEN SPORT 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport-3" target="jb_frame" title="Selecionar Canal">ELEVEN SPORT 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-2" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-3" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-4" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-extra" target="jb_frame" title="Selecionar Canal">ESPN EXTRA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eurosport-hd" target="jb_frame" title="Selecionar Canal">EUROSPORT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/fox-sport-2-hd" target="jb_frame" title="Selecionar Canal">FOX SPORT 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/furacao-tv" target="jb_frame" title="Selecionar Canal">FURACÃO TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max" target="jb_frame" title="Selecionar Canal">HBO MAX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-2" target="jb_frame" title="Selecionar Canal">HBO MAX 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-3" target="jb_frame" title="Selecionar Canal">HBO MAX 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-4" target="jb_frame" title="Selecionar Canal">HBO MAX 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-5" target="jb_frame" title="Selecionar Canal">HBO MAX 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/jogos-star-plus" target="jb_frame" title="Selecionar Canal">JOGOS STAR PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-hd" target="jb_frame" title="Selecionar Canal">NBA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-2-hd" target="jb_frame" title="Selecionar Canal">NBA  2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-3-hd" target="jb_frame" title="Selecionar Canal">NBA 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus-2" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus-3" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play" target="jb_frame" title="Selecionar Canal">PAULISTÃO PLAY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play-2" target="jb_frame" title="Selecionar Canal">PAULISTÃO PLAY 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play-3" target="jb_frame" title="Selecionar Canal">PAULISTÃO PLAY 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-1-hd" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/pfc-clubes-fhd" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-2-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-3-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-4-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-5-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-6-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-7-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-8-hd" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv" target="jb_frame" title="Selecionar Canal">PRIME TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv-2" target="jb_frame" title="Selecionar Canal">PRIME TV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv-3" target="jb_frame" title="Selecionar Canal">PRIME TV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-hd" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-2-hd" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-3-hd" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-1-hd" target="jb_frame" title="Selecionar Canal">STAR 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-2-hd" target="jb_frame" title="Selecionar Canal">STAR 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-3-hd" target="jb_frame" title="Selecionar Canal">STAR 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-4-hd" target="jb_frame" title="Selecionar Canal">STAR 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports" target="jb_frame" title="Selecionar Canal">TNT SPORTS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-2" target="jb_frame" title="Selecionar Canal">TNT SPORTS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-3" target="jb_frame" title="Selecionar Canal">TNT SPORTS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-4" target="jb_frame" title="Selecionar Canal">TNT SPORTS 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-5" target="jb_frame" title="Selecionar Canal">TNT SPORTS 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/ufc-fight-pass-hd" target="jb_frame" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandsport" target="jb_player" title="Selecionar Canal">BANDSPORT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-1-hd" target="jb_player" title="Selecionar Canal">CONMEBOL 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-2-hd" target="jb_player" title="Selecionar Canal">CONMEBOL 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-3-hd" target="jb_player" title="Selecionar Canal">CONMEBOL 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2002" target="jb_player" title="Selecionar Canal">COPA DO MUNDO 2002</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2014" target="jb_player" title="Selecionar Canal">COPA DO MUNDO 2014</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/copa-do-mundo-2018" target="jb_player" title="Selecionar Canal">COPA DO MUNDO 2018</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn" target="jb_player" title="Selecionar Canal">DAZN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn-2" target="jb_player" title="Selecionar Canal">DAZN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/dazn-3" target="jb_player" title="Selecionar Canal">DAZN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport" target="jb_player" title="Selecionar Canal">ELEVEN SPORT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport-2" target="jb_player" title="Selecionar Canal">ELEVEN SPORT 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eleven-sport-3" target="jb_player" title="Selecionar Canal">ELEVEN SPORT 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-3" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-4" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/espn-extra" target="jb_player" title="Selecionar Canal">ESPN EXTRA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/eurosport-hd" target="jb_player" title="Selecionar Canal">EUROSPORT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/fox-sport-2-hd" target="jb_player" title="Selecionar Canal">FOX SPORT 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/furacao-tv" target="jb_player" title="Selecionar Canal">FURACÃO TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max" target="jb_player" title="Selecionar Canal">HBO MAX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-2" target="jb_player" title="Selecionar Canal">HBO MAX 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-3" target="jb_player" title="Selecionar Canal">HBO MAX 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-4" target="jb_player" title="Selecionar Canal">HBO MAX 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-max-5" target="jb_player" title="Selecionar Canal">HBO MAX 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/jogos-star-plus" target="jb_player" title="Selecionar Canal">JOGOS STAR PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-hd" target="jb_player" title="Selecionar Canal">NBA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-2-hd" target="jb_player" title="Selecionar Canal">NBA  2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nba-3-hd" target="jb_player" title="Selecionar Canal">NBA 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus-2" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paramount-plus-3" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play" target="jb_player" title="Selecionar Canal">PAULISTÃO PLAY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play-2" target="jb_player" title="Selecionar Canal">PAULISTÃO PLAY 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/paulistao-play-3" target="jb_player" title="Selecionar Canal">PAULISTÃO PLAY 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-1-hd" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/pfc-clubes-fhd" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-2-hd" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-3-hd" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-4-hd" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-5-hd" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-6-hd" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-7-hd" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prfc-8-hd" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv" target="jb_player" title="Selecionar Canal">PRIME TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv-2" target="jb_player" title="Selecionar Canal">PRIME TV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/prime-tv-3" target="jb_player" title="Selecionar Canal">PRIME TV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-hd" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-2-hd" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sportv-3-hd" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-1-hd" target="jb_player" title="Selecionar Canal">STAR 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-2-hd" target="jb_player" title="Selecionar Canal">STAR 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-3-hd" target="jb_player" title="Selecionar Canal">STAR 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-4-hd" target="jb_player" title="Selecionar Canal">STAR 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports" target="jb_player" title="Selecionar Canal">TNT SPORTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-2" target="jb_player" title="Selecionar Canal">TNT SPORTS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-3" target="jb_player" title="Selecionar Canal">TNT SPORTS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-4" target="jb_player" title="Selecionar Canal">TNT SPORTS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-5" target="jb_player" title="Selecionar Canal">TNT SPORTS 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/ufc-fight-pass-hd" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/comedy-central" target="jb_frame" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/fx-hd" target="jb_frame" title="Selecionar Canal">FX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo" target="jb_frame" title="Selecionar Canal">HBO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-2" target="jb_frame" title="Selecionar Canal">HBO 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-family" target="jb_frame" title="Selecionar Canal">HBO FAMILY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-mundi" target="jb_frame" title="Selecionar Canal">HBO MUNDI</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-plus" target="jb_frame" title="Selecionar Canal">HBO PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-pop" target="jb_frame" title="Selecionar Canal">HBO POP</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-signature" target="jb_frame" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-xtreme" target="jb_frame" title="Selecionar Canal">HBO XTREME</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/megapix" target="jb_frame" title="Selecionar Canal">MEGAPIX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/space" target="jb_frame" title="Selecionar Canal">SPACE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-channel-hd" target="jb_frame" title="Selecionar Canal">STAR CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-life-hd" target="jb_frame" title="Selecionar Canal">STAR LIFE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-action-hd" target="jb_frame" title="Selecionar Canal">TELECINE ACTION</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-cult" target="jb_frame" title="Selecionar Canal">TELECINE CULT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-fun-hd" target="jb_frame" title="Selecionar Canal">TELECINE FUN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-pipoca-hd" target="jb_frame" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-premium-hd" target="jb_frame" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-touch" target="jb_frame" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt" target="jb_frame" title="Selecionar Canal">TNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-series" target="jb_frame" title="Selecionar Canal">TNT SÉRIES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/warner-channel" target="jb_frame" title="Selecionar Canal">WARNER CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/comedy-central" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/fx-hd" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo" target="jb_player" title="Selecionar Canal">HBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-2" target="jb_player" title="Selecionar Canal">HBO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-family" target="jb_player" title="Selecionar Canal">HBO FAMILY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-mundi" target="jb_player" title="Selecionar Canal">HBO MUNDI</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-plus" target="jb_player" title="Selecionar Canal">HBO PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-pop" target="jb_player" title="Selecionar Canal">HBO POP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-signature" target="jb_player" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo-xtreme" target="jb_player" title="Selecionar Canal">HBO XTREME</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/megapix" target="jb_player" title="Selecionar Canal">MEGAPIX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-channel-hd" target="jb_player" title="Selecionar Canal">STAR CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/star-life-hd" target="jb_player" title="Selecionar Canal">STAR LIFE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-action-hd" target="jb_player" title="Selecionar Canal">TELECINE ACTION</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-cult" target="jb_player" title="Selecionar Canal">TELECINE CULT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-fun-hd" target="jb_player" title="Selecionar Canal">TELECINE FUN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-pipoca-hd" target="jb_player" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-premium-hd" target="jb_player" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/telecine-touch" target="jb_player" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-series" target="jb_player" title="Selecionar Canal">TNT SÉRIES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/warner-channel" target="jb_player" title="Selecionar Canal">WARNER CHANNEL</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cartoon-network" target="jb_frame" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-kids" target="jb_frame" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/disney-channel" target="jb_frame" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/disney-xd" target="jb_frame" title="Selecionar Canal">DISNEY XD</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/gloob" target="jb_frame" title="Selecionar Canal">GLOOB</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/gloobinho" target="jb_frame" title="Selecionar Canal">GLOOBINHO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tooncast" target="jb_frame" title="Selecionar Canal">TOONCAST</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nickelodeon" target="jb_frame" title="Selecionar Canal">NICKELODEON</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nick-jr" target="jb_frame" title="Selecionar Canal">NICK JR.</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cartoon-network" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-kids" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/disney-channel" target="jb_player" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/disney-xd" target="jb_player" title="Selecionar Canal">DISNEY XD</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/gloob" target="jb_player" title="Selecionar Canal">GLOOB</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/gloobinho" target="jb_player" title="Selecionar Canal">GLOOBINHO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tooncast" target="jb_player" title="Selecionar Canal">TOONCAST</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nickelodeon" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nick-jr" target="jb_player" title="Selecionar Canal">NICK JR.</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandnews" target="jb_frame" title="Selecionar Canal">BANDNEWS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cnn-brasil-hd" target="jb_frame" title="Selecionar Canal">CNN BRASIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/br-globo-news-hd" target="jb_frame" title="Selecionar Canal">GLOBO NEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandnews" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cnn-brasil-hd" target="jb_player" title="Selecionar Canal">CNN BRASIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/br-globo-news-hd" target="jb_player" title="Selecionar Canal">GLOBO NEWS</a></label></p>
 <p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW ▆ ▃</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2022" target="jb_frame" title="Selecionar Canal">BBB 2022</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2023" target="jb_frame" title="Selecionar Canal">BBB 2023</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-cam-1" target="jb_frame" title="Selecionar Canal">BBB CAM 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-2" target="jb_frame" title="Selecionar Canal">CÂMERA 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-3" target="jb_frame" title="Selecionar Canal">CÂMERA 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-4" target="jb_frame" title="Selecionar Canal">CÂMERA 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-5" target="jb_frame" title="Selecionar Canal">CÂMERA 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-6" target="jb_frame" title="Selecionar Canal">CÂMERA 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-14" target="jb_frame" title="Selecionar Canal">A FAZENDA 14</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-15" target="jb_frame" title="Selecionar Canal">A FAZENDA 15</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2022" target="jb_player" title="Selecionar Canal">BBB 2022</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2023" target="jb_player" title="Selecionar Canal">BBB 2023</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-cam-1" target="jb_player" title="Selecionar Canal">BBB CAM 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-2" target="jb_player" title="Selecionar Canal">CÂMERA 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-3" target="jb_player" title="Selecionar Canal">CÂMERA 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-4" target="jb_player" title="Selecionar Canal">CÂMERA 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-5" target="jb_player" title="Selecionar Canal">CÂMERA 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-6" target="jb_player" title="Selecionar Canal">CÂMERA 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-14" target="jb_player" title="Selecionar Canal">A FAZENDA 14</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-15" target="jb_player" title="Selecionar Canal">A FAZENDA 15</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/investigacao-discovery" target="jb_frame" title="Selecionar Canal">ID</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/multishow" target="jb_frame" title="Selecionar Canal">MULTISHOW</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/investigacao-discovery" target="jb_player" title="Selecionar Canal">ID</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
 </div>
 </div>
