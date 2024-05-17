@@ -40,8 +40,8 @@ function PopLink() {
     $.ajax({
         url: "menu1.txt",
         cache: true,
-        success: function(txt){
-            $("#boxlink").txt(txt);
+        success: function(html){
+            $("#boxlink").html(html);
         },
     });
 }
