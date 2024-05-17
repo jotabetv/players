@@ -58,7 +58,7 @@ function Carregar() {
       
       e.preventDefault(); // cancela o evento do link
 	  
-       var p = $(this).attr("rel"); //pega o valor do atributo "rel" do link clicado
+       var p = $(menu1.html).attr("rel"); //pega o valor do atributo "rel" do link clicado
       // verifica se o valor já existe na array.
       // se não existe, adiciona com "push"
       // se exite, remove "splice"
