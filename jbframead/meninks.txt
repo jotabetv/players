@@ -150,14 +150,14 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlus" target="jb_player" title="Selecionar Canal">STAR PLUS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt" target="jb_player" title="Selecionar Canal">STAR PLUS❷</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=starPlusAlt2" target="jb_player" title="Selecionar Canal">STAR PLUS❸</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/ufc/" target="jb_player" title="Selecionar Canal">UFC</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/paramount/" target="jb_player" title="Selecionar Canal">PARAMOUNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/onefootball/" target="jb_player" title="Selecionar Canal">ONEFOOTBALL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br/" target="jb_player" title="Selecionar Canal">STAR BR</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-br-alt/" target="jb_player" title="Selecionar Canal">STAR BR ALT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam/" target="jb_player" title="Selecionar Canal">STAR LATAM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/star-latam-alt/" target="jb_player" title="Selecionar Canal">STAR LATAM ALT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/tube-live/" target="jb_player" title="Selecionar Canal">TUBE LIVE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/ufc/" target="jb_player" title="Selecionar Canal">UFC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/paramount/" target="jb_player" title="Selecionar Canal">PARAMOUNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/onefootball/" target="jb_player" title="Selecionar Canal">ONEFOOTBALL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-br/" target="jb_player" title="Selecionar Canal">STAR BR</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-br-alt/" target="jb_player" title="Selecionar Canal">STAR BR ALT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-latam/" target="jb_player" title="Selecionar Canal">STAR LATAM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-latam-alt/" target="jb_player" title="Selecionar Canal">STAR LATAM ALT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/tube-live/" target="jb_player" title="Selecionar Canal">TUBE LIVE</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=fx" target="jb_player" title="Selecionar Canal">FX</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
