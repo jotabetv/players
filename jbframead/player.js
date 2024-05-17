@@ -36,19 +36,17 @@ function play(){
         }
     }
 
-
 function PopLink(){
-	$("#boxlink").load("menu1.txt");
+	$("#boxlink").load("meninks.txt");
 	
 	}
-
 
 
 /*
 
 function PopLink() {
     $.ajax({
-        url: "menu1.txt",
+        url: "meninks.txt",
         cache: true,
         success: function(html){
             $("#boxlink").html(html);
