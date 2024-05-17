@@ -1,6 +1,42 @@
+<input id="abrir-popup" name="popup" type="radio" hidden>
+<input id="fechar-popup" name="popup" type="radio" hidden checked>
+<label id="abrir-popup-btn" for="abrir-popup">🔎</label>
+<label id="fechar-popup-btn" for="fechar-popup"></label> 
+<div id="listlink">
+<div id="listlink2">
+<div id="conteudo">
+<div class="advertise">LISTA DE LINKS</div>
+</div>
+<div class="canais" id="adicion">
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
 <p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/band-tv-sp" title="Selecionar Canal">BAND TV SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_frame" title="Selecionar Canal">BAND TV SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-minas" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-rio" title="Selecionar Canal">TV GLOBO RIO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-sp" title="Selecionar Canal">TV GLOBO SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/record-tv-sp" title="Selecionar Canal">RECORD TV SP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/redetv" title="Selecionar Canal">REDE TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/sbt" title="Selecionar Canal">SBT</a></label></p>
+<p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/animal-planet" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/discovery-channel-hd" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/discovery-turbo" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/discovery-world" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/history-channel" title="Selecionar Canal">HISTORY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/h2" title="Selecionar Canal">H2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/national-geographic" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
+<p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/bandsport" title="Selecionar Canal">BANDSPORT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/combate" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/conmebol-tv-1-hd" title="Selecionar Canal">CONMEBOL 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/conmebol-tv-2-hd" title="Selecionar Canal">CONMEBOL 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/conmebol-tv-3-hd" title="Selecionar Canal">CONMEBOL 3</a></label></p>
+</div>
+</div>
+<div class="canais" id="adicionar">
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
+<p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_frame" title="Selecionar Canal">BAND TV SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-minas" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-rio" title="Selecionar Canal">TV GLOBO RIO</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/globo-sp" title="Selecionar Canal">TV GLOBO SP</a></label></p>
@@ -116,7 +152,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/bandnews" title="Selecionar Canal">BANDNEWS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/cnn-brasil-hd" title="Selecionar Canal">CNN BRASIL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/br-globo-news-hd" title="Selecionar Canal">GLOBO NEWS</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🏃‍♂️ REALITY SHOW ▆ ▃ ▂</div></p>
+<p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW ▆ ▃</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/bbb-2022" title="Selecionar Canal">BBB 2022</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/bbb-2023" title="Selecionar Canal">BBB 2023</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/bbb-cam-1" title="Selecionar Canal">BBB CAM 1</a></label></p>
@@ -130,3 +166,5 @@
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/investigacao-discovery" title="Selecionar Canal">ID</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="#" rel="https://embedflix.online/tv/multishow" title="Selecionar Canal">MULTISHOW</a></label></p>
+</div>
+</div>
