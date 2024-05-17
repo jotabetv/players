@@ -41,7 +41,7 @@ function Carregar() {
         url: "menu1.html",
         cache: true,
         success: function(html){
-            $("#canais").html(html);
+            $("#adicion").html(html);
         },
     });
 }
