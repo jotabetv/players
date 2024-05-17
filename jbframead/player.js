@@ -36,21 +36,23 @@ function play(){
         }
     }
 
-function Carregar() {
+function PopLink() {
     $.ajax({
-        url: "menu1.html",
+        url: "menu1.txt",
         cache: true,
-        success: function(html){
-            $("#boxlink").html(html);
+        success: function(txt){
+            $("#boxlink").txt(txt);
         },
     });
 }
-//function Carregar(){
-	//$("#canais").load("menu1.html");
-	//document.getElementById("adicion").innerHTML = document.getElementById("teste").innerHTML
+//function PopLink(){
+	//$("#boxlink").load("menu1.txt");
+	
 	//}
 
 
+
+/*
  $(function(){
    var prods = []; // array para guardar os valores clicados
    // evento "click" nos links
@@ -77,82 +79,20 @@ function Carregar() {
    
 });
 
-//document.addEventListener("DOMContentLoaded", function(){
 
-  // var els = document.body.querySelectorAll("a[href*='rel']");
+
+document.addEventListener("DOMContentLoaded", function(){
+
+   var els = document.body.querySelectorAll("a[href*='rel']");
    
-  // for(var x=0; x<els.length; x++){
+   for(var x=0; x<els.length; x++){
       
-     // els[x].addEventListener("click", function(){
-       //  var a_txt = this.textContent,
-           //   inpt = document.body.querySelector("#input");
-              
-        // inpt.value += " "+a_txt;
-   //   });
-//   }
-// function poplink(menu1.txt){
-   //     $("#opcao").load(menu1.txt);
-  //  }
+      els[x].addEventListener("click", function(){
+         var a_txt = this.textContent,
+              inpt = document.body.querySelector("#input");
+	      
+         inpt.value += " "+a_txt;
+      });
+   }
 
-
-
-
-//$(document).ready(function() {
-// $('button').on('click', function() {
-      // $("#canais").load("menu1.txt");
-  // });
-//});
-
-//function enviaDados(){
-//var adicion = document.getElementById("adicion");
-  //  var input = document.getElementById("input");
-  //  var inputText = input.value;
- //$("#idPai").html("");
-	//$('input[id^="ctxt"]').each(function(){
-  		//$("#idPai").append("<p><b> Valor do Imput: "+$(this).val()+"</b></p>");
-	//});  
-//}
-
-// function poplink(pagina){
-    //    $("#adicion").load(pagina);
-   // }
-/*
-
-
-$('.carrega_pagina').click(function () {
-    var href = $(this).attr('href'); 
-    $.ajax({
-        url: href,
-        dataType: 'html',
-        success: function (html) {
-            $('#adicion').html(html);
-        }
-    });
-    return false;
-});
-
-var canais = '<div class=canais> </div>';
-
-console.log(canais);
-document.body.innerHTML = canais;
-
-
-var output=document.querySelector(".adicion");
-var input=new XMLHttpRequest();
-input.open("GET","menu1.txt")
-input.addEventListener("load",function(){
-  output.innerHTML=input.responseText;
-})
-input.send();
-
-var openFile = function (event) {
-    var input = event.target;
-    var reader = new FileReader();
-    reader.onload = function () {
-        var text = reader.result;
-        var node = document.getElementById('output');
-        node.innerHTML = text;
-    };
-    reader.readAsText(input.files[0]);
-};
 */
