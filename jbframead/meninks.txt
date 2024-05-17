@@ -10,11 +10,11 @@
 <div class="canais" id="alfa">
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
 <p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playervipmaster.com/myplay/bandplay.php?id=k6QMxYG3rzXoibzpKpQ" target="jb_frame" title="Selecionar Canal">BAND</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/x9fev.html?video=k6H9TR1iSZWv30xaX2y" target="jb_frame" title="Selecionar Canal">BAND</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playervipmaster.com/myplay/bandplay.php?id=k6QMxYG3rzXoibzpKpQ" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/x9fev.html?video=k6H9TR1iSZWv30xaX2y" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globorj" target="jb_frame" title="Selecionar Canal">GLOBO RJ</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globosp" target="jb_frame" title="Selecionar Canal">GLOBO SP</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/xqyeq.html?video=x8u8n0m" target="jb_frame" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/xqyeq.html?video=x8u8n0m" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h1" target="jb_frame" title="Selecionar Canal">HISTORY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h2" target="jb_frame" title="Selecionar Canal">HISTORY 2</a></label></p>
