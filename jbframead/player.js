@@ -39,7 +39,7 @@ function play(){
 function Carregar() {
     $.ajax({
         url: "menu1.html",
-        cache: true,
+        cache: false,
         success: function(html){
             $("#adicion").html(html);
         },
