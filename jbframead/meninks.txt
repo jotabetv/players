@@ -171,7 +171,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_player" title="Selecionar Canal">TNT ❶</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/cnnBrasil.html" target="jb_player" title="Selecionar Canal">CNN Brasil</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🏃‍♂️ REALITY SHOW 2▆ ▃ ▂</div></p>
+<p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW 2▆ ▃</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalReality" target="jb_player" title="Selecionar Canal">UNIVERSAL REALITY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande1" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
