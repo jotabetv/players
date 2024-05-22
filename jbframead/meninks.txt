@@ -316,238 +316,238 @@
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/investigacao-discovery" target="jb_player" title="Selecionar Canal">ID</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 GLOBOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvbahia" target="jb_frame" title="Selecionar Canal">TV BAHIA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsantacruz" target="jb_frame" title="Selecionar Canal">TV SANTA CRUZ</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsudoeste" target="jb_frame" title="Selecionar Canal">TV SUDOESTE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-globorio" target="jb_frame" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-intertvaltolitoral" target="jb_frame" title="Selecionar Canal">INTERTV ALTO LITORAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-intertvserramar" target="jb_frame" title="Selecionar Canal">INTERTV SERRA+MAR</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-tvriosul" target="jb_frame" title="Selecionar Canal">TV RIO SUL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-globosaopaulo" target="jb_frame" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-eptvcentral" target="jb_frame" title="Selecionar Canal">EPTV CENTRAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvdiario" target="jb_frame" title="Selecionar Canal">TV DIÁRIO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvtemitapetininga" target="jb_frame" title="Selecionar Canal">TV TEM ITAPETININGA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvvanguardasjcampos" target="jb_frame" title="Selecionar Canal">TV VANGUARDA SJ CAMPOS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvvanguardataubate" target="jb_frame" title="Selecionar Canal">TV VANGUARDA TAUBATÉ</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-globominas" target="jb_frame" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-intertvdosvales" target="jb_frame" title="Selecionar Canal">INTERTV DOS VALES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaoaraxa" target="jb_frame" title="Selecionar Canal">TV INTEGRAÇÃO ARAXÁ</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaojuizdefora" target="jb_frame" title="Selecionar Canal">TV INTEGRAÇÃO JUIZ DE FORA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaouberaba" target="jb_frame" title="Selecionar Canal">TV INTEGRAÇÃO UBERABA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoes-tvgazetavitoria" target="jb_frame" title="Selecionar Canal">TV GAZETA VITÓRIA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvportoalegre" target="jb_frame" title="Selecionar Canal">RBS TV PORTO ALEGRE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvcaxiasdosul" target="jb_frame" title="Selecionar Canal">RBS TV CAXIAS DO SUL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvsantacruz" target="jb_frame" title="Selecionar Canal">RBS TV DOS VALES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvflorianopolis" target="jb_frame" title="Selecionar Canal">NSC TV FLORIANÓPOLIS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvchapeco" target="jb_frame" title="Selecionar Canal">NSC TV CHAPECÓ</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvjoinville" target="jb_frame" title="Selecionar Canal">NSC TV JOINVILLE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopr-rpccuritiba" target="jb_frame" title="Selecionar Canal">RPC CURITIBA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globope-globonordeste" target="jb_frame" title="Selecionar Canal">TV GLOBO PERNAMBUCO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globope-tvasabranca" target="jb_frame" title="Selecionar Canal">TV ASA BRANCA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoce-tvverdesmaresfortaleza" target="jb_frame" title="Selecionar Canal">TV VERDES MARES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoce-tvverdesmarescariri" target="jb_frame" title="Selecionar Canal">TV VERDES MARES CARIRI</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopi-tvclube" target="jb_frame" title="Selecionar Canal">TV CLUBE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoma-tvmirantessaoluis" target="jb_frame" title="Selecionar Canal">TV MIRANTE SÃO LUÍS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorn-intertvcabugi" target="jb_frame" title="Selecionar Canal">INTERTV CABUGI</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopb-tvcabobranco" target="jb_frame" title="Selecionar Canal">TV CABO BRANCO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globodf-globobrasilia" target="jb_frame" title="Selecionar Canal">TV GLOBO BRASÍLIA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globogo-tvanhangueragoiania" target="jb_frame" title="Selecionar Canal">TV ANHANGUERA GOIÂNIA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoam-redeamazonicamanaus" target="jb_frame" title="Selecionar Canal">REDE AMAZÔNICA MANAUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopa-tvliberalbelem" target="jb_frame" title="Selecionar Canal">TV LIBERAL BELÉM</a></label></p>
+<div id="categoria">▂ ▃ ▆ 🎥 GLOBOS ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvbahia" target="jb_player" title="Selecionar Canal">TV BAHIA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsantacruz" target="jb_player" title="Selecionar Canal">TV SANTA CRUZ</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsudoeste" target="jb_player" title="Selecionar Canal">TV SUDOESTE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-globorio" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-intertvaltolitoral" target="jb_player" title="Selecionar Canal">INTERTV ALTO LITORAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-intertvserramar" target="jb_player" title="Selecionar Canal">INTERTV SERRA+MAR</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorj-tvriosul" target="jb_player" title="Selecionar Canal">TV RIO SUL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-globosaopaulo" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-eptvcentral" target="jb_player" title="Selecionar Canal">EPTV CENTRAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvdiario" target="jb_player" title="Selecionar Canal">TV DIÁRIO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvtemitapetininga" target="jb_player" title="Selecionar Canal">TV TEM ITAPETININGA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvvanguardasjcampos" target="jb_player" title="Selecionar Canal">TV VANGUARDA SJ CAMPOS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosp-tvvanguardataubate" target="jb_player" title="Selecionar Canal">TV VANGUARDA TAUBATÉ</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-globominas" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-intertvdosvales" target="jb_player" title="Selecionar Canal">INTERTV DOS VALES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaoaraxa" target="jb_player" title="Selecionar Canal">TV INTEGRAÇÃO ARAXÁ</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaojuizdefora" target="jb_player" title="Selecionar Canal">TV INTEGRAÇÃO JUIZ DE FORA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globomg-tvintegracaouberaba" target="jb_player" title="Selecionar Canal">TV INTEGRAÇÃO UBERABA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoes-tvgazetavitoria" target="jb_player" title="Selecionar Canal">TV GAZETA VITÓRIA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvportoalegre" target="jb_player" title="Selecionar Canal">RBS TV PORTO ALEGRE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvcaxiasdosul" target="jb_player" title="Selecionar Canal">RBS TV CAXIAS DO SUL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globors-rbstvsantacruz" target="jb_player" title="Selecionar Canal">RBS TV DOS VALES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvflorianopolis" target="jb_player" title="Selecionar Canal">NSC TV FLORIANÓPOLIS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvchapeco" target="jb_player" title="Selecionar Canal">NSC TV CHAPECÓ</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globosc-nsctvjoinville" target="jb_player" title="Selecionar Canal">NSC TV JOINVILLE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopr-rpccuritiba" target="jb_player" title="Selecionar Canal">RPC CURITIBA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globope-globonordeste" target="jb_player" title="Selecionar Canal">TV GLOBO PERNAMBUCO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globope-tvasabranca" target="jb_player" title="Selecionar Canal">TV ASA BRANCA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoce-tvverdesmaresfortaleza" target="jb_player" title="Selecionar Canal">TV VERDES MARES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoce-tvverdesmarescariri" target="jb_player" title="Selecionar Canal">TV VERDES MARES CARIRI</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopi-tvclube" target="jb_player" title="Selecionar Canal">TV CLUBE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoma-tvmirantessaoluis" target="jb_player" title="Selecionar Canal">TV MIRANTE SÃO LUÍS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globorn-intertvcabugi" target="jb_player" title="Selecionar Canal">INTERTV CABUGI</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopb-tvcabobranco" target="jb_player" title="Selecionar Canal">TV CABO BRANCO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globodf-globobrasilia" target="jb_player" title="Selecionar Canal">TV GLOBO BRASÍLIA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globogo-tvanhangueragoiania" target="jb_player" title="Selecionar Canal">TV ANHANGUERA GOIÂNIA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoam-redeamazonicamanaus" target="jb_player" title="Selecionar Canal">REDE AMAZÔNICA MANAUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopa-tvliberalbelem" target="jb_player" title="Selecionar Canal">TV LIBERAL BELÉM</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrobrasil" target="jb_frame" title="Selecionar Canal">AGROBRASIL TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agromais" target="jb_frame" title="Selecionar Canal">AGROMAIS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=band" target="jb_frame" title="Selecionar Canal">BAND</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canaldoboi" target="jb_frame" title="Selecionar Canal">CANAL DO BOI</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=futura" target="jb_frame" title="Selecionar Canal">FUTURA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=recordsp" target="jb_frame" title="Selecionar Canal">RECORDTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redetv" target="jb_frame" title="Selecionar Canal">REDE TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sbt" target="jb_frame" title="Selecionar Canal">SBT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=terraviva" target="jb_frame" title="Selecionar Canal">TERRAVIVA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvbrasil" target="jb_frame" title="Selecionar Canal">TV BRASIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvcamara" target="jb_frame" title="Selecionar Canal">TV CÂMARA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvcultura" target="jb_frame" title="Selecionar Canal">TV CULTURA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvdiario" target="jb_frame" title="Selecionar Canal">TV DIÁRIO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gazeta" target="jb_frame" title="Selecionar Canal">TV GAZETA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvsenado" target="jb_frame" title="Selecionar Canal">TV SENADO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrobrasil" target="jb_player" title="Selecionar Canal">AGROBRASIL TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agromais" target="jb_player" title="Selecionar Canal">AGROMAIS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canaldoboi" target="jb_player" title="Selecionar Canal">CANAL DO BOI</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=futura" target="jb_player" title="Selecionar Canal">FUTURA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=recordsp" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=terraviva" target="jb_player" title="Selecionar Canal">TERRAVIVA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvbrasil" target="jb_player" title="Selecionar Canal">TV BRASIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvcamara" target="jb_player" title="Selecionar Canal">TV CÂMARA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvcultura" target="jb_player" title="Selecionar Canal">TV CULTURA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvdiario" target="jb_player" title="Selecionar Canal">TV DIÁRIO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gazeta" target="jb_player" title="Selecionar Canal">TV GAZETA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvsenado" target="jb_player" title="Selecionar Canal">TV SENADO</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=animalplanet" target="jb_frame" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=arte1" target="jb_frame" title="Selecionar Canal">ARTE 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverychannel" target="jb_frame" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryheh" target="jb_frame" title="Selecionar Canal">DISCOVERY H&H</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryscience" target="jb_frame" title="Selecionar Canal">DISCOVERY SCIENCE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverytheater" target="jb_frame" title="Selecionar Canal">DISCOVERY THEATER</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryturbo" target="jb_frame" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryworld" target="jb_frame" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history" target="jb_frame" title="Selecionar Canal">HISTORY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history2" target="jb_frame" title="Selecionar Canal">HISTORY 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nationalgeographic" target="jb_frame" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=animalplanet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=arte1" target="jb_player" title="Selecionar Canal">ARTE 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverychannel" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryheh" target="jb_player" title="Selecionar Canal">DISCOVERY H&H</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryscience" target="jb_player" title="Selecionar Canal">DISCOVERY SCIENCE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverytheater" target="jb_player" title="Selecionar Canal">DISCOVERY THEATER</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryturbo" target="jb_player" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryworld" target="jb_player" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nationalgeographic" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp"
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://starplus.eventos.wtf/" target="jb_frame" title="Selecionar Canal">STAR +</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandsports" target="jb_frame" title="Selecionar Canal">BANDSPORTS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canaloff" target="jb_frame" title="Selecionar Canal">CANAL OFF</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv" target="jb_frame" title="Selecionar Canal">CAZÉTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv2" target="jb_frame" title="Selecionar Canal">CAZÉTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv3" target="jb_frame" title="Selecionar Canal">CAZÉTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=combate" target="jb_frame" title="Selecionar Canal">COMBATE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 1</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports2_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports3_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports4_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports5_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports6_pt" target="jb_frame" title="Selecionar Canal">ELEVEN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn" target="jb_frame" title="Selecionar Canal">ESPN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn2" target="jb_frame" title="Selecionar Canal">ESPN 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn3" target="jb_frame" title="Selecionar Canal">ESPN 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn4" target="jb_frame" title="Selecionar Canal">ESPN 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn5" target="jb_frame" title="Selecionar Canal">ESPN 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn6" target="jb_frame" title="Selecionar Canal">ESPN 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fishtv" target="jb_frame" title="Selecionar Canal">FISH TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=foxsports2" target="jb_frame" title="Selecionar Canal">FOX SPORTS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max" target="jb_frame" title="Selecionar Canal">MAX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max2" target="jb_frame" title="Selecionar Canal">MAX 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max3" target="jb_frame" title="Selecionar Canal">MAX 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nossofutebol" target="jb_frame" title="Selecionar Canal">NOSSO FUTEBOL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplusalternativo" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus2" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus2alternativo" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus3" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus3alternativo" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus4" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus4alternativo" target="jb_frame" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiereclubes" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiereclubesalternativo" target="jb_frame" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere2" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere2alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere3" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere3alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere4" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere4alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere5" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere5alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere6" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere6alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere7" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere7alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere8" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere8alternativo" target="jb_frame" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo" target="jb_frame" title="Selecionar Canal">PRIME VIDEO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo2" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo3" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo4" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo5" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo6" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo7" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 7</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo8" target="jb_frame" title="Selecionar Canal">PRIME VIDEO 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt" target="jb_frame" title="Selecionar Canal">SPORT TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt2" target="jb_frame" title="Selecionar Canal">SPORT TV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt3" target="jb_frame" title="Selecionar Canal">SPORT TV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt4" target="jb_frame" title="Selecionar Canal">SPORT TV 4</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt5" target="jb_frame" title="Selecionar Canal">SPORT TV 5</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt6" target="jb_frame" title="Selecionar Canal">SPORT TV 6</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportvalternativo" target="jb_frame" title="Selecionar Canal">SPORTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv2" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv2alternativo" target="jb_frame" title="Selecionar Canal">SPORTV 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv3" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv3alternativo" target="jb_frame" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tntsports" target="jb_frame" title="Selecionar Canal">TNT SPORTS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass" target="jb_frame" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass2" target="jb_frame" title="Selecionar Canal">UFC FIGHT PASS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass3" target="jb_frame" title="Selecionar Canal">UFC FIGHT PASS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass4" target="jb_frame" title="Selecionar Canal">UFC FIGHT PASS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://starplus.eventos.wtf/" target="jb_player" title="Selecionar Canal">STAR +</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandsports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canaloff" target="jb_player" title="Selecionar Canal">CANAL OFF</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv2" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv3" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports_pt" target="jb_player" title="Selecionar Canal">ELEVEN 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports2_pt" target="jb_player" title="Selecionar Canal">ELEVEN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports3_pt" target="jb_player" title="Selecionar Canal">ELEVEN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports4_pt" target="jb_player" title="Selecionar Canal">ELEVEN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports5_pt" target="jb_player" title="Selecionar Canal">ELEVEN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=elevensports6_pt" target="jb_player" title="Selecionar Canal">ELEVEN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn3" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn4" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn5" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fishtv" target="jb_player" title="Selecionar Canal">FISH TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=foxsports2" target="jb_player" title="Selecionar Canal">FOX SPORTS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max" target="jb_player" title="Selecionar Canal">MAX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max2" target="jb_player" title="Selecionar Canal">MAX 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=max3" target="jb_player" title="Selecionar Canal">MAX 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nossofutebol" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplusalternativo" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus2" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus2alternativo" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus3" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus3alternativo" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus4" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountplus4alternativo" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiereclubes" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiereclubesalternativo" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere2alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere3alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere4" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere4alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere5" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere5alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere6" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere6alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere7" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere7alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere8" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=premiere8alternativo" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo" target="jb_player" title="Selecionar Canal">PRIME VIDEO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo2" target="jb_player" title="Selecionar Canal">PRIME VIDEO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo3" target="jb_player" title="Selecionar Canal">PRIME VIDEO 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo4" target="jb_player" title="Selecionar Canal">PRIME VIDEO 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo5" target="jb_player" title="Selecionar Canal">PRIME VIDEO 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo6" target="jb_player" title="Selecionar Canal">PRIME VIDEO 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo7" target="jb_player" title="Selecionar Canal">PRIME VIDEO 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primevideo8" target="jb_player" title="Selecionar Canal">PRIME VIDEO 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt" target="jb_player" title="Selecionar Canal">SPORT TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt2" target="jb_player" title="Selecionar Canal">SPORT TV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt3" target="jb_player" title="Selecionar Canal">SPORT TV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt4" target="jb_player" title="Selecionar Canal">SPORT TV 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt5" target="jb_player" title="Selecionar Canal">SPORT TV 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sporttvpt6" target="jb_player" title="Selecionar Canal">SPORT TV 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportvalternativo" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv2alternativo" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sportv3alternativo" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tntsports" target="jb_player" title="Selecionar Canal">TNT SPORTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass2" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass3" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass4" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 4</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aee" target="jb_frame" title="Selecionar Canal">A&E</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=amc" target="jb_frame" title="Selecionar Canal">AMC</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=axn" target="jb_frame" title="Selecionar Canal">AXN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canalbrasil" target="jb_frame" title="Selecionar Canal">CANAL BRASIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cinecanal" target="jb_frame" title="Selecionar Canal">CINECANAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cinemax" target="jb_frame" title="Selecionar Canal">CINEMAX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=comedycentral" target="jb_frame" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryid" target="jb_frame" title="Selecionar Canal">DISCOVERY ID</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=e" target="jb_frame" title="Selecionar Canal">E!</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=filmearts" target="jb_frame" title="Selecionar Canal">FILM&ARTS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fx" target="jb_frame" title="Selecionar Canal">FX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbo" target="jb_frame" title="Selecionar Canal">HBO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbo2" target="jb_frame" title="Selecionar Canal">HBO 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbofamily" target="jb_frame" title="Selecionar Canal">HBO FAMILY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hboplus" target="jb_frame" title="Selecionar Canal">HBO PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbosignature" target="jb_frame" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hboxtreme" target="jb_frame" title="Selecionar Canal">HBO XTREME</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=megapix" target="jb_frame" title="Selecionar Canal">MEGAPIX</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountnetwork" target="jb_frame" title="Selecionar Canal">PARAMOUNT NETWORK</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primeboxbrazil" target="jb_frame" title="Selecionar Canal">PRIME BOX BRAZIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=syfy" target="jb_frame" title="Selecionar Canal">SYFY</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sonychannel" target="jb_frame" title="Selecionar Canal">SONY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sonymovies" target="jb_frame" title="Selecionar Canal">SONY MOVIES</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=space" target="jb_frame" title="Selecionar Canal">SPACE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=starchannel" target="jb_frame" title="Selecionar Canal">STAR CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=studiouniversal" target="jb_frame" title="Selecionar Canal">STUDIO UNIVERSAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tcm" target="jb_frame" title="Selecionar Canal">TCM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecineaction" target="jb_frame" title="Selecionar Canal">TELECINE ACTION</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinecult" target="jb_frame" title="Selecionar Canal">TELECINE CULT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinefun" target="jb_frame" title="Selecionar Canal">TELECINE FUN</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinepipoca" target="jb_frame" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinepremium" target="jb_frame" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinetouch" target="jb_frame" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tlc" target="jb_frame" title="Selecionar Canal">TLC</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tnt" target="jb_frame" title="Selecionar Canal">TNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tntnovelas" target="jb_frame" title="Selecionar Canal">TNT NOVELAS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=universaltv" target="jb_frame" title="Selecionar Canal">UNIVERSAL TV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=usa" target="jb_frame" title="Selecionar Canal">USA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=warnertv" target="jb_frame" title="Selecionar Canal">WARNER TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aee" target="jb_player" title="Selecionar Canal">A&E</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=amc" target="jb_player" title="Selecionar Canal">AMC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=axn" target="jb_player" title="Selecionar Canal">AXN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canalbrasil" target="jb_player" title="Selecionar Canal">CANAL BRASIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cinecanal" target="jb_player" title="Selecionar Canal">CINECANAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cinemax" target="jb_player" title="Selecionar Canal">CINEMAX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=comedycentral" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoveryid" target="jb_player" title="Selecionar Canal">DISCOVERY ID</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=e" target="jb_player" title="Selecionar Canal">E!</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=filmearts" target="jb_player" title="Selecionar Canal">FILM&ARTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fx" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbo" target="jb_player" title="Selecionar Canal">HBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbo2" target="jb_player" title="Selecionar Canal">HBO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbofamily" target="jb_player" title="Selecionar Canal">HBO FAMILY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hboplus" target="jb_player" title="Selecionar Canal">HBO PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hbosignature" target="jb_player" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hboxtreme" target="jb_player" title="Selecionar Canal">HBO XTREME</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=megapix" target="jb_player" title="Selecionar Canal">MEGAPIX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=paramountnetwork" target="jb_player" title="Selecionar Canal">PARAMOUNT NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=primeboxbrazil" target="jb_player" title="Selecionar Canal">PRIME BOX BRAZIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=syfy" target="jb_player" title="Selecionar Canal">SYFY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sonychannel" target="jb_player" title="Selecionar Canal">SONY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=sonymovies" target="jb_player" title="Selecionar Canal">SONY MOVIES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=starchannel" target="jb_player" title="Selecionar Canal">STAR CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=studiouniversal" target="jb_player" title="Selecionar Canal">STUDIO UNIVERSAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tcm" target="jb_player" title="Selecionar Canal">TCM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecineaction" target="jb_player" title="Selecionar Canal">TELECINE ACTION</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinecult" target="jb_player" title="Selecionar Canal">TELECINE CULT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinefun" target="jb_player" title="Selecionar Canal">TELECINE FUN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinepipoca" target="jb_player" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinepremium" target="jb_player" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=telecinetouch" target="jb_player" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tlc" target="jb_player" title="Selecionar Canal">TLC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tntnovelas" target="jb_player" title="Selecionar Canal">TNT NOVELAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=universaltv" target="jb_player" title="Selecionar Canal">UNIVERSAL TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=usa" target="jb_player" title="Selecionar Canal">USA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=warnertv" target="jb_player" title="Selecionar Canal">WARNER TV</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonito" target="jb_frame" title="Selecionar Canal">CARTOONITO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonnetwork" target="jb_frame" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverykids" target="jb_frame" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=disneychannel" target="jb_frame" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gloob" target="jb_frame" title="Selecionar Canal">GLOOB</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gloobinho" target="jb_frame" title="Selecionar Canal">GLOOBINHO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nickelodeon" target="jb_frame" title="Selecionar Canal">NICKELODEON</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nickjr" target="jb_frame" title="Selecionar Canal">NICK JR.</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ratimbum" target="jb_frame" title="Selecionar Canal">RÁ-TIM-BUM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=woohoo" target="jb_frame" title="Selecionar Canal">WOOHOO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=zoomoo" target="jb_frame" title="Selecionar Canal">ZOOMOO KIDS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonito" target="jb_player" title="Selecionar Canal">CARTOONITO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonnetwork" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverykids" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=disneychannel" target="jb_player" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gloob" target="jb_player" title="Selecionar Canal">GLOOB</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gloobinho" target="jb_player" title="Selecionar Canal">GLOOBINHO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nickelodeon" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nickjr" target="jb_player" title="Selecionar Canal">NICK JR.</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ratimbum" target="jb_player" title="Selecionar Canal">RÁ-TIM-BUM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=woohoo" target="jb_player" title="Selecionar Canal">WOOHOO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=zoomoo" target="jb_player" title="Selecionar Canal">ZOOMOO KIDS</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandnews" target="jb_frame" title="Selecionar Canal">BANDNEWS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnnbrasil" target="jb_frame" title="Selecionar Canal">CNN BRASIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnninternational" target="jb_frame" title="Selecionar Canal">CNN INTERNACIONAL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globonews" target="jb_frame" title="Selecionar Canal">GLOBONEWS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=jpnews" target="jb_frame" title="Selecionar Canal">JOVEM PAN NEWS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=recordnews" target="jb_frame" title="Selecionar Canal">RECORDNEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandnews" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnnbrasil" target="jb_player" title="Selecionar Canal">CNN BRASIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnninternational" target="jb_player" title="Selecionar Canal">CNN INTERNACIONAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globonews" target="jb_player" title="Selecionar Canal">GLOBONEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=jpnews" target="jb_player" title="Selecionar Canal">JOVEM PAN NEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=recordnews" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎤 RELIGIOSOS ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redegospel" target="jb_frame" title="Selecionar Canal">REDE GOSPEL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redevida" target="jb_frame" title="Selecionar Canal">REDE VIDA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aparecida" target="jb_frame" title="Selecionar Canal">TV APARECIDA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cancaonova" target="jb_frame" title="Selecionar Canal">TV CANÇÃO NOVA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvevangelizar" target="jb_frame" title="Selecionar Canal">TV EVANGELIZAR</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=novotempo" target="jb_frame" title="Selecionar Canal">TV NOVO TEMPO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvpaieterno" target="jb_frame" title="Selecionar Canal">TV PAI ETERNO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redegospel" target="jb_player" title="Selecionar Canal">REDE GOSPEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redevida" target="jb_player" title="Selecionar Canal">REDE VIDA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aparecida" target="jb_player" title="Selecionar Canal">TV APARECIDA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cancaonova" target="jb_player" title="Selecionar Canal">TV CANÇÃO NOVA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvevangelizar" target="jb_player" title="Selecionar Canal">TV EVANGELIZAR</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=novotempo" target="jb_player" title="Selecionar Canal">TV NOVO TEMPO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvpaieterno" target="jb_player" title="Selecionar Canal">TV PAI ETERNO</a></label></p>
 <p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista2" target="jb_frame" title="Selecionar Canal">A GRANDE CONQUISTA 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA 2</a></label></p>
 <p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=adultswim" target="jb_frame" title="Selecionar Canal">ADULT SWIM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bis" target="jb_frame" title="Selecionar Canal">BIS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=brasilparalelo" target="jb_frame" title="Selecionar Canal">BRASIL PARALELO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=curta" target="jb_frame" title="Selecionar Canal">CURTA!</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=empreender" target="jb_frame" title="Selecionar Canal">EMPREENDER</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fashiontv" target="jb_frame" title="Selecionar Canal">FASHIONTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=foodnetwork" target="jb_frame" title="Selecionar Canal">FOOD NETWORK</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gnt" target="jb_frame" title="Selecionar Canal">GNT</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hgtv" target="jb_frame" title="Selecionar Canal">HGTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=lifetime" target="jb_frame" title="Selecionar Canal">LIFETIME</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=modoviagem" target="jb_frame" title="Selecionar Canal">MODO VIAGEM</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtv" target="jb_frame" title="Selecionar Canal">MTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtvlive" target="jb_frame" title="Selecionar Canal">MTL LIVE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtvs_00" target="jb_frame" title="Selecionar Canal">MTVS_00</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=multishow" target="jb_frame" title="Selecionar Canal">MULTISHOW</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=musicboxbrasil" target="jb_frame" title="Selecionar Canal">NUSIC BOX BRAZIL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=saborearte" target="jb_frame" title="Selecionar Canal">SABOR & ARTE</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_frame" title="Selecionar Canal">TRUTV</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_frame" title="Selecionar Canal">VIVA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=adultswim" target="jb_player" title="Selecionar Canal">ADULT SWIM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=brasilparalelo" target="jb_player" title="Selecionar Canal">BRASIL PARALELO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=curta" target="jb_player" title="Selecionar Canal">CURTA!</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=empreender" target="jb_player" title="Selecionar Canal">EMPREENDER</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=fashiontv" target="jb_player" title="Selecionar Canal">FASHIONTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=foodnetwork" target="jb_player" title="Selecionar Canal">FOOD NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gnt" target="jb_player" title="Selecionar Canal">GNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=hgtv" target="jb_player" title="Selecionar Canal">HGTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=lifetime" target="jb_player" title="Selecionar Canal">LIFETIME</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=modoviagem" target="jb_player" title="Selecionar Canal">MODO VIAGEM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtv" target="jb_player" title="Selecionar Canal">MTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtvlive" target="jb_player" title="Selecionar Canal">MTL LIVE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=mtvs_00" target="jb_player" title="Selecionar Canal">MTVS_00</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=musicboxbrasil" target="jb_player" title="Selecionar Canal">NUSIC BOX BRAZIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=saborearte" target="jb_player" title="Selecionar Canal">SABOR & ARTE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 </div>
 </div>
