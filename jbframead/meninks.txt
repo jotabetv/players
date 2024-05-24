@@ -18,7 +18,7 @@
 <p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h1" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
@@ -52,7 +52,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES 2▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES 2▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt" target="jb_player" title="Selecionar Canal">BANDSPORTS❷</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=bandSportsAlt2" target="jb_player" title="Selecionar Canal">BANDSPORTS❸</a></label></p>
@@ -201,7 +201,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/history-channel" target="jb_player" title="Selecionar Canal">HISTORY CHANNEL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/h2" target="jb_player" title="Selecionar Canal">H2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/national-geographic" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandsport" target="jb_player" title="Selecionar Canal">BANDSPORT</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/conmebol-tv-1-hd" target="jb_player" title="Selecionar Canal">CONMEBOL 1</a></label></p>
@@ -383,7 +383,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nationalgeographic" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp"
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://starplus.eventos.wtf/" target="jb_player" title="Selecionar Canal">STAR +</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandsports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
