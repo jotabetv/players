@@ -157,7 +157,7 @@ textarea:focus, input:focus, select:focus {
   height: 45px;
   left: max(calc(50vw - 380px / 2), 4vw);
   top: calc(50vh - 80px);
-  padding: 18px;
+  padding: 12px;
   background-color: #A9A9A9;
   border: 2px solid #FFA500;
   border-radius: 8px;
@@ -184,9 +184,10 @@ textarea:focus, input:focus, select:focus {
 }
 
 #menualfa:hover {
-    background-color: #9ACD32;
+    background-color: #BDB76B;
     border: 2px solid #00FA9A;
-    color: #0000CD;
+    color: #2F4F4F;
+    font-weight: bold;
 }
 
 #menubeta {
@@ -209,9 +210,10 @@ textarea:focus, input:focus, select:focus {
 }
 
 #menubeta:hover {
-    background-color: #9ACD32;
+    background-color: #BDB76B;
     border: 2px solid #00FA9A;
-    color: #0000CD;
+    color: #2F4F4F;
+    font-weight: bold;
 }
 
 .advertise {
