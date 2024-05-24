@@ -9,13 +9,169 @@
 </div>
 <div class="canais" id="alfa">
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
-<p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=record" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cancaonova" target="jb_player" title="Selecionar Canal">TV CANÇÃO NOVA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bobonordeste" target="jb_player" title="Selecionar Canal">TV GLOBO PERNAMBUCO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=boborj" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bobosp" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
+<p><div id="categoria" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=animalplanet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=arte1" target="jb_player" title="Selecionar Canal">ARTE 1</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discovery" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoveryhomeihealth" target="jb_player" title="Selecionar Canal">DISCOVERY H&H</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoverysience" target="jb_player" title="Selecionar Canal">DISCOVERY SCIENCE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoverytheater" target="jb_player" title="Selecionar Canal">DISCOVERY THEATER</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoveryturbo" target="jb_player" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoveryworld" target="jb_player" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=history" target="jb_player" title="Selecionar Canal">HISTORY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=history2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=investigacaodiscovery" target="jb_player" title="Selecionar Canal">ID</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=natgeo" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
+<p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bandsports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=off" target="jb_player" title="Selecionar Canal">CANAL OFF</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=combate" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn2" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn3" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn4" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn5" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=fishtv" target="jb_player" title="Selecionar Canal">FISH TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=nossofutebol" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus1" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus2" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus3" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus4" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiereclubes" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere4" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere5" target="jb_player" title="Selecionar Canal">PREMIERE 5</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere6" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere7" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere8" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo1" target="jb_player" title="Selecionar Canal">PRIME VÍDEO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo2" target="jb_player" title="Selecionar Canal">PRIME VÍDEO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo3" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ⓷</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo4" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ❹</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv1" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus1" target="jb_player" title="Selecionar Canal">STAR PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus2" target="jb_player" title="Selecionar Canal">STAR PLUS 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus3" target="jb_player" title="Selecionar Canal">STAR PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=ufcfightpass" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
+<p><div id="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=aie" target="jb_player" title="Selecionar Canal">A&E</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=amc" target="jb_player" title="Selecionar Canal">AMC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=axn" target="jb_player" title="Selecionar Canal">AXN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=canalbrasil" target="jb_player" title="Selecionar Canal">CANAL BRASIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=canale" target="jb_player" title="Selecionar Canal">CANAL E!</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cinecanal" target="jb_player" title="Selecionar Canal">CINECANAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cinemax" target="jb_player" title="Selecionar Canal">CINEMAX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=comedycentral" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=filmearts" target="jb_player" title="Selecionar Canal">FILM&ARTS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=fx" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbo" target="jb_player" title="Selecionar Canal">HBO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbo2" target="jb_player" title="Selecionar Canal">HBO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbofamily" target="jb_player" title="Selecionar Canal">HBO FAMILY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbomundi" target="jb_player" title="Selecionar Canal">HBO MUNDI</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hboplus" target="jb_player" title="Selecionar Canal">HBO PLUS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbopop" target="jb_player" title="Selecionar Canal">HBO POP</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hbosignature" target="jb_player" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hboxtreme" target="jb_player" title="Selecionar Canal">HBO XTREME</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=megapix" target="jb_player" title="Selecionar Canal">MEGAPIX</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramount" target="jb_player" title="Selecionar Canal">PARAMOUNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primeboxbrazil" target="jb_player" title="Selecionar Canal">PRIME BOX BRAZIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sony" target="jb_player" title="Selecionar Canal">SONY</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sonymovies" target="jb_player" title="Selecionar Canal">SONY MOVIES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starchannel" target="jb_player" title="Selecionar Canal">STAR CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=studiouniversal" target="jb_player" title="Selecionar Canal">STUDIO UNIVERSAL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecineaction" target="jb_player" title="Selecionar Canal">TELECINE ACTION</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecinecult" target="jb_player" title="Selecionar Canal">TELECINE CULT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecinefun" target="jb_player" title="Selecionar Canal">TELECINE FUN</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecinepipoca" target="jb_player" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecinepremium" target="jb_player" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=telecinetouch" target="jb_player" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=tlc" target="jb_player" title="Selecionar Canal">TLC</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=tntnovelas" target="jb_player" title="Selecionar Canal">TNT NOVELAS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=tntseries" target="jb_player" title="Selecionar Canal">TNT SÉRIES</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=universal" target="jb_player" title="Selecionar Canal">UNIVERSAL TV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=usa" target="jb_player" title="Selecionar Canal">USA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=warner" target="jb_player" title="Selecionar Canal">WARNER BROS.</a></label></p>
+<p><div id="categoria" title="Crianças e Pré-Adolescentes">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cartoon" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cartoonito" target="jb_player" title="Selecionar Canal">CARTOONITO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discoverykids" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=disney" target="jb_player" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=gloob" target="jb_player" title="Selecionar Canal">GLOOB</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=gloobinho" target="jb_player" title="Selecionar Canal">GLOOBINHO</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=nick" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=nickjr" target="jb_player" title="Selecionar Canal">NICK JR.</a></label></p>
+<p><div id="categoria" title="Jornalísticos">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bandnews" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cnnbrasil" target="jb_player" title="Selecionar Canal">CNN BRASIL/a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=globonews" target="jb_player" title="Selecionar Canal">GLOBONEWS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=recordnews" target="jb_player" title="Selecionar Canal">RECORD NEWS</a></label></p>
+<p><div id="categoria" title="Entretenimento para Jovens Adultos">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=agrandeconquista1" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=agrandeconquista2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA 2️⃣</a></label></p>
+<p><div id="categoria" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=adultswim" target="jb_player" title="Selecionar Canal">ADULT SWIM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=curta" target="jb_player" title="Selecionar Canal">CURTA!</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=foodnetwork" target="jb_player" title="Selecionar Canal">FOOD NETWORK</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=gnt" target="jb_player" title="Selecionar Canal">GNT</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=hgtv" target="jb_player" title="Selecionar Canal">HGTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=lifetime" target="jb_player" title="Selecionar Canal">LIFETIME</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=modoviagem" target="jb_player" title="Selecionar Canal">MODO VIAGEM</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=mtv" target="jb_player" title="Selecionar Canal">MTV</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=mtvlive" target="jb_player" title="Selecionar Canal">MTV LIVE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=travelboxbrazil" target="jb_player" title="Selecionar Canal">TRAVEL BOX BRAZIL</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=woohoo" target="jb_player" title="Selecionar Canal">WOOHOO</a></label></p>
+<p><div id="categoria" title="Filmes de Ação">▂ ▃ ▆ 🔫 SÉRIE 007 ▆ ▃ ▂</div></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071965CNTRACTGMATN" target="jb_player" title="007 Contra a Chantagem Atômica (Dublado) - 1965 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071995CNTRGLDNE" target="jb_player" title="007 Contra Goldeneye (Dublado) - 1995 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071964CNTRGLDFNG" target="jb_player" title="007 Contra Goldfinger (Dublado) - 1964 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071979CNTROFGUT" target="jb_player" title="007 Contra o Foguete da Morte (Dublado) - 1979 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071974CNTROHMN" target="jb_player" title="007 Contra o Homem com a Pistola de Ouro (Dublado) - 1974 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071962CNTROSTNC" target="jb_player" title="007 Contra o Satânico Dr. No (Dublado) - 1962 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071983CNTROPCTPS" target="jb_player" title="007 Contra Octopussy (Dublado) - 1983 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0072016CNTRSPCTR" target="jb_player" title="007 Contra Spectre (Dublado) - 2015 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071969ASVCSCRT" target="jb_player" title="007 A Serviço Secreto de Sua Majestade (Dublado) - 1969 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/embed.php?vid=0072006CSNRYL" target="jb_player" title="007 Casino Royale (Dublado) - 2006 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071987MRCDOMRT" target="jb_player" title="007 Marcado Para a Morte (Dublado) - 1987 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071985NMRDSASNS" target="jb_player" title="007 Na Mira dos Assassinos (Dublado) - 1985 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071983NCMSOTRVZ" target="jb_player" title="007 Nunca Mais Outra Vez (Dublado) - 1983 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071997OAMNHNCM" target="jb_player" title="007 O Amanhã Nunca Morre (Dublado) - 1997 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071977OESPNHQMA" target="jb_player" title="007 O Espião Que Me Amava (Dublado) - 1977 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071999OMNDNAOEOBST" target="jb_player" title="007 O Mundo Não é o Bastante (Dublado) - 1999 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0072012OPSKYFL" target="jb_player" title="007 Operação Skyfall (Dublado) - 2012 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071971OSDAMTS" target="jb_player" title="007 Os Diamantes São Eternos (Dublado) - 1971 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071989PRMSPMTR" target="jb_player" title="007 Permissão Para Matar (Dublado) - 1989 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0072008QNTOFSLC" target="jb_player" title="007 Quantum of Solace (Dublado) - 2008 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf4hlb.php?vid=007SMTMPRMRER" target="jb_player" title="007 Sem Tempo para Morrer (Dublado) - 2021 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf4hlb.php?vid=007SMTMPRMRERLEG" target="jb_player" title="007 Sem Tempo para Morrer (Legendado) - 2021 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0071981SMNTPSOLHS" target="jb_player" title="007 Somente Para Seus Olhos (Dublado) - 1981 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf2hlb.php?vid=0072002UNDPM" target="jb_player" title="007 Um Novo Dia Para Morrer (Dublado) - 2003 - 1080p">007</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverfhlb.php?vid=ERAUMAVZNOST" target="jb_player" title="Era uma Vez no Oeste (Dublado) - 1968 - 720p">ERA UMA VEZ NO OESTE</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🎬 <a href="https://sinalpublico.co/player3/serverf4hlb.php?vid=OSCNCSINVCVS" target="jb_player" title="Os Cinco Invencíveis (Dublado) - 1981 - 1080p">OS CINCO INVENCÍVEIS</a></label></p>
+<p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playervipmaster.com/myplay/bandplay.php?id=k6QMxYG3rzXoibzpKpQ" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/x9fev.html?video=k6H9TR1iSZWv30xaX2y" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globorj" target="jb_player" title="Selecionar Canal">GLOBO RJ</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=globosp" target="jb_player" title="Selecionar Canal">GLOBO SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://geo.dailymotion.com/player/xqyeq.html?video=x8u8n0m" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h1" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=h2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
 <p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
@@ -158,34 +314,34 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-latam/" target="jb_player" title="Selecionar Canal">STAR LATAM</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/star-latam-alt/" target="jb_player" title="Selecionar Canal">STAR LATAM ALT</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://playertv.net/tube-live/" target="jb_player" title="Selecionar Canal">TUBE LIVE</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=fx" target="jb_player" title="Selecionar Canal">FX</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=space" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tntNovelas" target="jb_player" title="Selecionar Canal">TNT NOVELAS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 FILMES 2▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES 2▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universal" target="jb_player" title="Selecionar Canal">UNIVERSAL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalAlt" target="jb_player" title="Selecionar Canal">UNIVERSAL ❶</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalPremiere" target="jb_player" title="Selecionar Canal">UNIVERSAL PREMIERE</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=tntAlt" target="jb_player" title="Selecionar Canal">TNT ❶</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Jornalísticos">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://meuplayeronlinehd.com/myplay/premiere/cnnBrasil.html" target="jb_player" title="Selecionar Canal">CNN Brasil</a></label></p>
-<p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW 2▆ ▃</div></p>
+<p><div id="categoria" title="Entretenimento para Jovens Adultos">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=universalReality" target="jb_player" title="Selecionar Canal">UNIVERSAL REALITY</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande1" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande3" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrande4" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://playertv.net/e/?v=agrandeReact" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA REACT</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://plvip.online/myplay/watch.html?id=multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
 </div>
 </div>
 <div class="canais" id="beta">
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺</label></p>
-<p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_player" title="Selecionar Canal">BAND TV SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-minas" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-rio" target="jb_player" title="Selecionar Canal">TV GLOBO RIO</a></label></p>
@@ -193,7 +349,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/record-tv-sp" target="jb_player" title="Selecionar Canal">RECORD TV SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/animal-planet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-channel-hd" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-turbo" target="jb_player" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
@@ -264,7 +420,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-4" target="jb_player" title="Selecionar Canal">TNT SPORTS 4</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-sports-5" target="jb_player" title="Selecionar Canal">TNT SPORTS 5</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/ufc-fight-pass-hd" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/comedy-central" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/fx-hd" target="jb_player" title="Selecionar Canal">FX</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/hbo" target="jb_player" title="Selecionar Canal">HBO</a></label></p>
@@ -288,7 +444,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tnt-series" target="jb_player" title="Selecionar Canal">TNT SÉRIES</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/warner-channel" target="jb_player" title="Selecionar Canal">WARNER CHANNEL</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Crianças e Pré-Adolescentes">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cartoon-network" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/discovery-kids" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/disney-channel" target="jb_player" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
@@ -298,11 +454,11 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/tooncast" target="jb_player" title="Selecionar Canal">TOONCAST</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nickelodeon" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/nick-jr" target="jb_player" title="Selecionar Canal">NICK JR.</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Jornalísticos">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bandnews" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/cnn-brasil-hd" target="jb_player" title="Selecionar Canal">CNN BRASIL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/br-globo-news-hd" target="jb_player" title="Selecionar Canal">GLOBO NEWS</a></label></p>
-<p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW ▆ ▃</div></p>
+<p><div id="categoria" title="Entretenimento para Jovens Adultos">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2022" target="jb_player" title="Selecionar Canal">BBB 2022</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-2023" target="jb_player" title="Selecionar Canal">BBB 2023</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/bbb-cam-1" target="jb_player" title="Selecionar Canal">BBB CAM 1</a></label></p>
@@ -313,10 +469,10 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/camera-6" target="jb_player" title="Selecionar Canal">CÂMERA 6</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-14" target="jb_player" title="Selecionar Canal">A FAZENDA 14</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/a-fazenda-15" target="jb_player" title="Selecionar Canal">A FAZENDA 15</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/investigacao-discovery" target="jb_player" title="Selecionar Canal">ID</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
-<div id="categoria">▂ ▃ ▆ 🎥 GLOBOS ▆ ▃ ▂</div></p>
+<div id="categoria" title="Generalistas">▂ ▃ ▆ 🌍 GLOBOS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvbahia" target="jb_player" title="Selecionar Canal">TV BAHIA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsantacruz" target="jb_player" title="Selecionar Canal">TV SANTA CRUZ</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsudoeste" target="jb_player" title="Selecionar Canal">TV SUDOESTE</a></label></p>
@@ -355,7 +511,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globogo-tvanhangueragoiania" target="jb_player" title="Selecionar Canal">TV ANHANGUERA GOIÂNIA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globoam-redeamazonicamanaus" target="jb_player" title="Selecionar Canal">REDE AMAZÔNICA MANAUS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globopa-tvliberalbelem" target="jb_player" title="Selecionar Canal">TV LIBERAL BELÉM</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🔓 ABERTOS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrobrasil" target="jb_player" title="Selecionar Canal">AGROBRASIL TV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agromais" target="jb_player" title="Selecionar Canal">AGROMAIS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
@@ -371,7 +527,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvdiario" target="jb_player" title="Selecionar Canal">TV DIÁRIO</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=gazeta" target="jb_player" title="Selecionar Canal">TV GAZETA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvsenado" target="jb_player" title="Selecionar Canal">TV SENADO</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=animalplanet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=arte1" target="jb_player" title="Selecionar Canal">ARTE 1</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverychannel" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
@@ -384,8 +540,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=history2" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=nationalgeographic" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
 <p><div id="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp"
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://starplus.eventos.wtf/" target="jb_player" title="Selecionar Canal">STAR +</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📡 <a href="https://starplus.eventos.wtf/" target="jb_player" title="Selecionar Canal">STAR +</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandsports" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=canaloff" target="jb_player" title="Selecionar Canal">CANAL OFF</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cazetv" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
@@ -459,7 +614,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass2" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass3" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 3</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ufcfightpass4" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS 4</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Cinematográficos e Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aee" target="jb_player" title="Selecionar Canal">A&E</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=amc" target="jb_player" title="Selecionar Canal">AMC</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=axn" target="jb_player" title="Selecionar Canal">AXN</a></label></p>
@@ -499,7 +654,7 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=universaltv" target="jb_player" title="Selecionar Canal">UNIVERSAL TV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=usa" target="jb_player" title="Selecionar Canal">USA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=warnertv" target="jb_player" title="Selecionar Canal">WARNER TV</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Crianças e Pré-Adolescentes">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonito" target="jb_player" title="Selecionar Canal">CARTOONITO</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cartoonnetwork" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=discoverykids" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
@@ -511,14 +666,14 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=ratimbum" target="jb_player" title="Selecionar Canal">RÁ-TIM-BUM</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=woohoo" target="jb_player" title="Selecionar Canal">WOOHOO</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=zoomoo" target="jb_player" title="Selecionar Canal">ZOOMOO KIDS</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Jornalísticos">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bandnews" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnnbrasil" target="jb_player" title="Selecionar Canal">CNN BRASIL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=cnninternational" target="jb_player" title="Selecionar Canal">CNN INTERNACIONAL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=globonews" target="jb_player" title="Selecionar Canal">GLOBONEWS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=jpnews" target="jb_player" title="Selecionar Canal">JOVEM PAN NEWS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=recordnews" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎤 RELIGIOSOS ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Religiosos">▂ ▃ ▆ 🙏 RELIGIOSOS ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redegospel" target="jb_player" title="Selecionar Canal">REDE GOSPEL</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=redevida" target="jb_player" title="Selecionar Canal">REDE VIDA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=aparecida" target="jb_player" title="Selecionar Canal">TV APARECIDA</a></label></p>
@@ -526,10 +681,10 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvevangelizar" target="jb_player" title="Selecionar Canal">TV EVANGELIZAR</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=novotempo" target="jb_player" title="Selecionar Canal">TV NOVO TEMPO</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=tvpaieterno" target="jb_player" title="Selecionar Canal">TV PAI ETERNO</a></label></p>
-<p><div id="categoria">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
+<p><div id="categoria" title="Entretenimento para Jovens Adultos">▃ ▆ 🏃‍♂️ REALITY SHOW▆ ▃</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=agrandeconquista2" target="jb_player" title="Selecionar Canal">A GRANDE CONQUISTA 2</a></label></p>
-<p><div id="categoria">▂ ▃ ▆ 🎥 VARIEDADES ▆ ▃ ▂</div></p>
+<p><div id="categoria" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=adultswim" target="jb_player" title="Selecionar Canal">ADULT SWIM</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=bis" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://reidoscanais.app/embed/?id=brasilparalelo" target="jb_player" title="Selecionar Canal">BRASIL PARALELO</a></label></p>
