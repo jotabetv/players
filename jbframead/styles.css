@@ -157,7 +157,7 @@ textarea:focus, input:focus, select:focus {
   height: 45px;
   left: max(calc(50vw - 380px / 2), 4vw);
   top: calc(50vh - 80px);
-  padding: 12px;
+  padding: 10px;
   background-color: #A9A9A9;
   border: 2px solid #FFA500;
   border-radius: 8px;
