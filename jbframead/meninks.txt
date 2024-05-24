@@ -55,16 +55,16 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere6" target="jb_player" title="Selecionar Canal">PREMIERE 6</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere7" target="jb_player" title="Selecionar Canal">PREMIERE 7</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere8" target="jb_player" title="Selecionar Canal">PREMIERE 8</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo1" target="jb_player" title="Selecionar Canal">PRIME VÍDEO</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo2" target="jb_player" title="Selecionar Canal">PRIME VÍDEO 2</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo1" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ⓵</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo2" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ⓶</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo3" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ⓷</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo4" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ❹</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=primevideo4" target="jb_player" title="Selecionar Canal">PRIME VÍDEO ⓸</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv1" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus1" target="jb_player" title="Selecionar Canal">STAR PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus2" target="jb_player" title="Selecionar Canal">STAR PLUS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus3" target="jb_player" title="Selecionar Canal">STAR PLUS 3</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus1" target="jb_player" title="Selecionar Canal">STAR PLUS ⓵</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus2" target="jb_player" title="Selecionar Canal">STAR PLUS ⓶</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=starplus3" target="jb_player" title="Selecionar Canal">STAR PLUS ⓷</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=ufcfightpass" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
 <p><div id="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=aie" target="jb_player" title="Selecionar Canal">A&E</a></label></p>
