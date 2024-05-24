@@ -43,10 +43,10 @@
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=espn6" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=fishtv" target="jb_player" title="Selecionar Canal">FISH TV</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=nossofutebol" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus1" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus2" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus3" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus4" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus1" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS ➀</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus2" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS ➁</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus3" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS ➂</a></label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=paramountplus4" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS ➃</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiereclubes" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere2" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=premiere3" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
