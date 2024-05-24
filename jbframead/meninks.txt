@@ -8,7 +8,7 @@
 <div class="advertise">LISTA DE LINKS</div>
 </div>
 <div class="canais" id="alfa">
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
 <p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=record" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
@@ -340,7 +340,7 @@
 </div>
 </div>
 <div class="canais" id="beta">
-<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
+<p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
 <p><div id="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/band-tv-sp" target="jb_player" title="Selecionar Canal">BAND TV SP</a></label></p>
 <p><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">📺 <a href="https://embedflix.online/tv/globo-minas" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
