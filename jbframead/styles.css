@@ -229,8 +229,7 @@ textarea:focus, input:focus, select:focus {
   font-size: 16px;
   align-items: right;
   right: 15px;
-  //align-items: left;
-    cursor: pointer;
+  cursor: pointer;
    // color: red;
 }
 #categoria {
@@ -244,8 +243,9 @@ textarea:focus, input:focus, select:focus {
 #icone {
   //background: #A9A9A9;
   //color: #ffffff;
+  position: absolute;
   //font-size: 16px;
-  text-align: center;
+  //text-align: center;
   align-items: center;
    //cursor: pointer;
    // color: red;
