@@ -227,6 +227,7 @@ textarea:focus, input:focus, select:focus {
   //color: #ffffff;
   font-size: 16px;
   text-align: right;
+  align-items: right;
     cursor: pointer;
    // color: red;
 }
@@ -243,6 +244,7 @@ textarea:focus, input:focus, select:focus {
   //color: #ffffff;
   //font-size: 16px;
   text-align: center;
+  align-items: center;
    //cursor: pointer;
    // color: red;
 }
@@ -252,6 +254,7 @@ textarea:focus, input:focus, select:focus {
   //color: #ffffff;
   font-size: 12px;
   text-align: left;
+  align-items: left;
     //cursor: pointer;
    // color: red;
 }
