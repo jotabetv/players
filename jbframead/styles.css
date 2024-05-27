@@ -227,6 +227,7 @@ textarea:focus, input:focus, select:focus {
   //color: #ffffff;
   position: absolute;
   font-size: 16px;
+  align-items: right;
   right: 0;
   //align-items: left;
     cursor: pointer;
