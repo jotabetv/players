@@ -164,6 +164,13 @@ textarea:focus, input:focus, select:focus {
   box-shadow: 0px 5px 15px -5px #0000003c;
 }
 
+#menupop:hover {
+    background-color: #FFF0F5;
+    border: 2px solid #00FA9A;
+    color: #2F4F4F;
+    font-weight: bold;
+}
+
 #menualfa {
  // column-count:3;  
  // column-width: 50px;
