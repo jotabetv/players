@@ -237,3 +237,21 @@ textarea:focus, input:focus, select:focus {
   font-weight: bold;
   text-align: center;
 }
+
+#icone {
+  //background: #A9A9A9;
+  //color: #ffffff;
+  //font-size: 16px;
+  text-align: center;
+   //cursor: pointer;
+   // color: red;
+}
+
+#ch {
+  //background: #A9A9A9;
+  //color: #ffffff;
+  font-size: 12px;
+  text-align: left;
+    //cursor: pointer;
+   // color: red;
+}
