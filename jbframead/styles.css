@@ -243,10 +243,11 @@ textarea:focus, input:focus, select:focus {
 #icone {
   //background: #A9A9A9;
   //color: #ffffff;
-  position: absolute;
+  position: fixed;
   //font-size: 16px;
   //text-align: center;
   align-items: center;
+  center: 0;
    //cursor: pointer;
    // color: red;
 }
