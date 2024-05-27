@@ -225,7 +225,7 @@ textarea:focus, input:focus, select:focus {
 #fechar-pop {
   //background: #A9A9A9;
   //color: #ffffff;
-  //position: absolute;
+  position: fixed;
   font-size: 16px;
   right: 0;
   //align-items: left;
