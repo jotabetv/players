@@ -2,6 +2,23 @@
 <input id="fechar-popup" name="popup" type="radio" hidden checked>
 <label id="abrir-popup-btn" for="abrir-popup">🔎</label>
 <label id="fechar-popup-btn" for="fechar-popup"></label> 
+<div class="name">
+<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
+<script type="text/javascript">
+        var a = document.getElementsByTagName('a').length;
+document.write(' ' + a +' Canais');
+    </script>
+</i></span>
+</div>
+</a>
+</div>
+
+</script>
+ <script type="text/javascript">
+        var a = document.getElementsByTagName('a').length;
+document.write('Quantidade de Canais: ' + a);
+    </script>	
+
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
@@ -704,23 +721,5 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=saborearte" target="jb_player" title="Selecionar Canal">SABOR & ARTE</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
-
-<div class="name">
-<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
-<script type="text/javascript">
-        var a = document.getElementsByTagName('a').length;
-document.write(' ' + a +' Canais');
-    </script>
-</i></span>
-</div>
-</a>
-</div>
-
-</script>
- <script type="text/javascript">
-        var a = document.getElementsByTagName('a').length;
-document.write('Quantidade de Canais: ' + a);
-    </script>	
-
 </div>
 </div>
