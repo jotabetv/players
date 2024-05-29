@@ -710,6 +710,6 @@
 </div>
 <script type="text/javascript">
     $(document).ready(function(){                                     
-        alert($(".ch").length) //AQUI ACONTECE A CONTAGEM
+        alert($(".jb_player").length) //AQUI ACONTECE A CONTAGEM
     });
 </script>
