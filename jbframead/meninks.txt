@@ -706,7 +706,7 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 <script type="text/javascript">
-var elemento = document.querySelector('target');
+var elemento = document.querySelector('jb_player');
 // compatibilidade com IE antigo via innerText
 var conteudo = elemento.textContent || elemento.innerText; 
 alert(conteudo.length); // 1
