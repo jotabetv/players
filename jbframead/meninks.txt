@@ -710,7 +710,7 @@
 // compatibilidade com IE antigo via innerText
 //var conteudo = elemento.textContent || elemento.innerText; 
 //alert(conteudo.length);  1
-var paragrafos = document.querySelectorAll("p");
+var paragrafos = document.querySelector('p');
 console.log(paragrafos.length); // quantidade de parágrafos
 </script>
 
