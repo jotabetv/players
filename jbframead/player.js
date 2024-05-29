@@ -42,7 +42,7 @@ function PopLink(){
 
  $(document).ready(function(){
   
-        $('.abrir-popup-btn').click(function(){
+        $('.btn1').click(function(){
             var elementCount = $('#beta a').length;
   
             alert(elementCount + ' Canais');
