@@ -38,6 +38,9 @@ function play(){
 
 function PopLink(){
 	$("#boxlink").load("meninks.txt");
+	var elementCount = $('#beta a').length;
+  
+            alert(elementCount + ' Canais');
 	}
 
  $(document).ready(function(){
