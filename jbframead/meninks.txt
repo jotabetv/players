@@ -706,3 +706,19 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 </div>
 </div>
+<div class="name">
+<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
+<script type="text/javascript">
+        var a = document.getElementsByTagName('a').length;
+document.write(' ' + a +' Canais');
+    </script>
+</i></span>
+</div>
+</a>
+</div>
+
+</script>
+ <script type="text/javascript">
+        var a = document.getElementsByTagName('a').length;
+document.write('Quantidade de Canais: ' + a);
+    </script>	
