@@ -715,11 +715,10 @@ $(document).ready(function(){
   
         $('.btn1').click(function(){
         var elementCount = $('#beta a').length;
-window.alert(' ' + elementCount +' Canais');
+window.alert(elementCount +' Canais');
  });
   
     });
     </script>
 </div>
 </div>
-
