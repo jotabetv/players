@@ -8,7 +8,6 @@
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 <button id="btn1">Click Me!</button>
-<div id="jb_conta"></div>
 </div>
 <div class="canais" id="alfa">
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
@@ -709,18 +708,18 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 
 <div class="name">
-<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
-<script type="text/javascript">
+<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
+</div>
+<script>
 $(document).ready(function(){
   
         $('.btn1').click(function(){
         var elementCount = $('#beta a').length;
-document.write(' ' + elementCount +' Canais');
+alert(' ' + elementCount +' Canais');
  });
   
     });
     </script>
-</i></span>
 </div>
-
+</div>
 
