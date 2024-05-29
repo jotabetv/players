@@ -6,8 +6,7 @@
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
-<div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-<button class="btn1">Click Me!</button>
+<div class="advertise">LISTA DE LINKS<button class="btn1">Click Me!</button><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 </div>
 <div class="canais" id="alfa">
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
