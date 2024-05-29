@@ -38,8 +38,6 @@ function play(){
 
 function PopLink(){
 	$("#boxlink").load("meninks.txt");
-	 const quantidadeCh = document.querySelectorAll('ch').length;
-  document.body.innerHTML = '<p> ${quantidadeCh} </p>'
 	}
 function contou(){
 var jb_qtde = document.getElementById("jb_qtde");
