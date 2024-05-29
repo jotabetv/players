@@ -37,12 +37,14 @@ function play(){
     }
 
 function PopLink(){
-var jb_qtde = document.getElementById("jb_qtde");
-var a = document.getElementsByTagName('a').length;
-document.write(' ' + a +' Canais');
 	$("#boxlink").load("meninks.txt");
 	}
 
+$(window).on("load", function(){
+var jb_qtde = document.getElementById("jb_qtde");
+var a = document.getElementsByTagName('a').length;
+document.write(' ' + a +' Canais');
+})
 /*
 
 function PopLink() {
