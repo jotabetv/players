@@ -40,6 +40,16 @@ function PopLink(){
 	$("#boxlink").load("meninks.txt");
 	}
 
+ $(document).ready(function(){
+  
+        $('.btn1').click(function(){
+            var elementCount = $('#beta a').length;
+  
+            alert(elementCount + ' Canais');
+        });
+  
+    });
+
 /*
 
 function contou(){
