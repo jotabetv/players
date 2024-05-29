@@ -711,7 +711,7 @@
     $(document).ready(function(){
   
         $('.btn1').click(function(){
-            var elementCount = $('#beta ch').length;
+            var elementCount = $('#beta p').length;
   
             alert(elementCount);
         });
@@ -722,8 +722,8 @@
 // compatibilidade com IE antigo via innerText
 //var conteudo = elemento.textContent || elemento.innerText; 
 //alert(conteudo.length);  1
-var paragrafos = document.querySelector('p');
-console.log(paragrafos.length); // quantidade de parágrafos
+//var paragrafos = document.querySelector('p');
+//console.log(paragrafos.length); // quantidade de parágrafos
 </script>
 
 </div>
