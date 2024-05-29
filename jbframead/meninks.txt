@@ -6,12 +6,6 @@
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
-<script type="text/javascript">
-var elemento = document.querySelector('label');
-// compatibilidade com IE antigo via innerText
-var conteudo = elemento.textContent || elemento.innerText; 
-alert(conteudo.length); // 1
-</script>
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 </div>
 <div class="canais" id="alfa">
@@ -712,9 +706,10 @@ alert(conteudo.length); // 1
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 <script type="text/javascript">
-    $(document).ready(function(){                                     
-        alert($(".jb_player").length) //AQUI ACONTECE A CONTAGEM
-    });
+var elemento = document.querySelector('target');
+// compatibilidade com IE antigo via innerText
+var conteudo = elemento.textContent || elemento.innerText; 
+alert(conteudo.length); // 1
 </script>
 
 </div>
