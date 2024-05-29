@@ -7,7 +7,11 @@
 <div id="menubeta">
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-
+</script>
+ <script type="text/javascript">
+        var a = document.getElementsByTagName('a').length;
+document.write('Quantidade de Canais: ' + a);
+    </script>	
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
   <div id="jb_qtde"></div>
 </i></span>
