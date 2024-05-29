@@ -40,7 +40,9 @@ function PopLink(){
 	$("#boxlink").load("meninks.txt");
 	
 	}
-
+var jb_qtde = document.getElementById("jb_qtde");
+var a = document.getElementsByTagName('a').length;
+document.write(' ' + a +' Canais');
 
 /*
 
