@@ -714,7 +714,9 @@ $(document).ready(function(){
   
         $('.btn1').click(function(){
         var elementCount = $('#beta a').length;
+var elementAlfa = $('#alfa a').length;
 window.alert(elementCount +' Canais');
+window.alert(elementAlfa +' Canais');
  });
   
     });
