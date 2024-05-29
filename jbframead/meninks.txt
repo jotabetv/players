@@ -711,7 +711,7 @@
     $(document).ready(function(){
   
         $('.btn1').click(function(){
-            var elementCount = $('#beta *').length;
+            var elementCount = $('ch').length;
   
             alert(elementCount);
         });
