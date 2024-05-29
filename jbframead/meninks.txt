@@ -2,6 +2,11 @@
 <input id="fechar-popup" name="popup" type="radio" hidden checked>
 <label id="abrir-popup-btn" for="abrir-popup">🔎</label>
 <label id="fechar-popup-btn" for="fechar-popup"></label> 
+<div class="name">
+<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
+  <div id="qtde"></div>
+</i></span>
+</div>
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
