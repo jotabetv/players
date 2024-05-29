@@ -7,7 +7,7 @@
 <div id="menubeta">
 <div id="menupop">
 <script type="text/javascript">
-var elemento = document.querySelector('a');
+var elemento = document.querySelector('label');
 // compatibilidade com IE antigo via innerText
 var conteudo = elemento.textContent || elemento.innerText; 
 alert(conteudo.length); // 1
