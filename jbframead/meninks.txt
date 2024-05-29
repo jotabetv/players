@@ -706,10 +706,12 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 <script type="text/javascript">
-var elemento = document.querySelector('label');
+//var elemento = document.querySelector('p');
 // compatibilidade com IE antigo via innerText
-var conteudo = elemento.textContent || elemento.innerText; 
-alert(conteudo.length); // 1
+//var conteudo = elemento.textContent || elemento.innerText; 
+//alert(conteudo.length); // 1
+var paragrafos = document.querySelectorAll("p");
+console.log(paragrafos.length); // quantidade de parágrafos
 </script>
 
 </div>
