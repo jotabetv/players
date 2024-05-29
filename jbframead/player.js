@@ -39,12 +39,14 @@ function play(){
 function PopLink(){
 	$("#boxlink").load("meninks.txt");
 	}
+
+/*
+
 function contou(){
 var jb_qtde = document.getElementById("jb_qtde");
 var a = document.getElementsByTagName('a').length;
 document.write(' ' + a +' Canais');
 }
-/*
 
 function PopLink() {
     $.ajax({
