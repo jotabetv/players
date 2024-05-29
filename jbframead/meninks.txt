@@ -706,26 +706,5 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=saborearte" target="jb_player" title="Selecionar Canal">SABOR & ARTE</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
-
-<script>
-    $(document).ready(function(){
-  
-        $('.btn1').click(function(){
-            var elementCount = $('#beta a').length;
-  
-            alert(elementCount + 'Canais');
-        });
-  
-    });
-
-//var elemento = document.querySelector('p');
-// compatibilidade com IE antigo via innerText
-//var conteudo = elemento.textContent || elemento.innerText; 
-//alert(conteudo.length);  1
-//var paragrafos = document.querySelector('p');
-//console.log(paragrafos.length); // quantidade de parágrafos
-</script>
-
 </div>
 </div>
-
