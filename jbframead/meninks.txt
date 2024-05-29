@@ -4,7 +4,7 @@
 <label id="fechar-popup-btn" for="fechar-popup"></label> 
 <div class="name">
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
-  <div id="qtde"></div>
+  <div id="jb_qtde"></div>
 </i></span>
 </div>
 <div id="menualfa">
