@@ -6,7 +6,10 @@
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
-
+<script type="text/javascript">
+const quantidadeCh = document.querySelectorAll('ch').length;
+  document.body.innerHTML = '<p> ${quantidadeCh} </p>'
+</script>
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 </div>
 <div class="canais" id="alfa">
