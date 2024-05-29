@@ -10,9 +10,6 @@ function setLink(){
         if (input.value == ""){
             window.alert("Url do vídeo ou áudio é obrigatório!");	
     var jbf_tv = '';document.getElementById('jb_frame').src=jbf_tv;
-		var jb_qtde = document.getElementById("jb_qtde");
-var a = document.getElementsByTagName('a').length;
-document.write(' ' + a +' Canais');
 
         }else {
             window.alert('Canal ' + inputText + ' inserido com sucesso!');
@@ -40,6 +37,9 @@ function play(){
     }
 
 function PopLink(){
+var jb_qtde = document.getElementById("jb_qtde");
+var a = document.getElementsByTagName('a').length;
+document.write(' ' + a +' Canais');
 	$("#boxlink").load("meninks.txt");
 	}
 
