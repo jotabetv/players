@@ -711,16 +711,16 @@
 <div class="name">
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00">
 <script type="text/javascript">
+$(document).ready(function(){
+  
+        $('.btn1').click(function(){
         var elementCount = $('#beta a').length;
 document.write(' ' + elementCount +' Canais');
+ });
+  
+    });
     </script>
 </i></span>
 </div>
 
-</script>
- <script type="text/javascript">
-        var elementCount = $('#beta a').length;
-document.write('Quantidade de Canais: ' + elementCount);
-    </script>	
-</div>
-</div>
+
