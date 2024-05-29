@@ -43,6 +43,7 @@ function PopLink(){
  $(document).ready(function(){
   
         $('.btn1').click(function(){
+var conta = document.getElementById("jb_conta");
             var elementCount = $('#beta a').length;
   
             alert(elementCount + ' Canais');
