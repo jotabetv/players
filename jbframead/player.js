@@ -53,14 +53,7 @@ window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' 
     });
 
 
-// When the user clicks on <div>, open the popup
-function myFunction() {
-	var contar = document.getElementById("jb_contar");
-	var a = document.getElementsByTagName('a').length;
-	document.getElementById("jb_contar").innerHTML = ('Quantidade de Canais: ' + a);
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
+
 
 // Ao clicar nos elementos #overlay ou #close fecha a caixa
 $( '#overlay, #close').on('click', function(event) {
@@ -75,6 +68,13 @@ $( '#show').on('click', function(event) {
 
 /*
 
+function myFunction() {
+	var contar = document.getElementById("jb_contar");
+	var a = document.getElementsByTagName('a').length;
+	document.getElementById("jb_contar").innerHTML = ('Quantidade de Canais: ' + a);
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
  $(document).ready(function(){
   
         $('.btn1').click(function(){
