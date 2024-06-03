@@ -13,7 +13,9 @@
   <span class="popuptext" id="myPopup"><p>Popup text...</p>
 <p>mais pop</p>
 <p>mais e mais</p>
-<p>E mais ainda</p></span>
+<p>E mais ainda</p>
+<div id="contar"></div>
+</span>
 </div> 
 
 </div>
@@ -720,5 +722,5 @@
 <div class="name">
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
 </div>
-<div class="contar"></div>
+
 
