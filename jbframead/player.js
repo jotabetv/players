@@ -57,7 +57,11 @@ document.write('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +
 function myFunction() {
   var popup = document.getElementById("myPopup");
   popup.classList.toggle("show");
+	var p = document.getElementsByTagName('p').length;
+document.write('Quantidade de Canais: ' + p);
 }
+
+
 
 /*
 
