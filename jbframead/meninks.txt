@@ -714,37 +714,46 @@
 </div>
 </div>
 
-<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>jQuery UI Dialog - Default functionality</title>
-	<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
-	<link rel="stylesheet" href="https://jqueryui.com/resources/demos/style.css">
-	<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
-	<script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
-	<script>
-	
+<div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup"><p>Popup text...</p>
+<p>mais pop</p>
+<p>mais e mais</p>
+<p>E mais ainda</p></span>
+</div> 
 
-$( function() {
-		$( "#dialog" ).dialog({
-			autoOpen: false,
-			show: {
-				effect: "blind",
-				duration: 1000
-			},
-			hide: {
-				effect: "explode",
-				duration: 1000
-			}
-		});
+<style>
+ /* Popup container */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
 
-		$( "#opener" ).on( "click", function() {
-			$( "#dialog" ).dialog( "open" );
-		});
-	} );
-	</script>
+/* The actual popup (appears on top) */
+.popup .popuptext {
+  visibility: hidden;
+  width: 360px;
+  background-color: #080000;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
 
-<div id="dialog" title="Basic dialog">
-	<p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
-<p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
-<p>This is the default dialog which is useful for displaying information. The dialog window can be moved, resized and closed with the 'x' icon.</p>
-</div>
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+</style>
