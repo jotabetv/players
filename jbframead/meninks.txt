@@ -17,21 +17,6 @@
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 <div id="show" title="Total de Canais">📜</div>
-<!--
-<div class="popup" onclick="myFunction()">Click me!
-<label class="popup" id="btn" title="Total de Canais">📜</label>
-<button id="show">Show lightbox</button>
-<div class="popup">
-  <span class="popuptext" id="myPopup"><p>Popup text...</p>
-<p>mais pop</p>
-<p><div id="jb_contar"></div></p>
-</span>
-</div> 
-
--->
-
-
-
 </div>
 <div class="canais" id="alfa">
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
@@ -732,9 +717,3 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 </div>
 </div>
-
-<div class="name">
-<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
-</div>
-
-
