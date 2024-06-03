@@ -40,6 +40,15 @@ function PopLink(){
 	$("#boxlink").load("meninks.txt");
 	}
 
+$(document).ready(function(){
+  
+        $('.btn1').click(function(){
+        var elementCount = $('#beta a').length;
+var elementAlfa = $('#alfa a').length;
+window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' Canais');
+ });
+  
+    });
 
 /*
 
