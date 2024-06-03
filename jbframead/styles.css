@@ -333,3 +333,35 @@ textarea:focus, input:focus, select:focus {
   from {opacity: 0;}
   to {opacity:1 ;}
 } 
+
+
+#close {float: right;}
+
+.white-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 16px;
+    border: 5px solid gray;
+    background-color: white;
+    z-index:1002;
+    overflow: auto;
+    width: 350px;
+    height: 200px;
+}
+#overlay {
+    background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
+   // width: 150px;
+   // height: 30px;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.boxtitle {
+  background: #5DB0EE;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+}
