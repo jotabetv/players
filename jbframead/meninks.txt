@@ -7,7 +7,7 @@
 <div id="menubeta">
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-<label class="popup" id="btn" title="Total de Canais" onclick="myFunction()">📜</label>
+<div class="popup" id="btn" title="Total de Canais" onclick="myFunction()">📜</div>
 <!--
 <div class="popup" onclick="myFunction()">Click me!
 <label class="popup" id="btn" title="Total de Canais">📜</label>
