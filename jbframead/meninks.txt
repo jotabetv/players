@@ -4,7 +4,7 @@
 <label id="fechar-popup-btn" for="fechar-popup"></label>
 <div id="contcanal" style="display:none">
     <div class="white-content">
-<button id="close" title="Fechar PopUp">💠</button>
+<button id="close" title="Fechar PopUp">🚪</button>
             <div class="boxtitle">Quantidade de Canais:</div>
 <div class="jb_contar"></div>
 <p>Clique no botão (Close).</p>
