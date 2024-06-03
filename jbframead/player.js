@@ -2,7 +2,7 @@
     Copyright (c) 2024 Pierleeb
     SPDX-License-Identifier: MIT
     JBF-TV Player - R.Santana/BA
-    window.alert
+   document.write
 */
 
 function setLink(){
@@ -47,7 +47,7 @@ $(document).ready(function(){
 		var contar = document.getElementById("jb_contar");
         var elementCount = $('#beta a').length;
 var elementAlfa = $('#alfa a').length;
-document.write('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' Canais');
+window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' Canais');
  });
   
     });
