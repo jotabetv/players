@@ -5,7 +5,7 @@
 <div id="contcanal" style="display:none">
     <div class="white-content">
         <button id="close">Close</button>          
-            <div class="boxtitle">Quantidade de Canais por Categoria:</div>
+            <div class="boxtitle">Quantidade de Canais:</div>
 <p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
 <p><div id="jb_contar"></div></p>
     </div>
