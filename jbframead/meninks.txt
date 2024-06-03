@@ -6,15 +6,15 @@
     <div class="white-content">
 <button id="close" title="Fechar PopUp">💠</button>
             <div class="boxtitle">Quantidade de Canais:</div>
-<div id="jb_contar">
+<div class="jb_contar"></div>
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
-<p><div id="jb_alfa"></div></p>
-<p><div id="jb_beta"></div></p>
-</div>
+<p><div class="jb_contar" id="jb_alfa"></div></p>
+<p><div class="jb_contar" id="jb_beta"></div></p>
+
     </div>
 </div>
 <div id="overlay" style="display:none"></div>
