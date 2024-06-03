@@ -50,8 +50,8 @@ $( '#show').on('click', function(event) {
     $("#contcanal, #overlay").show();
 	var contBeta = $('#beta a').length;
 	var contAlfa = $('#alfa a').length;
-	document.getElementById("jb_contar").innerHTML = ('☑ Quantidade: ' + contBeta + ' Canais');
-	document.getElementById("jb_contar").innerHTML = ('☑ Quantidade: ' + contAlfa + ' Canais');
+	document.getElementById("jb_beta").innerHTML = ('☑ Quantidade: ' + contBeta + ' Canais');
+	document.getElementById("jb_alfa").innerHTML = ('☑ Quantidade: ' + contAlfa + ' Canais');
 });
 
 /*
