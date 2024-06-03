@@ -281,61 +281,8 @@ textarea:focus, input:focus, select:focus {
    // color: red;
 }
 
- /* Popup container */
-.popup {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
+#close {float: right;
 }
-
-/* The actual popup (appears on top) */
-.popup .popuptext {
-  visibility: hidden;
-  width: 360px;
-  background-color: #080000;
-  color: #fff;
-  text-align: left;
-  border-radius: 6px;
-  padding: 8px 0;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -80px;
-}
-
-/* Popup arrow */
-.popup .popuptext::after {
-  content: "";
-  position: absolute;
-  top: -100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
-}
-
-/* Toggle this class when clicking on the popup container (hide and show the popup) */
-.popup .show {
-  visibility: visible;
-  -webkit-animation: fadeIn 1s;
-  animation: fadeIn 1s
-}
-
-/* Add animation (fade in the popup) */
-@-webkit-keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
-
-@keyframes fadeIn {
-  from {opacity: 0;}
-  to {opacity:1 ;}
-} 
-
-
-#close {float: right;}
 
 .white-content {
     position: absolute;
@@ -350,6 +297,7 @@ textarea:focus, input:focus, select:focus {
     width: 350px;
     height: 200px;
 }
+
 #overlay {
     background-color: rgba(0,0,0,.5); /* Podes remover esta linha se quiseres um Background transparente */
    // width: 150px;
@@ -362,6 +310,6 @@ textarea:focus, input:focus, select:focus {
 .boxtitle {
   background: #5DB0EE;
   color: #fff;
-  font-size: 16px;
+  font-size: 26px;
   text-align: center;
 }
