@@ -56,8 +56,8 @@ window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' 
 // When the user clicks on <div>, open the popup
 function myFunction() {
 	var contar = document.getElementById("jb_contar");
-	var p = document.getElementsByTagName('p').length;
-window.alert('Quantidade de Canais: ' + p);
+	var a = document.getElementsByTagName('a').length;
+window.alert('Quantidade de Canais: ' + a);
   var popup = document.getElementById("myPopup");
   popup.classList.toggle("show");
 }
