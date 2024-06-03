@@ -44,6 +44,7 @@ function PopLink(){
 $(document).ready(function(){
   
         $('.btn1').click(function(){
+		var contar = document.getElementById("jb_contar");
         var elementCount = $('#beta a').length;
 var elementAlfa = $('#alfa a').length;
 document.write('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' Canais');
