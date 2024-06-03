@@ -12,9 +12,7 @@
 <div class="popup" onclick="myFunction()">Click me!
   <span class="popuptext" id="myPopup"><p>Popup text...</p>
 <p>mais pop</p>
-<p>mais e mais</p>
-<p>E mais ainda</p>
-<div id="contar"></div>
+<p><div id="jb_contar"></div></p>
 </span>
 </div> 
 
