@@ -62,7 +62,16 @@ function myFunction() {
   popup.classList.toggle("show");
 }
 
+// Ao clicar nos elementos #overlay ou #close fecha a caixa
+$( '#overlay, #close').on('click', function(event) {
+    $("#contcanal, #overlay").hide();
+});
 
+$( '#show').on('click', function(event) {
+    $("#contcanal, #overlay").show();
+	var a = document.getElementsByTagName('a').length;
+	document.getElementById("jb_contar").innerHTML = ('Quantidade de Canais: ' + a);
+});
 
 /*
 
