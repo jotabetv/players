@@ -3,6 +3,7 @@
 <label id="abrir-popup-btn" for="abrir-popup">🔎</label>
 <label id="fechar-popup-btn" for="fechar-popup"></label> 
 <div class="contar"></div>
+<script src="player.js"></script>
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
@@ -710,16 +711,6 @@
 <div class="name">
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
 </div>
-<script>
-$(document).ready(function(){
-  
-        $('.btn1').click(function(){
-        var elementCount = $('#beta a').length;
-var elementAlfa = $('#alfa a').length;
-window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' Canais');
- });
-  
-    });
-    </script>
+
 </div>
 </div>
