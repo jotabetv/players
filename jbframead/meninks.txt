@@ -757,3 +757,10 @@
 <span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
 </div>
 <div class="contar"></div>
+<script>
+// When the user clicks on <div>, open the popup
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
