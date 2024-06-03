@@ -282,18 +282,24 @@ textarea:focus, input:focus, select:focus {
 }
 
 #close {
-position: fixed;
-bottom: 50px;
+  display:scroll;
+  position:fixed !important;
+  float: right;
+  display: inline;
+  bottom:6px;
+  right:6px;
+//position: fixed;
+//bottom: 50px;
 z-index: 2000;
-cursor: pointer;
-outline: none !important;
-padding: 10px;
-border: 1px solid #4cae4c;
-background: #4cae4c;
-font-size: 18px;
-color: #fff;
-width: 90%;
-margin-left: 5%;
+//cursor: pointer;
+//outline: none !important;
+//padding: 10px;
+//border: 1px solid #4cae4c;
+//background: #4cae4c;
+//font-size: 18px;
+//color: #fff;
+//width: 90%;
+//margin-left: 5%;
   //float: right;  
   //font-size: 16px;
   //align-items: right;
