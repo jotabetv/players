@@ -289,7 +289,7 @@ textarea:focus, input:focus, select:focus {
   cursor: pointer;
 
 position: absolute;
-  top: 15px;
+  top: 5px;
   right: 10px;
   transition: all 200ms;
   font-size: 30px;
@@ -325,6 +325,7 @@ position: absolute;
 }
 
 .boxtitle {
+  top: 15px;
   background: #5DB0EE;
   color: #FFFFFF;
   font-size: 26px;
