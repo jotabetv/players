@@ -356,8 +356,15 @@ cursor: pointer;
   font-weight: bold;
 }
 
-.jb_contar {
-  background: #F0E68C;
+.jb_vai {
+  background: #FFF5EE;
+  color: #556B2F;
+  font-size: 14px;
+  text-align: left;
+}
+
+.jb_vem {
+  background: #FFFAF0;
   color: #556B2F;
   font-size: 14px;
   text-align: left;
