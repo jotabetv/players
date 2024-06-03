@@ -7,11 +7,24 @@
 <div id="menubeta">
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-<div class="popup" id="btn" title="Total de Canais" onclick="myFunction()">📜</div>
+<div class="popup" id="show" title="Total de Canais">📜</div>
 <!--
 <div class="popup" onclick="myFunction()">Click me!
 <label class="popup" id="btn" title="Total de Canais">📜</label>
+<button id="show">Show lightbox</button>
+
 -->
+
+<div id="contcanal" style="display:none">
+    <div class="white-content">
+        <button id="close">Close</button>          
+            <div class="boxtitle">Quantidade de Canais por Categoria:</div>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+<p><div id="jb_contar"></div></p>
+    </div>
+</div>
+<div id="overlay" style="display:none">
+
 <div class="popup">
   <span class="popuptext" id="myPopup"><p>Popup text...</p>
 <p>mais pop</p>
