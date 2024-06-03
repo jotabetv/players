@@ -7,12 +7,7 @@
 <div id="menubeta">
 <div id="menupop">
 <div class="advertise">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-<label class="btn1" id="opener" title="Total de Canais">📜</label>
-<button id="opener">Open Dialog</button>
-<div class="name">
-<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
-</div>
-<div class="contar"></div>
+<label class="btn1" id="btn" title="Total de Canais">📜</label>
 </div>
 <div class="canais" id="alfa">
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
@@ -757,3 +752,8 @@
   border-color: #555 transparent transparent transparent;
 }
 </style>
+
+<div class="name">
+<span><b style="color: #FF4500">Quantidade:</b><i style="color: #7FFF00"></i></span>
+</div>
+<div class="contar"></div>
