@@ -356,7 +356,7 @@ cursor: pointer;
   font-weight: bold;
 }
 
-#jb_contar {
+.jb_contar {
   background: #F0E68C;
   color: #556B2F;
   font-size: 14px;
