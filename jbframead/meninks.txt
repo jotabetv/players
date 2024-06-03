@@ -12,8 +12,8 @@
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
 <p>Clique no botão (Close).</p>
-<p><div class="jb_contar" id="jb_alfa"></div></p>
-<p><div class="jb_contar" id="jb_beta"></div></p>
+<div class="jb_vai" id="jb_alfa"></div>
+<div class="jb_vem" id="jb_beta"></div>
 
     </div>
 </div>
