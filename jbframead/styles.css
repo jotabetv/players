@@ -291,7 +291,7 @@ textarea:focus, input:focus, select:focus {
 //position: fixed;
 //bottom: 50px;
 z-index: 2000;
-//cursor: pointer;
+cursor: pointer;
 //outline: none !important;
 //padding: 10px;
 //border: 1px solid #4cae4c;
