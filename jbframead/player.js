@@ -48,11 +48,12 @@ $( '#overlay, #close').on('click', function(event) {
 
 $( '#show').on('click', function(event) {
     $("#contcanal, #overlay").show();
-	var a = document.getElementsByTagName('a').length;
-	document.getElementById("jb_contar").innerHTML = ('☑ Quantidade: ' + a + ' Canais');
+	var beta = document.getElementsByTagName('#beta a').length;
+	document.getElementById("jb_contar").innerHTML = ('☑ Quantidade: ' + beta + ' Canais');
 });
 
 /*
+var a = document.getElementsByTagName('a').length;
 $(document).ready(function(){
   
         $('.btn1').click(function(){
