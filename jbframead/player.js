@@ -55,10 +55,10 @@ document.write('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +
 
 // When the user clicks on <div>, open the popup
 function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
 	var p = document.getElementsByTagName('p').length;
 document.write('Quantidade de Canais: ' + p);
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
 }
 
 
