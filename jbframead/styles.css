@@ -313,3 +313,10 @@ textarea:focus, input:focus, select:focus {
   font-size: 26px;
   text-align: center;
 }
+
+.jb_contar {
+  background: #FAFAD2;
+  color: #556B2F;
+  font-size: 14px;
+  text-align: left;
+}
