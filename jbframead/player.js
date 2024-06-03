@@ -49,7 +49,7 @@ $( '#overlay, #close').on('click', function(event) {
 $( '#show').on('click', function(event) {
     $("#contcanal, #overlay").show();
 	var a = document.getElementsByTagName('a').length;
-	document.getElementById("jb_contar").innerHTML = ('Quantidade: ' + a + ' Canais');
+	document.getElementById("jb_contar").innerHTML = ('☑ Quantidade: ' + a + ' Canais');
 });
 
 /*
