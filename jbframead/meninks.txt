@@ -4,8 +4,13 @@
 <label id="fechar-popup-btn" for="fechar-popup"></label>
 <div id="contcanal" style="display:none">
     <div class="white-content">
-<div id="close" title="Fechar PopUp">❌</div>
+<div id="close" title="Fechar PopUp">❎</div>
             <div class="boxtitle">Quantidade de Canais:</div>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
+<p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
 <p>Clique no botão (Close) ou em qualquer sítio fora da caixa branca para ocultar isto.</p>
 <p><div id="jb_contar"></div></p>
     </div>
