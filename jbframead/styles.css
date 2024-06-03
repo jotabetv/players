@@ -289,8 +289,8 @@ textarea:focus, input:focus, select:focus {
   cursor: pointer;
 
 position: absolute;
-  top: 20px;
-  right: 30px;
+  top: 15px;
+  right: 10px;
   transition: all 200ms;
   font-size: 30px;
   font-weight: bold;
