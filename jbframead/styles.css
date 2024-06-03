@@ -307,14 +307,14 @@ textarea:focus, input:focus, select:focus {
     position: fixed;
 }
 
-.boxtitle {
+#boxtitle {
   background: #5DB0EE;
   color: #fff;
   font-size: 26px;
   text-align: center;
 }
 
-.jb_contar {
+#jb_contar {
   background: #FAFAD2;
   color: #556B2F;
   font-size: 14px;
