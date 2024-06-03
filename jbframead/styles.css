@@ -283,7 +283,7 @@ textarea:focus, input:focus, select:focus {
 
 #close {
   float: right;
-  position: fixed;
+  position: static;
   font-size: 16px;
   //align-items: right;
   right: 15px;
