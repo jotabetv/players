@@ -41,6 +41,18 @@ function PopLink(){
 	$("#boxlink").load("meninks.txt");
 	}
 
+// Ao clicar nos elementos #overlay ou #close fecha a caixa
+$( '#overlay, #close').on('click', function(event) {
+    $("#contcanal, #overlay").hide();
+});
+
+$( '#show').on('click', function(event) {
+    $("#contcanal, #overlay").show();
+	var a = document.getElementsByTagName('a').length;
+	document.getElementById("jb_contar").innerHTML = ('Quantidade: ' + a + ' Canais');
+});
+
+/*
 $(document).ready(function(){
   
         $('.btn1').click(function(){
@@ -51,22 +63,6 @@ window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' 
  });
   
     });
-
-
-
-
-// Ao clicar nos elementos #overlay ou #close fecha a caixa
-$( '#overlay, #close').on('click', function(event) {
-    $("#contcanal, #overlay").hide();
-});
-
-$( '#show').on('click', function(event) {
-    $("#contcanal, #overlay").show();
-	var a = document.getElementsByTagName('a').length;
-	document.getElementById("jb_contar").innerHTML = ('Quantidade de Canais: ' + a);
-});
-
-/*
 
 function myFunction() {
 	var contar = document.getElementById("jb_contar");
