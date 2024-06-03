@@ -57,7 +57,7 @@ window.alert('Pop Beta ' + elementCount +' Canais e Pop Alfa ' + elementAlfa +' 
 function myFunction() {
 	var contar = document.getElementById("jb_contar");
 	var a = document.getElementsByTagName('a').length;
-var jb_contar = ('Quantidade de Canais: ' + a);
+jb_contar('Quantidade de Canais: ' + a);
   var popup = document.getElementById("myPopup");
   popup.classList.toggle("show");
 }
