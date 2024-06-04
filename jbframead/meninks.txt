@@ -8,17 +8,17 @@
             <div class="boxtitle">Quantidade de Canais:</div>
 <div class="jb_vai" id="jb_alfa"></div>
 <div class="jb_vem" id="jb_beta"></div>
-<div class="jb_vai" id="jb_alfa1"></div>
-<div class="jb_vem" id="jb_beta1"></div>
-<div class="jb_vai" id="jb_alfa2"></div>
-<div class="jb_vem" id="jb_beta2"></div>
-<div class="jb_vai" id="jb_alfa3"></div>
-<div class="jb_vem" id="jb_beta3"></div>
-<div class="jb_vai" id="jb_alfa4"></div>
-<div class="jb_vem" id="jb_beta4"></div>
-<div class="jb_vai" id="jb_alfa5"></div>
-<div class="jb_vem" id="jb_beta5"></div>
-<div class="jb_vai" id="jb_alfa6"></div>
+<div class="jb_vai" id="jb_aberta"></div>
+<div class="jb_vem" id="jb_cultur"></div>
+<div class="jb_vai" id="jb_esport"></div>
+<div class="jb_vem" id="jb_filmes"></div>
+<div class="jb_vai" id="jb_globos"></div>
+<div class="jb_vem" id="jb_infant"></div>
+<div class="jb_vai" id="jb_notici"></div>
+<div class="jb_vem" id="jb_realit"></div>
+<div class="jb_vai" id="jb_religi"></div>
+<div class="jb_vem" id="jb_varied"></div>
+<div class="jb_vai" id="jb_movies"></div>
 <div class="jb_vem" id="jb_beta6"></div>
     </div>
 </div>
