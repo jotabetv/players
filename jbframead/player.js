@@ -61,7 +61,7 @@ $( '#show').on('click', function(event) {
 	var contReligi = $('#religi a').length;
 	var contVaried = $('#varied a').length;
 	var contMovies = $('#movies a').length;
-	var contAlfa6 = $('#alfa6 a').length;
+	var contAlfa6 = $('#beta6 a').length;
 	document.getElementById("jb_beta").innerHTML = ('☑ Box Beta: ' + contBeta + ' Canais');
 	document.getElementById("jb_alfa").innerHTML = ('☑ Box Alfa: ' + contAlfa + ' Canais');
 	document.getElementById("jb_aberta").innerHTML = ('☑ TV Aberta: ' + contAberta + ' Canais');
@@ -75,7 +75,7 @@ $( '#show').on('click', function(event) {
 	document.getElementById("jb_religi").innerHTML = ('☑ Religiosos: ' + contReligi + ' Canais');
 	document.getElementById("jb_varied").innerHTML = ('☑ Variedades: ' + contVaried + ' Canais');
 	document.getElementById("jb_movies").innerHTML = ('☑ Movies: ' + contMovies + ' Canais');
-	document.getElementById("jb_alfa6").innerHTML = ('☑ Quantidade: ' + contAlfa6 + ' Canais');
+	document.getElementById("jb_beta6").innerHTML = ('☑ Quantidade: ' + contBeta6 + ' Canais');
 });
 
 /*
