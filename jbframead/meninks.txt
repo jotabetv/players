@@ -6,15 +6,20 @@
     <div class="white-content">
 <button id="close" title="Fechar PopUp">🚪</button>
             <div class="boxtitle">Quantidade de Canais:</div>
-<div class="jb_contar"></div>
-<p>Clique no botão (Close).</p>
-<p>Clique no botão (Close).</p>
-<p>Clique no botão (Close).</p>
-<p>Clique no botão (Close).</p>
-<p>Clique no botão (Close).</p>
 <div class="jb_vai" id="jb_alfa"></div>
 <div class="jb_vem" id="jb_beta"></div>
-
+<div class="jb_vai" id="jb_alfa1"></div>
+<div class="jb_vem" id="jb_beta1"></div>
+<div class="jb_vai" id="jb_alfa2"></div>
+<div class="jb_vem" id="jb_beta2"></div>
+<div class="jb_vai" id="jb_alfa3"></div>
+<div class="jb_vem" id="jb_beta3"></div>
+<div class="jb_vai" id="jb_alfa4"></div>
+<div class="jb_vem" id="jb_beta4"></div>
+<div class="jb_vai" id="jb_alfa5"></div>
+<div class="jb_vem" id="jb_beta5"></div>
+<div class="jb_vai" id="jb_alfa6"></div>
+<div class="jb_vem" id="jb_beta6"></div>
     </div>
 </div>
 <div id="overlay" style="display:none"></div>
