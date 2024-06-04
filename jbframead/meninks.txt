@@ -32,7 +32,7 @@
 </div>
 <div class="canais" id="alfa">
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
-<p><div class="categoria" id="aberta" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div></p>
+<div class="categoria" id="aberta" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=record" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
@@ -41,7 +41,7 @@
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bobonordeste" target="jb_player" title="Selecionar Canal">TV GLOBO PERNAMBUCO</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=boborj" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bobosp" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
-<p><div class="categoria" id="cultur" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div></p>
+<div class="categoria" id="cultur" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=animalplanet" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=arte1" target="jb_player" title="Selecionar Canal">ARTE 1</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=discovery" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
@@ -495,7 +495,7 @@
 <p><div class="categoria" id="varied" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div></p>
 <p><label id="ch">📺 <a href="https://embedflix.online/tv/investigacao-discovery" target="jb_player" title="Selecionar Canal">ID</a></label></p>
 <p><label id="ch">📺 <a href="https://embedflix.online/tv/multishow" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
-<p><div class="categoria" id="globos" title="Generalistas">▂ ▃ ▆ 🌍 GLOBOS ▆ ▃ ▂</div></p>
+<div class="categoria" id="globos" title="Generalistas">▂ ▃ ▆ 🌍 GLOBOS ▆ ▃ ▂</div>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvbahia" target="jb_player" title="Selecionar Canal">TV BAHIA</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsantacruz" target="jb_player" title="Selecionar Canal">TV SANTA CRUZ</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=globoba-tvsudoeste" target="jb_player" title="Selecionar Canal">TV SUDOESTE</a></label></p>
