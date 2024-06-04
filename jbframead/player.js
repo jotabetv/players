@@ -52,6 +52,18 @@ $( '#show').on('click', function(event) {
 	var contAlfa = $('#alfa a').length;
 	document.getElementById("jb_beta").innerHTML = ('☑ Quantidade: ' + contBeta + ' Canais');
 	document.getElementById("jb_alfa").innerHTML = ('☑ Quantidade: ' + contAlfa + ' Canais');
+	document.getElementById("jb_beta1").innerHTML = ('☑ Quantidade: ' + contBeta1 + ' Canais');
+	document.getElementById("jb_alfa1").innerHTML = ('☑ Quantidade: ' + contAlfa1 + ' Canais');
+	document.getElementById("jb_beta2").innerHTML = ('☑ Quantidade: ' + contBeta2 + ' Canais');
+	document.getElementById("jb_alfa2").innerHTML = ('☑ Quantidade: ' + contAlfa2 + ' Canais');
+	document.getElementById("jb_beta3").innerHTML = ('☑ Quantidade: ' + contBeta3 + ' Canais');
+	document.getElementById("jb_alfa3").innerHTML = ('☑ Quantidade: ' + contAlfa3 + ' Canais');
+	document.getElementById("jb_beta4").innerHTML = ('☑ Quantidade: ' + contBeta4 + ' Canais');
+	document.getElementById("jb_alfa4").innerHTML = ('☑ Quantidade: ' + contAlfa4 + ' Canais');
+	document.getElementById("jb_beta5").innerHTML = ('☑ Quantidade: ' + contBeta5 + ' Canais');
+	document.getElementById("jb_alfa5").innerHTML = ('☑ Quantidade: ' + contAlfa5 + ' Canais');
+	document.getElementById("jb_beta6").innerHTML = ('☑ Quantidade: ' + contBeta6 + ' Canais');
+	document.getElementById("jb_alfa6").innerHTML = ('☑ Quantidade: ' + contAlfa6 + ' Canais');
 });
 
 /*
