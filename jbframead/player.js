@@ -50,6 +50,18 @@ $( '#show').on('click', function(event) {
     $("#contcanal, #overlay").show();
 	var contBeta = $('#beta a').length;
 	var contAlfa = $('#alfa a').length;
+	var contBeta1 = $('#beta1 a').length;
+	var contAlfa1 = $('#alfa1 a').length;
+	var contBeta2 = $('#beta2 a').length;
+	var contAlfa2 = $('#alfa2 a').length;
+	var contBeta3 = $('#beta3 a').length;
+	var contAlfa3 = $('#alfa3 a').length;
+	var contBeta4 = $('#beta4 a').length;
+	var contAlfa4 = $('#alfa4 a').length;
+	var contBeta5 = $('#beta5 a').length;
+	var contAlfa5 = $('#alfa5 a').length;
+	var contBeta6 = $('#beta6 a').length;
+	var contAlfa6 = $('#alfa6 a').length;
 	document.getElementById("jb_beta").innerHTML = ('☑ Quantidade: ' + contBeta + ' Canais');
 	document.getElementById("jb_alfa").innerHTML = ('☑ Quantidade: ' + contAlfa + ' Canais');
 	document.getElementById("jb_beta1").innerHTML = ('☑ Quantidade: ' + contBeta1 + ' Canais');
