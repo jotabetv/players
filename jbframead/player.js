@@ -38,10 +38,10 @@ function play(){
     }
 
 function PopLink(){
-	let jb_canais = document.getElementById("alfa");
-	let texto = document.getElementsByTagName('a')[0].textContent;   // pega o texto
-let novo = texto.replace('/sinalpublico.co', '/xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd9deblk2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b');  
 	$("#boxlink").load("meninks.txt");
+	var jb_canais = document.getElementById("alfa");
+	var texto = document.getElementsByTagName('a')[0].textContent;   // pega o texto
+var novo = texto.replace('/sinalpublico.co', '/xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd9deblk2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b');  
 	}
 // Ao clicar nos elementos #overlay ou #close fecha a caixa
 $( '#overlay, #close').on('click', function(event) {
