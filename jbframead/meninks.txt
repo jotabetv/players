@@ -29,7 +29,7 @@
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
-<div class="advertise">LISTA DE LINKS<button type="button" id="bto3" onclick="mudalink()" title="Click para atualizar links!">▲</button><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
+<div class="advertise">LISTA DE LINKS<button type="button" id="bto3" onclick="mudalink()" title="Click para atualizar links!">i</button><label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 
 <div id="show" title="Total de Canais">📜</div>
 </div>
