@@ -3,14 +3,14 @@
 <input id="fechar-popup" name="popup" type="radio" hidden checked>
 <label id="abrir-popup-btn" for="abrir-popup">🔎</label>
 <label id="fechar-popup-btn" for="fechar-popup"></label>
-
+<a class='btn' href='#'>Click me</a>
 <script type="text/javascript"> 
-var remove = "sinalpublico.co";
-var newLink = "xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd9deblk2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b";
-$('[class="categoria"]').each(function(){
-  var link = $(this).attr('href');
-  $(this).attr('href', link.replace(remove, newLink));
+$('a.btn').click(function(e){
+	e.preventDefault;
+	var newHref = 'xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd9deblk2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b';
+  $('a.theLink').attr('sinalpublico.co', newHref);
 })
+
 </script>
 
 <div id="contcanal" style="display:none">
@@ -45,10 +45,10 @@ $('[class="categoria"]').each(function(){
 <p><label id="icone"> 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠 💠</label></p>
 <div class="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div>
 <div id="aberta">
-<p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
-<p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=record" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
-<p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
-<p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="ch">📺 <a class='theLink' href="https://sinalpublico.co/player3/ch.php?canal=band" target="jb_player" title="Selecionar Canal">BAND</a></label></p>
+<p><label id="ch">📺 <a class='theLink' href="https://sinalpublico.co/player3/ch.php?canal=record" target="jb_player" title="Selecionar Canal">RECORDTV</a></label></p>
+<p><label id="ch">📺 <a class='theLink' href="https://sinalpublico.co/player3/ch.php?canal=redetv" target="jb_player" title="Selecionar Canal">REDE TV</a></label></p>
+<p><label id="ch">📺 <a class='theLink' href="https://sinalpublico.co/player3/ch.php?canal=sbt" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=cancaonova" target="jb_player" title="Selecionar Canal">TV CANÇÃO NOVA</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=bobonordeste" target="jb_player" title="Selecionar Canal">TV GLOBO PERNAMBUCO</a></label></p>
 <p><label id="ch">📺 <a href="https://sinalpublico.co/player3/ch.php?canal=boborj" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
