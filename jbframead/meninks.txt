@@ -4,16 +4,6 @@
 <label id="abrir-popup-btn" for="abrir-popup">🔎</label>
 <label id="fechar-popup-btn" for="fechar-popup"></label>
 
-<script type="text/javascript"> 
-function mudlink(){
-var as = document.getElementsByTagName('a');
-for( var i=0; i<as.length; i++ )
-{
-as[i].href = as[i].href.replace('/sinalpublico.co/','/xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja7ccgu2b4b0gd9deblk2jpa1b1e9zva7a0347s4da2797e8qri.xn--1ck2e1b/');
-}
-};
-</script>
-
 <div id="contcanal" style="display:none">
     <div class="white-content">
 <button id="close" title="Fechar PopUp">🚪</button>
@@ -39,9 +29,9 @@ as[i].href = as[i].href.replace('/sinalpublico.co/','/xn----------------g34l3fkp
 <div id="menualfa">
 <div id="menubeta">
 <div id="menupop">
-<div class="advertise" id="bto3" onclick="mudlink()">LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
-
-<button type="button" id="bto3" onclick="mudlink()" title="Click para iniciar reprodução">▶</button>
+<div class="advertise" id="bto3" onclick="mudalink()"><button type="button" id="bto3" onclick="mudalink()">▲</button>LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
+<button type="button" id="bto3" onclick="mudalink()">▲</button>
+<button type="button" id="bto3" onclick="mudalink()" title="Click para atualizar links!">▲</button>
 <div id="show" title="Total de Canais">📜</div>
 </div>
 <div class="canais" id="alfa">
