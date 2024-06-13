@@ -369,3 +369,10 @@ cursor: pointer;
   font-size: 14px;
   text-align: left;
 }
+
+.btn3 {
+  //background: #A9A9A9;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+}
