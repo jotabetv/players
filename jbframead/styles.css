@@ -247,18 +247,6 @@ textarea:focus, input:focus, select:focus {
   text-align: center;
 }
 
-#icone {
-  //background: #A9A9A9;
-  //color: #ffffff;
-  //position: fixed;
-  //font-size: 16px;
- //align-items: center;
-  //text-align: center;
-  //center: 0;
-   //cursor: pointer;
-   // color: red;
-}
-
 #ch {
   //background: #A9A9A9;
   //color: #ffffff;
@@ -288,38 +276,10 @@ textarea:focus, input:focus, select:focus {
   display: inline;
   bottom:6px;
   right:15px;
-//position: fixed;
-//bottom: 50px;
-z-index: 2000;
-cursor: pointer;
-//outline: none !important;
-//padding: 10px;
-//border: 1px solid #4cae4c;
-//background: #4cae4c;
-//font-size: 18px;
-//color: #fff;
-//width: 90%;
-//margin-left: 5%;
-  //float: right;  
-  //font-size: 16px;
-  //align-items: right;
-  //right: 15px;
-  //cursor: pointer;
-//position: absolute;
-    //display:scroll;
-  //position:fixed !important;
- // float: right;
- // display: inline;
-  //  bottom:6px;
- // top: 2px;
-//  right: 3px;
- // transition: all 200ms;
- // font-size: 30px;
- // font-weight: bold;
- // text-decoration: none;
- // color: #333;
- // z-index: 2000;
+  z-index: 2000;
+  cursor: pointer;
 }
+
 #close:hover {
   color: #06D85F;
 }
@@ -372,8 +332,8 @@ cursor: pointer;
 
 #bto3 {
   //background: #A9A9A9;
- // color: #ffffff;
-  font-size: 18px;
+  color: #F0E68C;
+  font-size: 24px;
   text-align: center;
   align-items: center;
   cursor: pointer;
