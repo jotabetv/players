@@ -228,7 +228,7 @@ textarea:focus, input:focus, select:focus {
   color: #ffffff;
   font-size: 24px;
   text-align: center;
-  top: 10px;
+  top: 5px;
 }
 #fechar-pop {
   //background: #A9A9A9;
@@ -337,6 +337,6 @@ textarea:focus, input:focus, select:focus {
   font-size: 24px;
   text-align: center;
   align-items: center;
-  top: 10px;
+  top: 5px;
   cursor: pointer;
 }
