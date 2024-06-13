@@ -31,7 +31,6 @@
 <div id="menupop">
 <div class="advertise"><button type="button" id="bto3" onclick="mudalink()" title="Click para atualizar links!>▲</button>LISTA DE LINKS<label id="fechar-pop" for="fechar-popup" title="Fechar PopUp">🔐</label></div>
 
-
 <div id="show" title="Total de Canais">📜</div>
 </div>
 <div class="canais" id="alfa">
