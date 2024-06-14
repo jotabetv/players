@@ -349,7 +349,7 @@ textarea:focus, input:focus, select:focus {
   font-size: 24px;
   //text-align: center;
   //align-items: center;
-    center: 10px;
+    center: -30px;
   top: 5px;
   //cursor: pointer;
 }
