@@ -255,6 +255,7 @@
 <p><label id="ch">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv" target="jb_player" title="Selecionar Canal">SPORTV</a></label></p>
 <p><label id="ch">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv2" target="jb_player" title="Selecionar Canal">SPORTV 2</a></label></p>
 <p><label id="ch">📺 <a href="https://meuplayeronlinehd.com/myplay/watch2.html?id=sportv3" target="jb_player" title="Selecionar Canal">SPORTV 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/premiere1.php" target="jb_player" title="Selecionar Canal">PFC</a></label></p>
 </div>
 <div class="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES 2▆ ▃ ▂</div>
 <div id="esport">
