@@ -347,8 +347,9 @@ textarea:focus, input:focus, select:focus {
   //background: #A9A9A9;
   color: #E6E6FA;
   font-size: 24px;
-  text-align: center;
-  align-items: center;
+  //text-align: center;
+  //align-items: center;
+    center: 10px;
   top: 5px;
   //cursor: pointer;
 }
