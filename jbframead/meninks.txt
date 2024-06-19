@@ -801,5 +801,158 @@
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=trutv" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
 <p><label id="ch">📺 <a href="https://reidoscanais.app/embed/?id=viva" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
 </div>
+<div class="categoria" title="Generalistas">▂ ▃ ▆ 🌎 TV ABERTA ▆ ▃ ▂</div>
+<div id="aberta">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/band.php" target="jb_player" title="Selecionar Canal">BAND TV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/band1.php" target="jb_player" title="Selecionar Canal">BAND TV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/recordSP.php" target="jb_player" title="Selecionar Canal">RECORD TV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sbt.php" target="jb_player" title="Selecionar Canal">SBT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoPR.php" target="jb_player" title="Selecionar Canal">RPC CURITIBA</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoBA.php" target="jb_player" title="Selecionar Canal">TV BAHIA</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoMG.php" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoMG2.php" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoMG3.php" target="jb_player" title="Selecionar Canal">TV GLOBO MINAS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoRJ.php" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoRJ2.php" target="jb_player" title="Selecionar Canal">TV GLOBO RIO DE JANEIRO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoSP.php" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoSP2.php" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globoSP3.php" target="jb_player" title="Selecionar Canal">TV GLOBO SÃO PAULO</a></label></p>
+</div>
+<div class="categoria" title="Aventura, Documentários e Factuais">▂ ▃ ▆ 📚 CULTURA ▆ ▃ ▂</div>
+<div id="cultur">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/animalplanet.php" target="jb_player" title="Selecionar Canal">ANIMAL PLANET</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/arte1.php" target="jb_player" title="Selecionar Canal">ARTE 1</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoverychannel.php" target="jb_player" title="Selecionar Canal">DISCOVERY CHANNEL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoveryheh.php" target="jb_player" title="Selecionar Canal">DISCOVERY H&H</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoveryscience.php" target="jb_player" title="Selecionar Canal">DISCOVERY SCIENCE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoverytheater.php" target="jb_player" title="Selecionar Canal">DISCOVERY THEATER</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoveryturbo.php" target="jb_player" title="Selecionar Canal">DISCOVERY TURBO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoveryworld.php" target="jb_player" title="Selecionar Canal">DISCOVERY WORLD</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/history.php" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/historyb.php" target="jb_player" title="Selecionar Canal">HISTORY</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/history2.php" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/historyb2.php" target="jb_player" title="Selecionar Canal">HISTORY 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoveryid.php" target="jb_player" title="Selecionar Canal">DISCOVERY ID</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/nationalgeographic.php" target="jb_player" title="Selecionar Canal">NATIONAL GEOGRAPHIC</a></label></p>
+</div>
+<div class="categoria" title="Esportivos">▂ ▃ ▆ ⚽ ESPORTES ▆ ▃ ▂</div>
+<div id="esport">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/bandsports.php" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/bandsports2.php" target="jb_player" title="Selecionar Canal">BANDSPORTS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/canaloff.php" target="jb_player" title="Selecionar Canal">CANAL OFF</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cazetv1.php" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cazetv2.php" target="jb_player" title="Selecionar Canal">CAZÉTVX</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cazetv3.php" target="jb_player" title="Selecionar Canal">CAZÉTV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/combate.php" target="jb_player" title="Selecionar Canal">COMBATE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn1.php" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn1b.php" target="jb_player" title="Selecionar Canal">ESPN</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn2.php" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn2b.php" target="jb_player" title="Selecionar Canal">ESPN 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn3.php" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn3b.php" target="jb_player" title="Selecionar Canal">ESPN 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn4.php" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn4b.php" target="jb_player" title="Selecionar Canal">ESPN 4</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn5.php" target="jb_player" title="Selecionar Canal">ESPN 5</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn6.php" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/espn6b.php" target="jb_player" title="Selecionar Canal">ESPN 6</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/nossofutebol.php" target="jb_player" title="Selecionar Canal">NOSSO FUTEBOL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountmais1.php" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 1</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountmais2.php" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountmais3.php" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountmais4.php" target="jb_player" title="Selecionar Canal">PARAMOUNT PLUS 4</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/premiere1.php" target="jb_player" title="Selecionar Canal">PREMIERE CLUBES</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/premiere2.php" target="jb_player" title="Selecionar Canal">PREMIERE 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/premiere3.php" target="jb_player" title="Selecionar Canal">PREMIERE 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/premiere4.php" target="jb_player" title="Selecionar Canal">PREMIERE 4</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sportv1.php" target="jb_player" title="Selecionar Canal">SPORT TV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sportv2.php" target="jb_player" title="Selecionar Canal">SPORT TV 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sportv3.php" target="jb_player" title="Selecionar Canal">SPORT TV 3</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/ufcfightpass.php" target="jb_player" title="Selecionar Canal">UFC FIGHT PASS</a></label></p>
+</div>
+<div class="categoria" title="Cinematográficos/Dramatúrgicos">▂ ▃ ▆ 🎥 FILMES ▆ ▃ ▂</div>
+<div id="filmes">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/ae.php" target="jb_player" title="Selecionar Canal">A&E</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/amc.php" target="jb_player" title="Selecionar Canal">AMC</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/axn.php" target="jb_player" title="Selecionar Canal">AXN</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/axn2.php" target="jb_player" title="Selecionar Canal">AXN</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/canalbrasil.php" target="jb_player" title="Selecionar Canal">CANAL BRASIL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cinecanal.php" target="jb_player" title="Selecionar Canal">CINECANAL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cinemax.php" target="jb_player" title="Selecionar Canal">CINEMAX</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/comedycentral.php" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/comedycentral2.php" target="jb_player" title="Selecionar Canal">COMEDY CENTRAL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/e.php" target="jb_player" title="Selecionar Canal">E!</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/fx.php" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/fx2.php" target="jb_player" title="Selecionar Canal">FX</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hbo.php" target="jb_player" title="Selecionar Canal">HBO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hbo2.php" target="jb_player" title="Selecionar Canal">HBO 2</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hbofamily.php" target="jb_player" title="Selecionar Canal">HBO FAMILY</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hboplus.php" target="jb_player" title="Selecionar Canal">HBO PLUS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hbosignature.php" target="jb_player" title="Selecionar Canal">HBO SIGNATURE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/hboxtreme.php" target="jb_player" title="Selecionar Canal">HBO XTREME</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/megapix.php" target="jb_player" title="Selecionar Canal">MEGAPIX</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountnetwork.php" target="jb_player" title="Selecionar Canal">PARAMOUNT NETWORK</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/paramountnetwork2.php" target="jb_player" title="Selecionar Canal">PARAMOUNT NETWORK</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sonychannel.php" target="jb_player" title="Selecionar Canal">SONY CHANNEL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sonychannel2.php" target="jb_player" title="Selecionar Canal">SONY CHANNEL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sonymovies.php" target="jb_player" title="Selecionar Canal">SONY MOVIES</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/sonymovies2.php" target="jb_player" title="Selecionar Canal">SONY MOVIES</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/space.php" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/space2.php" target="jb_player" title="Selecionar Canal">SPACE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/starchannel.php" target="jb_player" title="Selecionar Canal">STAR CHANNEL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/studiouniversal.php" target="jb_player" title="Selecionar Canal">STUDIO UNIVERSAL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/syfy.php" target="jb_player" title="Selecionar Canal">SYFY</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcaction.php" target="jb_player" title="Selecionar Canal">TELECINE ACTION</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcaction2.php" target="jb_player" title="Selecionar Canal">TELECINE ACTION</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tccult.php" target="jb_player" title="Selecionar Canal">TELECINE CULT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcfun.php" target="jb_player" title="Selecionar Canal">TELECINE FUN</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcpipoca.php" target="jb_player" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcpipoca2.php" target="jb_player" title="Selecionar Canal">TELECINE PIPOCA</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcpremium.php" target="jb_player" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tcpremium2.php" target="jb_player" title="Selecionar Canal">TELECINE PREMIUM</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tctouch.php" target="jb_player" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tctouch2.php" target="jb_player" title="Selecionar Canal">TELECINE TOUCH</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tlc.php" target="jb_player" title="Selecionar Canal">TLC</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tnt.php" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tnt2.php" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/tnt3.php" target="jb_player" title="Selecionar Canal">TNT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/universaltv.php" target="jb_player" title="Selecionar Canal">UNIVERSAL TV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/usa.php" target="jb_player" title="Selecionar Canal">USA</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/warnertv.php" target="jb_player" title="Selecionar Canal">WARNER TV</a></label></p>
+</div>
+<div class="categoria" title="Crianças e Pré-Adolescentes">▂ ▃ ▆ 🧘‍♀️ INFANTIS ▆ ▃ ▂</div>
+<div id="infant">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cartoonnetwork.php" target="jb_player" title="Selecionar Canal">CARTOON NETWORK</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/discoverykids.php" target="jb_player" title="Selecionar Canal">DISCOVERY KIDS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/disneychannel.php" target="jb_player" title="Selecionar Canal">DISNEY CHANNEL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/gloob.php" target="jb_player" title="Selecionar Canal">GLOOB</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/gloobinho.php" target="jb_player" title="Selecionar Canal">GLOOBINHO</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/nickelodeon.php" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/nickelodeon2.php" target="jb_player" title="Selecionar Canal">NICKELODEON</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/nickjr.php" target="jb_player" title="Selecionar Canal">NICK JR.</a></label></p>
+</div>
+<div class="categoria" title="Jornalísticos">▂ ▃ ▆ 🎤 NOTÍCIAS ▆ ▃ ▂</div>
+<div id="notici">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/bandnews.php" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/bandnews2.php" target="jb_player" title="Selecionar Canal">BANDNEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/cnnbrasil.php" target="jb_player" title="Selecionar Canal">CNN BRASIL</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/globonews.php" target="jb_player" title="Selecionar Canal">GLOBONEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/jovempan.php" target="jb_player" title="Selecionar Canal">JOVEM PAN NEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/jovempan2.php" target="jb_player" title="Selecionar Canal">JOVEM PAN NEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/recordnews.php" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/recordnews2.php" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/recordnews3.php" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/recordnews4.php" target="jb_player" title="Selecionar Canal">RECORDNEWS</a></label></p>
+</div>
+<div class="categoria" title="Entretenimento, Artes e Variedades">▂ ▃ ▆ 🛒 VARIEDADES ▆ ▃ ▂</div>
+<div id="varied">
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/bis.php" target="jb_player" title="Selecionar Canal">BIS</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/gnt.php" target="jb_player" title="Selecionar Canal">GNT</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/lifetime2.php" target="jb_player" title="Selecionar Canal">LIFETIME</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/mtv2.php" target="jb_player" title="Selecionar Canal">MTV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/mtvlive.php" target="jb_player" title="Selecionar Canal">MTV LIVE</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/multishow.php" target="jb_player" title="Selecionar Canal">MULTISHOW</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/trutv.php" target="jb_player" title="Selecionar Canal">TRUTV</a></label></p>
+<p><label id="ch">📺 <a href="https://embedmax.site/tvl/viva.php" target="jb_player" title="Selecionar Canal">VIVA</a></label></p>
+</div>
 </div>
 </div>
